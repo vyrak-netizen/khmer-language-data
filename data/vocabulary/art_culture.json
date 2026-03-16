@@ -1,0 +1,246 @@
+{
+  "id": "art_culture",
+  "label": "Art & Culture",
+  "items": [
+    {
+      "char": "តន្ត្រី",
+      "name": "Music (Tontrei)"
+    },
+    {
+      "char": "របាំ",
+      "name": "Dance (Robam)"
+    },
+    {
+      "char": "បទចម្រៀង",
+      "name": "Song (Bot chomrieng)"
+    },
+    {
+      "char": "ភ្លេង",
+      "name": "Melody / Music (Phleng)"
+    },
+    {
+      "char": "វប្បធម៌",
+      "name": "Culture (Voppoathor)"
+    },
+    {
+      "char": "សិល្បៈ",
+      "name": "Art (Selbok)"
+    },
+    {
+      "char": "រូបភាព",
+      "name": "Picture / Image (Rub pheap)"
+    },
+    {
+      "char": "គំនូរ",
+      "name": "Drawing / Painting (Komnour)"
+    },
+    {
+      "char": "វិចិត្រករ",
+      "name": "Artist / Painter (Vichettrokor)"
+    },
+    {
+      "char": "រូបចម្លាក់",
+      "name": "Sculpture (Rub chomlag)"
+    },
+    {
+      "char": "ប្រាសាទ",
+      "name": "Temple / Monument (Prasat)"
+    },
+    {
+      "char": "ខ្សែភាពយន្ត",
+      "name": "Film / Movie (Khsae pheapyont)"
+    },
+    {
+      "char": "រោងកុន",
+      "name": "Cinema (Roung kon)"
+    },
+    {
+      "char": "តារាសម្ដែង",
+      "name": "Actor / Actress (Tara somdaeng)"
+    },
+    {
+      "char": "ល្ខោន",
+      "name": "Theatre / Play (Lkhon)"
+    },
+    {
+      "char": "ការសម្ដែង",
+      "name": "Performance (Kar somdaeng)"
+    },
+    {
+      "char": "អ្នកច្រៀង",
+      "name": "Singer (Nak chrieng)"
+    },
+    {
+      "char": "តន្ត្រីករ",
+      "name": "Musician (Tontreikor)"
+    },
+    {
+      "char": "គ្រឿងតន្ត្រី",
+      "name": "Musical Instrument (Kroeung tontrei)"
+    },
+    {
+      "char": "ស្គរ",
+      "name": "Drum (Skor)"
+    },
+    {
+      "char": "ខ្លុយ",
+      "name": "Flute (Khloy)"
+    },
+    {
+      "char": "តាខេ",
+      "name": "Takhe (Zither) (Ta khe)"
+    },
+    {
+      "char": "ពិណ",
+      "name": "Harp (Pin)"
+    },
+    {
+      "char": "វង្សភ្លេង",
+      "name": "Orchestra / Band (Vong phleng)"
+    },
+    {
+      "char": "ពិព័រណ៍",
+      "name": "Exhibition (Pipoan)"
+    },
+    {
+      "char": "សារមន្ទីរ",
+      "name": "Museum (Sar monthir)"
+    },
+    {
+      "char": "វិចិត្រសាល",
+      "name": "Art Gallery (Vichettro sal)"
+    },
+    {
+      "char": "អាគារ",
+      "name": "Building / Architecture (Akar)"
+    },
+    {
+      "char": "ស្ថាបត្យកម្ម",
+      "name": "Architecture (Sthapatya kamm)"
+    },
+    {
+      "char": "អនុស្សាវរីយ៍",
+      "name": "Monument / Memorial (Anussavori)"
+    },
+    {
+      "char": "រូបសំណាក់",
+      "name": "Statue (Rub somnag)"
+    },
+    {
+      "char": "ជញ្ជាំងគំនូរ",
+      "name": "Mural (Chonchieng komnour)"
+    },
+    {
+      "char": "សិល្បករ",
+      "name": "Artist (Selpakor)"
+    },
+    {
+      "char": "អក្សរសាស្ត្រ",
+      "name": "Literature (Aksorasar)"
+    },
+    {
+      "char": "កំណាព្យ",
+      "name": "Poetry (Komnoapy)"
+    },
+    {
+      "char": "រឿង",
+      "name": "Story / Tale (Roeung)"
+    },
+    {
+      "char": "សៀវភៅ",
+      "name": "Book (Siev phov)"
+    },
+    {
+      "char": "អ្នកនិពន្ធ",
+      "name": "Author / Writer (Nak nipon)"
+    },
+    {
+      "char": "ប្រពៃណី",
+      "name": "Tradition (Bropeni)"
+    },
+    {
+      "char": "បេតិកភណ្ឌ",
+      "name": "Heritage (Betekphon)"
+    },
+    {
+      "char": "ពិធីបុណ្យ",
+      "name": "Festival / Ceremony (Piti bony)"
+    },
+    {
+      "char": "រាំ",
+      "name": "To Dance (Rom)"
+    },
+    {
+      "char": "របាំអប្សរា",
+      "name": "Apsara Dance (Robam Apsara)"
+    },
+    {
+      "char": "ថតរូប",
+      "name": "Photography (Thot rub)"
+    },
+    {
+      "char": "ជាងថតរូប",
+      "name": "Photographer (Cheang thot rub)"
+    },
+    {
+      "char": "ពណ៌",
+      "name": "Color (Poa)"
+    },
+    {
+      "char": "ថ្នាំលាប",
+      "name": "Paint (Thnam leab)"
+    },
+    {
+      "char": "ក្រណាត់",
+      "name": "Canvas / Cloth (Kronot)"
+    },
+    {
+      "char": "សសរស្តម្ភ",
+      "name": "Column / Pillar (Sasor stomp)"
+    },
+    {
+      "char": "ការជ្រោះ",
+      "name": "Engraving / Carving (Kar chroah)"
+    },
+    {
+      "char": "ឆាក",
+      "name": "Stage / Scene (Chak)"
+    },
+    {
+      "char": "អ្នកនិពន្ធតន្ត្រី",
+      "name": "Composer (Nak nipon tontrei)"
+    },
+    {
+      "char": "ទំនុកច្រៀង",
+      "name": "Lyrics (Tomnok chrieng)"
+    },
+    {
+      "char": "ចង្វាក់",
+      "name": "Rhythm / Beat (Chongvak)"
+    },
+    {
+      "char": "សូរស័ព្ទ",
+      "name": "Sound / Tone (Sorasap)"
+    },
+    {
+      "char": "ការបញ្ចាំង",
+      "name": "Screening / Projection (Kar bonchang)"
+    },
+    {
+      "char": "អំពើខ្មោច",
+      "name": "Shadow Puppetry (Ompoe khmoch)"
+    },
+    {
+      "char": "រឿងព្រេង",
+      "name": "Legend / Folklore (Roeung preng)"
+    },
+    {
+      "char": "ចម្លាក់",
+      "name": "Carving / Relief (Chomlag)"
+    },
+    {
+      "char": "ទំនៀមទម្លាប់",
+      "name": "Custom / Habit (Tomniem tomlap)"
+    }
+  ]
+}

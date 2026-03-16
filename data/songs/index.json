@@ -94,5 +94,11 @@
     "artist": "Zedes",
     "name": "Jak",
     "translation": ""
+  },
+  {
+    "file": "vyrak-dev.json",
+    "artist": "Vyrak",
+    "name": "Dev",
+    "translation": ""
   }
 ]

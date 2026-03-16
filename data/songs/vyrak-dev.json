@@ -4,14 +4,14 @@
   "artist": "Vyrak",
   "lines": [
     {
-      "line": "Call បងយប់នេះ កុំបាច់ត្រិះរិះ",
-      "translation": "Call me tonight, do not think",
-      "phonetic": "call  bng yb nih  kombach treahriah",
+      "line": "Test 2",
+      "translation": ".",
+      "phonetic": ".",
       "words": [
         {
-          "word": "Call HOUHOU",
-          "phonetic": "",
-          "translation": "Call"
+          "word": "Test 2",
+          "phonetic": ".",
+          "translation": "."
         }
       ]
     }

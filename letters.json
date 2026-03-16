@@ -1,0 +1,111 @@
+{
+  "tabs": [
+    {
+      "id": "consonants",
+      "label": "Consonants",
+      "chunkSizes": [5, 5, 5, 5, 5, 8],
+      "items": [
+        { "char": "ក", "sub": "្ក", "name": "Ka", "series": "a" },
+        { "char": "ខ", "sub": "្ខ", "name": "Kha", "series": "a" },
+        { "char": "គ", "sub": "្គ", "name": "Ko", "series": "o" },
+        { "char": "ឃ", "sub": "្ឃ", "name": "Kho", "series": "o" },
+        { "char": "ង", "sub": "្ង", "name": "Ngo", "series": "o" },
+        { "char": "ច", "sub": "្ច", "name": "Cha", "series": "a" },
+        { "char": "ឆ", "sub": "្ឆ", "name": "Chha", "series": "a" },
+        { "char": "ជ", "sub": "្ជ", "name": "Cho", "series": "o" },
+        { "char": "ឈ", "sub": "្ឈ", "name": "Chho", "series": "o" },
+        { "char": "ញ", "sub": "្ញ", "name": "Nho", "series": "o" },
+        { "char": "ដ", "sub": "្ដ", "name": "Da", "series": "a" },
+        { "char": "ឋ", "sub": "្ឋ", "name": "Tha", "series": "a" },
+        { "char": "ឌ", "sub": "្ឌ", "name": "Do", "series": "o" },
+        { "char": "ឍ", "sub": "្ឍ", "name": "Tho", "series": "o" },
+        { "char": "ណ", "sub": "្ណ", "name": "Na", "series": "a" },
+        { "char": "ត", "sub": "្ត", "name": "Ta", "series": "a" },
+        { "char": "ថ", "sub": "្ថ", "name": "Tha", "series": "a" },
+        { "char": "ទ", "sub": "្ទ", "name": "To", "series": "o" },
+        { "char": "ធ", "sub": "្ធ", "name": "Tho", "series": "o" },
+        { "char": "ន", "sub": "្ន", "name": "No", "series": "o" },
+        { "char": "ប", "sub": "្ប", "name": "Ba", "series": "a" },
+        { "char": "ផ", "sub": "្ផ", "name": "Pha", "series": "a" },
+        { "char": "ព", "sub": "្ព", "name": "Po", "series": "o" },
+        { "char": "ភ", "sub": "្ភ", "name": "Pho", "series": "o" },
+        { "char": "ម", "sub": "្ម", "name": "Mo", "series": "o" },
+        { "char": "យ", "sub": "្យ", "name": "Yo", "series": "o" },
+        { "char": "រ", "sub": "្រ", "name": "Ro", "series": "o" },
+        { "char": "ល", "sub": "្ល", "name": "Lo", "series": "o" },
+        { "char": "វ", "sub": "្វ", "name": "Vo", "series": "o" },
+        { "char": "ស", "sub": "្ស", "name": "Sa", "series": "a" },
+        { "char": "ហ", "sub": "្ហ", "name": "Ha", "series": "a" },
+        { "char": "ឡ", "sub": "", "name": "La", "series": "a" },
+        { "char": "អ", "sub": "្អ", "name": "Qa", "series": "a" }
+      ]
+    },
+    {
+      "id": "dependent-vowels",
+      "label": "Dependent Vowels",
+      "chunkSizes": [5, 6, 6, 6],
+      "items": [
+        { "char": "ា", "name": "aa" },
+        { "char": "ិ", "name": "i" },
+        { "char": "ី", "name": "ii" },
+        { "char": "ឹ", "name": "ue" },
+        { "char": "ឺ", "name": "uue" },
+        { "char": "ុ", "name": "u" },
+        { "char": "ូ", "name": "uu" },
+        { "char": "ួ", "name": "uoe" },
+        { "char": "ើ", "name": "aeu" },
+        { "char": "ឿ", "name": "uea" },
+        { "char": "ៀ", "name": "ie" },
+        { "char": "េ", "name": "ee" },
+        { "char": "ែ", "name": "ae" },
+        { "char": "ៃ", "name": "ai" },
+        { "char": "ោ", "name": "oo" },
+        { "char": "ៅ", "name": "au" },
+        { "char": "ុំ", "name": "om" },
+        { "char": "ំ", "name": "am" },
+        { "char": "ាំ", "name": "aam" },
+        { "char": "ះ", "name": "ah" },
+        { "char": "ុះ", "name": "uh" },
+        { "char": "េះ", "name": "eh" },
+        { "char": "ោះ", "name": "oh" }
+      ]
+    },
+    {
+      "id": "independent-vowels",
+      "label": "Independent Vowels",
+      "chunkSizes": [5, 4, 4],
+      "items": [
+        { "char": "ឥ", "name": "E" },
+        { "char": "ឦ", "name": "Ey" },
+        { "char": "ឧ", "name": "U" },
+        { "char": "ឨ", "name": "Uu" },
+        { "char": "ឪ", "name": "Ov" },
+        { "char": "ឫ", "name": "Rue" },
+        { "char": "ឬ", "name": "Ruue" },
+        { "char": "ឭ", "name": "Lue" },
+        { "char": "ឮ", "name": "Luue" },
+        { "char": "ឯ", "name": "Ae" },
+        { "char": "ឰ", "name": "Ai" },
+        { "char": "ឱ", "name": "Ao" },
+        { "char": "ឲ", "name": "Aoy" }
+      ]
+    },
+	{
+	  "id": "numbers",
+	  "label": "Numbers",
+	  "chunkSizes": [5, 5],
+	  "items": [
+		{ "char": "០", "name": "Zero (Soun)" },
+		{ "char": "១", "name": "One (Muoy)" },
+		{ "char": "២", "name": "Two (Pir)" },
+		{ "char": "៣", "name": "Three (Bei)" },
+		{ "char": "៤", "name": "Four (Buon)" },
+		{ "char": "៥", "name": "Five (Pram)" },
+		{ "char": "៦", "name": "Six (Pram-muoy)" },
+		{ "char": "៧", "name": "Seven (Pram-pir)" },
+		{ "char": "៨", "name": "Eight (Pram-bei)" },
+		{ "char": "៩", "name": "Nine (Pram-buon)" }
+	  ]
+	}
+  ]
+}

@@ -1,0 +1,4821 @@
+{
+  "name": "Born This Way",
+  "translation": "",
+  "artist": "Vannda",
+  "lines": [
+    {
+      "line": "តាំងពីតូចដល់ធំខុសគេ",
+      "translation": "Different from small to large",
+      "phonetic": "tangpi tauch dl thom khosake",
+      "words": [
+        {
+          "word": "តាំងពីតូច",
+          "phonetic": "tangpi tauch",
+          "translation": "Since childhood"
+        },
+        {
+          "word": "ដល់",
+          "phonetic": "dl",
+          "translation": "To"
+        },
+        {
+          "word": "ធំ",
+          "phonetic": "thom",
+          "translation": "Large"
+        },
+        {
+          "word": "ខុសគេ",
+          "phonetic": "khosake",
+          "translation": "Different"
+        }
+      ]
+    },
+    {
+      "line": "ចូលចិត្តរ៉េបចូលចិត្តភ្លេងនិងសសេរ",
+      "translation": "I like rap, I like music and writing.",
+      "phonetic": "chaulchett re b chaulchett phleng ning saser",
+      "words": [
+        {
+          "word": "ចូលចិត្ត",
+          "phonetic": "chaulchett",
+          "translation": "Like"
+        },
+        {
+          "word": "រ៉េប",
+          "phonetic": "re b",
+          "translation": "Rap"
+        },
+        {
+          "word": "ចូលចិត្ត",
+          "phonetic": "chaulchett",
+          "translation": "Like"
+        },
+        {
+          "word": "ភ្លេង",
+          "phonetic": "phleng",
+          "translation": "Music"
+        },
+        {
+          "word": "និង",
+          "phonetic": "ning",
+          "translation": "And"
+        },
+        {
+          "word": "សសេរ",
+          "phonetic": "saser",
+          "translation": "Write"
+        }
+      ]
+    },
+    {
+      "line": "ចូលចិត្តកំណាព្យហើយសសេរគ្រប់សំណេរ",
+      "translation": "Love poetry and write everything",
+      "phonetic": "chaulchett kamnapy haey sa ser krob saamner",
+      "words": [
+        {
+          "word": "ចូលចិត្ត",
+          "phonetic": "chaulchett",
+          "translation": "Like"
+        },
+        {
+          "word": "កំណាព្យ",
+          "phonetic": "kamnapy",
+          "translation": "Poetry"
+        },
+        {
+          "word": "ហើយ",
+          "phonetic": "haey",
+          "translation": "And"
+        },
+        {
+          "word": "សសេរ",
+          "phonetic": "saser",
+          "translation": "Write"
+        },
+        {
+          "word": "គ្រប់",
+          "phonetic": "krob",
+          "translation": "All"
+        },
+        {
+          "word": "សំណេរ",
+          "phonetic": "saamner",
+          "translation": "Writing"
+        }
+      ]
+    },
+    {
+      "line": "មានមិត្តគ្រប់ប្រភេទ But I walk on my way",
+      "translation": "Have all kinds of friends But I walk on my way",
+      "phonetic": "mean mitt krob braphet but i walk on my way",
+      "words": [
+        {
+          "word": "មាន",
+          "phonetic": "mean",
+          "translation": "Have"
+        },
+        {
+          "word": "មិត្ត",
+          "phonetic": "mit",
+          "translation": "Friend"
+        },
+        {
+          "word": "គ្រប់",
+          "phonetic": "krob",
+          "translation": "All"
+        },
+        {
+          "word": "ប្រភេទ",
+          "phonetic": "braphet",
+          "translation": "Category"
+        },
+        {
+          "word": "But",
+          "phonetic": "",
+          "translation": "But"
+        },
+        {
+          "word": "I",
+          "phonetic": "",
+          "translation": "I"
+        },
+        {
+          "word": "walk",
+          "phonetic": "",
+          "translation": "walk"
+        },
+        {
+          "word": "on",
+          "phonetic": "",
+          "translation": "on"
+        },
+        {
+          "word": "my",
+          "phonetic": "",
+          "translation": "my"
+        },
+        {
+          "word": "way",
+          "phonetic": "",
+          "translation": "way"
+        }
+      ]
+    },
+    {
+      "line": "ចង់ក្លាយជាអ្នករ៉េប ចង់ក្លាយជាអ្នកមាន",
+      "translation": "Want to be a rapper Want to be rich",
+      "phonetic": "chng klaycha anak re b  chng klaycha anakmean",
+      "words": [
+        {
+          "word": "ចង់",
+          "phonetic": "chng",
+          "translation": "Want"
+        },
+        {
+          "word": "ក្លាយ",
+          "phonetic": "klay",
+          "translation": "Become"
+        },
+        {
+          "word": "ជា",
+          "phonetic": "chea",
+          "translation": "Is"
+        },
+        {
+          "word": "អ្នក",
+          "phonetic": "anak",
+          "translation": "You"
+        },
+        {
+          "word": "រ៉េប",
+          "phonetic": "re b",
+          "translation": "Rap"
+        },
+        {
+          "word": "ចង់",
+          "phonetic": "chng",
+          "translation": "Want"
+        },
+        {
+          "word": "ក្លាយ",
+          "phonetic": "klay",
+          "translation": "Become"
+        },
+        {
+          "word": "ជា",
+          "phonetic": "chea",
+          "translation": "Is"
+        },
+        {
+          "word": "អ្នកមាន",
+          "phonetic": "anak mean",
+          "translation": "You are rich"
+        }
+      ]
+    },
+    {
+      "line": "ចង់បានធ្វើយ៉ាងណាខំរៀន",
+      "translation": "Want to do what I want to learn",
+      "phonetic": "chngban thveu yeangna khamrien",
+      "words": [
+        {
+          "word": "ចង់បាន",
+          "phonetic": "chngban",
+          "translation": "Want"
+        },
+        {
+          "word": "ធ្វើ",
+          "phonetic": "thveu",
+          "translation": "Do"
+        },
+        {
+          "word": "យ៉ាងណា",
+          "phonetic": "yeangna",
+          "translation": "How"
+        },
+        {
+          "word": "ខំរៀន",
+          "phonetic": "khamrien",
+          "translation": "Study hard"
+        }
+      ]
+    },
+    {
+      "line": "នេះមិនមែនសុបិន្ដហែងកុំញៀនត្រូវតែរៀន",
+      "translation": "This is not a dream, do not be addicted, must learn",
+      "phonetic": "nih minmen sobend heng kom nhien trauvte rien",
+      "words": [
+        {
+          "word": "នេះ",
+          "phonetic": "nih",
+          "translation": "This"
+        },
+        {
+          "word": "មិនមែន",
+          "phonetic": "minmen",
+          "translation": "Is not"
+        },
+        {
+          "word": "សុបិន្ដ",
+          "phonetic": "sobend",
+          "translation": "Dream"
+        },
+        {
+          "word": "ហែង",
+          "phonetic": "heng",
+          "translation": "Heng"
+        },
+        {
+          "word": "កុំ",
+          "phonetic": "kom",
+          "translation": "Do not"
+        },
+        {
+          "word": "ញៀន",
+          "phonetic": "nhien",
+          "translation": "Addicted"
+        },
+        {
+          "word": "ត្រូវតែ",
+          "phonetic": "trauvte",
+          "translation": "Must"
+        },
+        {
+          "word": "រៀន",
+          "phonetic": "rien",
+          "translation": "Learn"
+        }
+      ]
+    },
+    {
+      "line": "ដឹងថាភ្លើងក្ដៅកុំបំពានអែបទៅកៀន",
+      "translation": "Know that the fire is hot, do not abuse the corner",
+      "phonetic": "doeng tha phleung kdaw kom bampean eb tow kien",
+      "words": [
+        {
+          "word": "ដឹង",
+          "phonetic": "doeng",
+          "translation": "Know"
+        },
+        {
+          "word": "ថា",
+          "phonetic": "tha",
+          "translation": "That"
+        },
+        {
+          "word": "ភ្លើង",
+          "phonetic": "phleung",
+          "translation": "Fire"
+        },
+        {
+          "word": "ក្ដៅ",
+          "phonetic": "kdaw",
+          "translation": "Hot"
+        },
+        {
+          "word": "កុំ",
+          "phonetic": "kom",
+          "translation": "Do not"
+        },
+        {
+          "word": "បំពាន",
+          "phonetic": "bampean",
+          "translation": "Arbitrary"
+        },
+        {
+          "word": "អែប",
+          "phonetic": "eb",
+          "translation": "Apple"
+        },
+        {
+          "word": "ទៅ",
+          "phonetic": "tow",
+          "translation": "To"
+        },
+        {
+          "word": "កៀន",
+          "phonetic": "kien",
+          "translation": "Corner"
+        }
+      ]
+    },
+    {
+      "break": true
+    },
+    {
+      "line": "តាំងពីតូចដល់ធំខុសគេ",
+      "translation": "Different from small to large",
+      "phonetic": "tangpi tauch dl thom khosake",
+      "words": [
+        {
+          "word": "តាំងពីតូច",
+          "phonetic": "tangpi tauch",
+          "translation": "Since childhood"
+        },
+        {
+          "word": "ដល់",
+          "phonetic": "dl",
+          "translation": "To"
+        },
+        {
+          "word": "ធំ",
+          "phonetic": "thom",
+          "translation": "Large"
+        },
+        {
+          "word": "ខុសគេ",
+          "phonetic": "khosake",
+          "translation": "Different"
+        }
+      ]
+    },
+    {
+      "line": "ចូលចិត្តរ៉េបចូលចិត្តភ្លេងនិងសសេរ",
+      "translation": "I like rap, I like music and writing.",
+      "phonetic": "chaulchett re b chaulchett phleng ning saser",
+      "words": [
+        {
+          "word": "ចូលចិត្ត",
+          "phonetic": "chaulchett",
+          "translation": "Like"
+        },
+        {
+          "word": "រ៉េប",
+          "phonetic": "re b",
+          "translation": "Rap"
+        },
+        {
+          "word": "ចូលចិត្ត",
+          "phonetic": "chaulchett",
+          "translation": "Like"
+        },
+        {
+          "word": "ភ្លេង",
+          "phonetic": "phleng",
+          "translation": "Music"
+        },
+        {
+          "word": "និង",
+          "phonetic": "ning",
+          "translation": "And"
+        },
+        {
+          "word": "សសេរ",
+          "phonetic": "saser",
+          "translation": "Write"
+        }
+      ]
+    },
+    {
+      "line": "ចូលចិត្តកំណាព្យហើយសសេរគ្រប់សំណេរ",
+      "translation": "Love poetry and write everything",
+      "phonetic": "chaulchett kamnapy haey sa ser krob saamner",
+      "words": [
+        {
+          "word": "ចូលចិត្ត",
+          "phonetic": "chaulchett",
+          "translation": "Like"
+        },
+        {
+          "word": "កំណាព្យ",
+          "phonetic": "kamnapy",
+          "translation": "Poetry"
+        },
+        {
+          "word": "ហើយ",
+          "phonetic": "haey",
+          "translation": "And"
+        },
+        {
+          "word": "សសេរ",
+          "phonetic": "saser",
+          "translation": "Write"
+        },
+        {
+          "word": "គ្រប់",
+          "phonetic": "krob",
+          "translation": "All"
+        },
+        {
+          "word": "សំណេរ",
+          "phonetic": "saamner",
+          "translation": "Writing"
+        }
+      ]
+    },
+    {
+      "line": "មានមិត្តគ្រប់ប្រភេទ but I walk on my way",
+      "translation": "There are all kinds of friends but I walk on my way",
+      "phonetic": "mean mitt krob braphet but i walk on my way",
+      "words": [
+        {
+          "word": "មាន",
+          "phonetic": "mean",
+          "translation": "Have"
+        },
+        {
+          "word": "មិត្ត",
+          "phonetic": "mit",
+          "translation": "Friend"
+        },
+        {
+          "word": "គ្រប់",
+          "phonetic": "krob",
+          "translation": "All"
+        },
+        {
+          "word": "ប្រភេទ",
+          "phonetic": "braphet",
+          "translation": "Category"
+        },
+        {
+          "word": "but",
+          "phonetic": "",
+          "translation": "but"
+        },
+        {
+          "word": "I",
+          "phonetic": "",
+          "translation": "I"
+        },
+        {
+          "word": "walk",
+          "phonetic": "",
+          "translation": "walk"
+        },
+        {
+          "word": "on",
+          "phonetic": "",
+          "translation": "on"
+        },
+        {
+          "word": "my",
+          "phonetic": "",
+          "translation": "my"
+        },
+        {
+          "word": "way",
+          "phonetic": "",
+          "translation": "way"
+        }
+      ]
+    },
+    {
+      "line": "ចង់ក្លាយជាអ្នករ៉េប ចង់ក្លាយជាអ្នកមាន",
+      "translation": "Want to be a rapper Want to be rich",
+      "phonetic": "chng klaycha anak re b  chng klaycha anakmean",
+      "words": [
+        {
+          "word": "ចង់",
+          "phonetic": "chng",
+          "translation": "Want"
+        },
+        {
+          "word": "ក្លាយ",
+          "phonetic": "klay",
+          "translation": "Become"
+        },
+        {
+          "word": "ជា",
+          "phonetic": "chea",
+          "translation": "Is"
+        },
+        {
+          "word": "អ្នក",
+          "phonetic": "anak",
+          "translation": "You"
+        },
+        {
+          "word": "រ៉េប",
+          "phonetic": "re b",
+          "translation": "Rap"
+        },
+        {
+          "word": "ចង់",
+          "phonetic": "chng",
+          "translation": "Want"
+        },
+        {
+          "word": "ក្លាយ",
+          "phonetic": "klay",
+          "translation": "Become"
+        },
+        {
+          "word": "ជា",
+          "phonetic": "chea",
+          "translation": "Is"
+        },
+        {
+          "word": "អ្នកមាន",
+          "phonetic": "anak mean",
+          "translation": "You are rich"
+        }
+      ]
+    },
+    {
+      "line": "ចង់បានធ្វើយ៉ាងណាខំរៀន",
+      "translation": "Want to do what I want to learn",
+      "phonetic": "chngban thveu yeangna khamrien",
+      "words": [
+        {
+          "word": "ចង់បាន",
+          "phonetic": "chngban",
+          "translation": "Want"
+        },
+        {
+          "word": "ធ្វើ",
+          "phonetic": "thveu",
+          "translation": "Do"
+        },
+        {
+          "word": "យ៉ាងណា",
+          "phonetic": "yeangna",
+          "translation": "How"
+        },
+        {
+          "word": "ខំរៀន",
+          "phonetic": "khamrien",
+          "translation": "Study hard"
+        }
+      ]
+    },
+    {
+      "line": "នេះមិនមែនសុបិន្ដហែងកុំញៀនត្រូវតែរៀន",
+      "translation": "This is not a dream, do not be addicted, must learn",
+      "phonetic": "nih minmen sobend heng kom nhien trauvte rien",
+      "words": [
+        {
+          "word": "នេះ",
+          "phonetic": "nih",
+          "translation": "This"
+        },
+        {
+          "word": "មិនមែន",
+          "phonetic": "minmen",
+          "translation": "Is not"
+        },
+        {
+          "word": "សុបិន្ដ",
+          "phonetic": "sobend",
+          "translation": "Dream"
+        },
+        {
+          "word": "ហែង",
+          "phonetic": "heng",
+          "translation": "Heng"
+        },
+        {
+          "word": "កុំ",
+          "phonetic": "kom",
+          "translation": "Do not"
+        },
+        {
+          "word": "ញៀន",
+          "phonetic": "nhien",
+          "translation": "Addicted"
+        },
+        {
+          "word": "ត្រូវតែ",
+          "phonetic": "trauvte",
+          "translation": "Must"
+        },
+        {
+          "word": "រៀន",
+          "phonetic": "rien",
+          "translation": "Learn"
+        }
+      ]
+    },
+    {
+      "line": "ដឹងថាភ្លើងក្ដៅកុំបំពានហែងទៅកៀន",
+      "translation": "Know that the fire is hot, do not abuse the corner",
+      "phonetic": "doeng tha phleung kdaw kom bampean heng tow kien",
+      "words": [
+        {
+          "word": "ដឹង",
+          "phonetic": "doeng",
+          "translation": "Know"
+        },
+        {
+          "word": "ថា",
+          "phonetic": "tha",
+          "translation": "That"
+        },
+        {
+          "word": "ភ្លើង",
+          "phonetic": "phleung",
+          "translation": "Fire"
+        },
+        {
+          "word": "ក្ដៅ",
+          "phonetic": "kdaw",
+          "translation": "Hot"
+        },
+        {
+          "word": "កុំ",
+          "phonetic": "kom",
+          "translation": "Do not"
+        },
+        {
+          "word": "បំពាន",
+          "phonetic": "bampean",
+          "translation": "Arbitrary"
+        },
+        {
+          "word": "ហែង",
+          "phonetic": "heng",
+          "translation": "Heng"
+        },
+        {
+          "word": "ទៅ",
+          "phonetic": "tow",
+          "translation": "To"
+        },
+        {
+          "word": "កៀន",
+          "phonetic": "kien",
+          "translation": "Corner"
+        }
+      ]
+    },
+    {
+      "line": "ចេញពីផ្ទះរកសុីបើចង់មាន",
+      "translation": "Get out of business if you want to have",
+      "phonetic": "chenhpiphteah rk so ei bae chng mean",
+      "words": [
+        {
+          "word": "ចេញពី",
+          "phonetic": "chenhpi",
+          "translation": "Out of"
+        },
+        {
+          "word": "ផ្ទះ",
+          "phonetic": "phteah",
+          "translation": "Home"
+        },
+        {
+          "word": "រក",
+          "phonetic": "rk",
+          "translation": "Find"
+        },
+        {
+          "word": "សុី",
+          "phonetic": "so ei",
+          "translation": "Eat"
+        },
+        {
+          "word": "បើ",
+          "phonetic": "bae",
+          "translation": "If"
+        },
+        {
+          "word": "ចង់",
+          "phonetic": "chng",
+          "translation": "Want"
+        },
+        {
+          "word": "មាន",
+          "phonetic": "mean",
+          "translation": "Have"
+        }
+      ]
+    },
+    {
+      "line": "ចូលទៅថ្នាក់បើសិនជាអ្នកចង់រៀន",
+      "translation": "Go to class if you want to learn",
+      "phonetic": "chaul tow thnak baesencha anak chng rien",
+      "words": [
+        {
+          "word": "ចូល",
+          "phonetic": "chaul",
+          "translation": "Login"
+        },
+        {
+          "word": "ទៅ",
+          "phonetic": "tow",
+          "translation": "To"
+        },
+        {
+          "word": "ថ្នាក់",
+          "phonetic": "thnak",
+          "translation": "Class"
+        },
+        {
+          "word": "បើសិន",
+          "phonetic": "baesen",
+          "translation": "If"
+        },
+        {
+          "word": "ជា",
+          "phonetic": "chea",
+          "translation": "Is"
+        },
+        {
+          "word": "អ្នក",
+          "phonetic": "anak",
+          "translation": "You"
+        },
+        {
+          "word": "ចង់",
+          "phonetic": "chng",
+          "translation": "Want"
+        },
+        {
+          "word": "រៀន",
+          "phonetic": "rien",
+          "translation": "Learn"
+        }
+      ]
+    },
+    {
+      "line": "ដូចក្ដីស្រម៉ៃបើសិនជាចិត្តអ្នកហ៊ាន",
+      "translation": "Like a dream if your heart dares",
+      "phonetic": "dauch kdei sr mai baesencha chett anak han",
+      "words": [
+        {
+          "word": "ដូច",
+          "phonetic": "dauch",
+          "translation": "Like"
+        },
+        {
+          "word": "ក្ដី",
+          "phonetic": "kdei",
+          "translation": "Case"
+        },
+        {
+          "word": "ស្រម៉ៃ",
+          "phonetic": "sr mai",
+          "translation": "Imagine"
+        },
+        {
+          "word": "បើសិន",
+          "phonetic": "baesen",
+          "translation": "If"
+        },
+        {
+          "word": "ជា",
+          "phonetic": "chea",
+          "translation": "Is"
+        },
+        {
+          "word": "ចិត្ត",
+          "phonetic": "chett",
+          "translation": "Mind"
+        },
+        {
+          "word": "អ្នក",
+          "phonetic": "anak",
+          "translation": "You"
+        },
+        {
+          "word": "ហ៊ាន",
+          "phonetic": "han",
+          "translation": "Dare"
+        }
+      ]
+    },
+    {
+      "line": "Smoke nicotine បើសិនជាអ្នកចង់ញៀន",
+      "translation": "Smoke nicotine if you want to get addicted",
+      "phonetic": "smoke nicotine  baesencha anak chng nhien",
+      "words": [
+        {
+          "word": "Smoke",
+          "phonetic": "",
+          "translation": "Smoke"
+        },
+        {
+          "word": "nicotine",
+          "phonetic": "",
+          "translation": "nicotine"
+        },
+        {
+          "word": "បើសិន",
+          "phonetic": "baesen",
+          "translation": "If"
+        },
+        {
+          "word": "ជា",
+          "phonetic": "chea",
+          "translation": "Is"
+        },
+        {
+          "word": "អ្នក",
+          "phonetic": "anak",
+          "translation": "You"
+        },
+        {
+          "word": "ចង់",
+          "phonetic": "chng",
+          "translation": "Want"
+        },
+        {
+          "word": "ញៀន",
+          "phonetic": "nhien",
+          "translation": "Addicted"
+        }
+      ]
+    },
+    {
+      "line": "Fuck that bitch អូសនាងចូលកៀន",
+      "translation": "Fuck that bitch drags her into the corner",
+      "phonetic": "fuck that bitch  ausa neang chaul kien",
+      "words": [
+        {
+          "word": "Fuck",
+          "phonetic": "",
+          "translation": "Fuck"
+        },
+        {
+          "word": "that",
+          "phonetic": "",
+          "translation": "that"
+        },
+        {
+          "word": "bitch",
+          "phonetic": "",
+          "translation": "bitch"
+        },
+        {
+          "word": "អូស",
+          "phonetic": "ausa",
+          "translation": "Drag"
+        },
+        {
+          "word": "នាង",
+          "phonetic": "neang",
+          "translation": "She"
+        },
+        {
+          "word": "ចូល",
+          "phonetic": "chaul",
+          "translation": "Login"
+        },
+        {
+          "word": "កៀន",
+          "phonetic": "kien",
+          "translation": "Corner"
+        }
+      ]
+    },
+    {
+      "line": "Suck my dick ដូចជាពេលអត់ឃ្លាន",
+      "translation": "Suck my dick like when hungry",
+      "phonetic": "suck my dick  dauchchea pel atkhlean",
+      "words": [
+        {
+          "word": "Suck",
+          "phonetic": "",
+          "translation": "Suck"
+        },
+        {
+          "word": "my",
+          "phonetic": "",
+          "translation": "my"
+        },
+        {
+          "word": "dick",
+          "phonetic": "",
+          "translation": "dick"
+        },
+        {
+          "word": "ដូចជា",
+          "phonetic": "dauchchea",
+          "translation": "Such as"
+        },
+        {
+          "word": "ពេល",
+          "phonetic": "pel",
+          "translation": "When"
+        },
+        {
+          "word": "អត់ឃ្លាន",
+          "phonetic": "atkhlean",
+          "translation": "Hungry"
+        }
+      ]
+    },
+    {
+      "line": "កាន់ប៊ិចមួយដើមតាំងខ្លួនគឺជាស្មៀន",
+      "translation": "Holding a pen, posing as a clerk",
+      "phonetic": "kan bich muoy daem tangokhluon kuchea smien",
+      "words": [
+        {
+          "word": "កាន់",
+          "phonetic": "kan",
+          "translation": "Hold"
+        },
+        {
+          "word": "ប៊ិច",
+          "phonetic": "bich",
+          "translation": "Pen"
+        },
+        {
+          "word": "មួយ",
+          "phonetic": "muoy",
+          "translation": "One"
+        },
+        {
+          "word": "ដើម",
+          "phonetic": "daem",
+          "translation": "Home"
+        },
+        {
+          "word": "តាំងខ្លួន",
+          "phonetic": "tangokhluon",
+          "translation": "Stand up"
+        },
+        {
+          "word": "គឺជា",
+          "phonetic": "kuchea",
+          "translation": "Is"
+        },
+        {
+          "word": "ស្មៀន",
+          "phonetic": "smien",
+          "translation": "Clerk"
+        }
+      ]
+    },
+    {
+      "line": "ហត្ថលេខាលើថ្ពាល់របស់នាង",
+      "translation": "Signature on her cheek",
+      "phonetic": "hatthalekhea leu thpal robsa neang",
+      "words": [
+        {
+          "word": "ហត្ថលេខា",
+          "phonetic": "hatthalekhea",
+          "translation": "Signature"
+        },
+        {
+          "word": "លើ",
+          "phonetic": "leu",
+          "translation": "On"
+        },
+        {
+          "word": "ថ្ពាល់",
+          "phonetic": "thpal",
+          "translation": "Cheeks"
+        },
+        {
+          "word": "របស់",
+          "phonetic": "robsa",
+          "translation": "Of"
+        },
+        {
+          "word": "នាង",
+          "phonetic": "neang",
+          "translation": "She"
+        }
+      ]
+    },
+    {
+      "line": "មិនបញ្ឆិតមិនបញ្ឈៀង Fuck ជីវិតត្រូវតែផ្អៀង",
+      "translation": "Not skewed, not skewed Fuck Life must be tilted",
+      "phonetic": "min banhchhit min b nhchhieng fuck  chivit trauvte phaieng",
+      "words": [
+        {
+          "word": "មិន",
+          "phonetic": "min",
+          "translation": "No"
+        },
+        {
+          "word": "បញ្ឆិត",
+          "phonetic": "banhchhit",
+          "translation": "Slant"
+        },
+        {
+          "word": "មិន",
+          "phonetic": "min",
+          "translation": "No"
+        },
+        {
+          "word": "បញ្ឈៀង",
+          "phonetic": "b nhchhieng",
+          "translation": "Slant"
+        },
+        {
+          "word": "Fuck",
+          "phonetic": "",
+          "translation": "Fuck"
+        },
+        {
+          "word": "ជីវិត",
+          "phonetic": "chivit",
+          "translation": "Life"
+        },
+        {
+          "word": "ត្រូវតែ",
+          "phonetic": "trauvte",
+          "translation": "Must"
+        },
+        {
+          "word": "ផ្អៀង",
+          "phonetic": "phaieng",
+          "translation": "Tilt"
+        }
+      ]
+    },
+    {
+      "line": "យកជីវិតយកមកគិត ដូចជាគេងជាមួយនាង",
+      "translation": "Take life for granted, like sleeping with her",
+      "phonetic": "yk chivit yk mk kit  dauchchea keng cheamuoy neang",
+      "words": [
+        {
+          "word": "យក",
+          "phonetic": "yk",
+          "translation": "Take"
+        },
+        {
+          "word": "ជីវិត",
+          "phonetic": "chivit",
+          "translation": "Life"
+        },
+        {
+          "word": "យកមក",
+          "phonetic": "yk mok",
+          "translation": "Bring"
+        },
+        {
+          "word": "គិត",
+          "phonetic": "kit",
+          "translation": "Think"
+        },
+        {
+          "word": "ដូចជា",
+          "phonetic": "dauchchea",
+          "translation": "Such as"
+        },
+        {
+          "word": "គេង",
+          "phonetic": "keng",
+          "translation": "Sleep"
+        },
+        {
+          "word": "ជាមួយ",
+          "phonetic": "cheamuoy",
+          "translation": "With"
+        },
+        {
+          "word": "នាង",
+          "phonetic": "neang",
+          "translation": "She"
+        }
+      ]
+    },
+    {
+      "line": "លើកមកពន្យល់មិនបំផុសមិនបំផុល",
+      "translation": "Explain, do not inspire, do not inspire",
+      "phonetic": "leuk mk ponyol min bamphosa min bamphol",
+      "words": [
+        {
+          "word": "លើក",
+          "phonetic": "leuk",
+          "translation": "Lift"
+        },
+        {
+          "word": "មក",
+          "phonetic": "mk",
+          "translation": "To come"
+        },
+        {
+          "word": "ពន្យល់",
+          "phonetic": "ponyol",
+          "translation": "Explain"
+        },
+        {
+          "word": "មិន",
+          "phonetic": "min",
+          "translation": "No"
+        },
+        {
+          "word": "បំផុស",
+          "phonetic": "bamphosa",
+          "translation": "Inspire"
+        },
+        {
+          "word": "មិន",
+          "phonetic": "min",
+          "translation": "No"
+        },
+        {
+          "word": "បំផុល",
+          "phonetic": "bamphol",
+          "translation": "Inspire"
+        }
+      ]
+    },
+    {
+      "line": "តែអាខ្លះវាបំពុលព្រោះតែចិត្តវាលម្អៀង",
+      "translation": "But some of it is polluted because it is biased",
+      "phonetic": "te a khleah vea bampoul prohte chett vea lomaieng",
+      "words": [
+        {
+          "word": "តែ",
+          "phonetic": "te",
+          "translation": "Tea"
+        },
+        {
+          "word": "អាខ្លះ",
+          "phonetic": "akhleah",
+          "translation": "Some"
+        },
+        {
+          "word": "វា",
+          "phonetic": "vea",
+          "translation": "It"
+        },
+        {
+          "word": "បំពុល",
+          "phonetic": "bampoul",
+          "translation": "Pollution"
+        },
+        {
+          "word": "ព្រោះតែ",
+          "phonetic": "prohte",
+          "translation": "Because"
+        },
+        {
+          "word": "ចិត្ត",
+          "phonetic": "chett",
+          "translation": "Mind"
+        },
+        {
+          "word": "វា",
+          "phonetic": "vea",
+          "translation": "It"
+        },
+        {
+          "word": "លម្អៀង",
+          "phonetic": "lomaieng",
+          "translation": "Bias"
+        }
+      ]
+    },
+    {
+      "line": "ភ្លេងជាសំលេងចាប់ក្របួចអ្នកវង្វេង",
+      "translation": "Music is the voice that catches the wanderer",
+      "phonetic": "phleng chea saam leng chab krabuoch anak vongveng",
+      "words": [
+        {
+          "word": "ភ្លេង",
+          "phonetic": "phleng",
+          "translation": "Music"
+        },
+        {
+          "word": "ជា",
+          "phonetic": "chea",
+          "translation": "Is"
+        },
+        {
+          "word": "សំលេង",
+          "phonetic": "saamleng",
+          "translation": "Voice"
+        },
+        {
+          "word": "ចាប់",
+          "phonetic": "chab",
+          "translation": "Catch"
+        },
+        {
+          "word": "ក្របួច",
+          "phonetic": "krabuoch",
+          "translation": "Scattered"
+        },
+        {
+          "word": "អ្នក",
+          "phonetic": "anak",
+          "translation": "You"
+        },
+        {
+          "word": "វង្វេង",
+          "phonetic": "vongveng",
+          "translation": "Wandering"
+        }
+      ]
+    },
+    {
+      "line": "ស្ដាប់ហើយយល់អត្ថន័យ Fuck សម្ដីដែលប៊ីចេង",
+      "translation": "Listen and understand the meaning of Fuck",
+      "phonetic": "sdab haey yl atthany fuck  samdi del bicheng",
+      "words": [
+        {
+          "word": "ស្ដាប់",
+          "phonetic": "sdab",
+          "translation": "Listen"
+        },
+        {
+          "word": "ហើយ",
+          "phonetic": "haey",
+          "translation": "And"
+        },
+        {
+          "word": "យល់",
+          "phonetic": "yl",
+          "translation": "Understand"
+        },
+        {
+          "word": "អត្ថន័យ",
+          "phonetic": "atthany",
+          "translation": "Meaning"
+        },
+        {
+          "word": "Fuck",
+          "phonetic": "",
+          "translation": "Fuck"
+        },
+        {
+          "word": "សម្ដី",
+          "phonetic": "samdi",
+          "translation": "Speech"
+        },
+        {
+          "word": "ដែល",
+          "phonetic": "del",
+          "translation": "Which"
+        },
+        {
+          "word": "ប៊ីចេង",
+          "phonetic": "bicheng",
+          "translation": "Bi Cheng"
+        }
+      ]
+    },
+    {
+      "line": "ងើបពីនរកព្រោះតែលែងដេកទ្រមក់",
+      "translation": "Woke up from hell because he could no longer sleep",
+      "phonetic": "ngeub pi nork prohte leng dekatromk",
+      "words": [
+        {
+          "word": "ងើប",
+          "phonetic": "ngeub",
+          "translation": "Get up"
+        },
+        {
+          "word": "ពី",
+          "phonetic": "pi",
+          "translation": "From"
+        },
+        {
+          "word": "នរក",
+          "phonetic": "nork",
+          "translation": "Hell"
+        },
+        {
+          "word": "ព្រោះតែ",
+          "phonetic": "prohte",
+          "translation": "Because"
+        },
+        {
+          "word": "លែង",
+          "phonetic": "leng",
+          "translation": "Release"
+        },
+        {
+          "word": "ដេក",
+          "phonetic": "dek",
+          "translation": "Sleep"
+        },
+        {
+          "word": "ទ្រមក់",
+          "phonetic": "tromk",
+          "translation": "Tramak"
+        }
+      ]
+    },
+    {
+      "line": "លូកដៃទាញព្រអាទិត្យដុតជីវិតយកទៅលក់",
+      "translation": "Reach out to pull the sun, burn life to sell",
+      "phonetic": "loukdai teanh pr atity dot chivit yk tow lk",
+      "words": [
+        {
+          "word": "លូកដៃ",
+          "phonetic": "loukdai",
+          "translation": "Interfere"
+        },
+        {
+          "word": "ទាញ",
+          "phonetic": "teanh",
+          "translation": "Pull"
+        },
+        {
+          "word": "ព្រអាទិត្យ",
+          "phonetic": "pr atity",
+          "translation": "Sunday"
+        },
+        {
+          "word": "ដុត",
+          "phonetic": "dot",
+          "translation": "Burn"
+        },
+        {
+          "word": "ជីវិត",
+          "phonetic": "chivit",
+          "translation": "Life"
+        },
+        {
+          "word": "យកទៅ",
+          "phonetic": "yk tow",
+          "translation": "Take away"
+        },
+        {
+          "word": "លក់",
+          "phonetic": "lk",
+          "translation": "For sale"
+        }
+      ]
+    },
+    {
+      "line": "ចិត្តមិនតម្រូវធ្វើអ្វីក៏មិនត្រូវ",
+      "translation": "The mind does not need to do anything wrong",
+      "phonetic": "chett min tamrouv thveuavei ka min trauv",
+      "words": [
+        {
+          "word": "ចិត្ត",
+          "phonetic": "chett",
+          "translation": "Mind"
+        },
+        {
+          "word": "មិន",
+          "phonetic": "min",
+          "translation": "No"
+        },
+        {
+          "word": "តម្រូវ",
+          "phonetic": "tamrouv",
+          "translation": "Required"
+        },
+        {
+          "word": "ធ្វើអ្វី",
+          "phonetic": "thveuavei",
+          "translation": "What to do"
+        },
+        {
+          "word": "ក៏",
+          "phonetic": "ka",
+          "translation": "Also"
+        },
+        {
+          "word": "មិន",
+          "phonetic": "min",
+          "translation": "No"
+        },
+        {
+          "word": "ត្រូវ",
+          "phonetic": "trauv",
+          "translation": "Yes"
+        }
+      ]
+    },
+    {
+      "line": "ប្រឹងតាំងពីតូចរហូតដល់ឥលូវ",
+      "translation": "Strive from childhood until now",
+      "phonetic": "broeng tangpi tauch rhautadl ilouv",
+      "words": [
+        {
+          "word": "ប្រឹង",
+          "phonetic": "broeng",
+          "translation": "Strive"
+        },
+        {
+          "word": "តាំងពីតូច",
+          "phonetic": "tangpi tauch",
+          "translation": "Since childhood"
+        },
+        {
+          "word": "រហូតដល់",
+          "phonetic": "rhautadl",
+          "translation": "Up to"
+        },
+        {
+          "word": "ឥលូវ",
+          "phonetic": "ilouv",
+          "translation": "Now"
+        }
+      ]
+    },
+    {
+      "line": "តើនៅបែបនឹងរហូតដល់ពេលណា",
+      "translation": "How long will it stay?",
+      "phonetic": "tae now beb nung rhautadl pelna",
+      "words": [
+        {
+          "word": "តើ",
+          "phonetic": "tae",
+          "translation": "Is"
+        },
+        {
+          "word": "នៅ",
+          "phonetic": "now",
+          "translation": "At"
+        },
+        {
+          "word": "បែប",
+          "phonetic": "beb",
+          "translation": "Style"
+        },
+        {
+          "word": "នឹង",
+          "phonetic": "nung",
+          "translation": "Will"
+        },
+        {
+          "word": "រហូត",
+          "phonetic": "rhaut",
+          "translation": "Forever"
+        },
+        {
+          "word": "ដល់ពេលណា",
+          "phonetic": "dlpelna",
+          "translation": "When"
+        }
+      ]
+    },
+    {
+      "line": "ឬមួយត្រូវប្រឹងរហូតសក់ខ្ញុំស្កូវ",
+      "translation": "Or try to keep my hair gray",
+      "phonetic": "ryy muoy trauv broeng rhaut sak khnhom skauv",
+      "words": [
+        {
+          "word": "ឬមួយ",
+          "phonetic": "ryymuoy",
+          "translation": "Or one"
+        },
+        {
+          "word": "ត្រូវ",
+          "phonetic": "trauv",
+          "translation": "Yes"
+        },
+        {
+          "word": "ប្រឹង",
+          "phonetic": "broeng",
+          "translation": "Strive"
+        },
+        {
+          "word": "រហូត",
+          "phonetic": "rhaut",
+          "translation": "Forever"
+        },
+        {
+          "word": "សក់",
+          "phonetic": "sak",
+          "translation": "Hair"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "ស្កូវ",
+          "phonetic": "skauv",
+          "translation": "Gray"
+        }
+      ]
+    },
+    {
+      "line": "ផ្លូវមួយណាដែលខ្ញុំត្រូវទៅ",
+      "translation": "Which way should I go?",
+      "phonetic": "phlauv muoy na del khnhom trauv tow",
+      "words": [
+        {
+          "word": "ផ្លូវ",
+          "phonetic": "phlauv",
+          "translation": "Road"
+        },
+        {
+          "word": "មួយ",
+          "phonetic": "muoy",
+          "translation": "One"
+        },
+        {
+          "word": "ណា",
+          "phonetic": "na",
+          "translation": "Any"
+        },
+        {
+          "word": "ដែល",
+          "phonetic": "del",
+          "translation": "Which"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "ត្រូវ",
+          "phonetic": "trauv",
+          "translation": "Yes"
+        },
+        {
+          "word": "ទៅ",
+          "phonetic": "tow",
+          "translation": "To"
+        }
+      ]
+    },
+    {
+      "line": "បើសុទ្ធតែរនាំងពាំងហើយឃាំងកណ្ដាលផ្លូវ",
+      "translation": "If all the barriers are blocked in the middle of the road",
+      "phonetic": "bae sotthote rneang peang haey kheang kandalophlauv",
+      "words": [
+        {
+          "word": "បើ",
+          "phonetic": "bae",
+          "translation": "If"
+        },
+        {
+          "word": "សុទ្ធតែ",
+          "phonetic": "sotthote",
+          "translation": "All"
+        },
+        {
+          "word": "រនាំង",
+          "phonetic": "rneang",
+          "translation": "Barrier"
+        },
+        {
+          "word": "ពាំង",
+          "phonetic": "peang",
+          "translation": "Pond"
+        },
+        {
+          "word": "ហើយ",
+          "phonetic": "haey",
+          "translation": "And"
+        },
+        {
+          "word": "ឃាំង",
+          "phonetic": "kheang",
+          "translation": "Capture"
+        },
+        {
+          "word": "កណ្ដាលផ្លូវ",
+          "phonetic": "kandalophlauv",
+          "translation": "Middle of the road"
+        }
+      ]
+    },
+    {
+      "line": "ខ្ញុំមិនអាចចាំខ្ញុំត្រូវតែទៅ",
+      "translation": "I can not remember I have to go",
+      "phonetic": "khnhom min ach cham khnhom trauvte tow",
+      "words": [
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "មិន",
+          "phonetic": "min",
+          "translation": "No"
+        },
+        {
+          "word": "អាច",
+          "phonetic": "ach",
+          "translation": "Can"
+        },
+        {
+          "word": "ចាំ",
+          "phonetic": "cham",
+          "translation": "Remember"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "ត្រូវតែ",
+          "phonetic": "trauvte",
+          "translation": "Must"
+        },
+        {
+          "word": "ទៅ",
+          "phonetic": "tow",
+          "translation": "To"
+        }
+      ]
+    },
+    {
+      "line": "អ្នកណាគេដែលឃាំងខ្ញុំចាត់ទុកជាសត្រូវ",
+      "translation": "Whoever keeps me is considered an enemy",
+      "phonetic": "anaknea ke del kheang khnhom chattoukchea satrauv",
+      "words": [
+        {
+          "word": "អ្នកណា",
+          "phonetic": "anaknea",
+          "translation": "Who"
+        },
+        {
+          "word": "គេ",
+          "phonetic": "ke",
+          "translation": "They"
+        },
+        {
+          "word": "ដែល",
+          "phonetic": "del",
+          "translation": "Which"
+        },
+        {
+          "word": "ឃាំង",
+          "phonetic": "kheang",
+          "translation": "Capture"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "ចាត់ទុក",
+          "phonetic": "chattouk",
+          "translation": "Considered"
+        },
+        {
+          "word": "ជា",
+          "phonetic": "chea",
+          "translation": "Is"
+        },
+        {
+          "word": "សត្រូវ",
+          "phonetic": "satrauv",
+          "translation": "The enemy"
+        }
+      ]
+    },
+    {
+      "line": "Skull skull skull",
+      "translation": "Skull skull skull",
+      "phonetic": "skull skull skull",
+      "words": [
+        {
+          "word": "Skull",
+          "phonetic": "",
+          "translation": "Skull"
+        },
+        {
+          "word": "skull",
+          "phonetic": "",
+          "translation": "skull"
+        },
+        {
+          "word": "skull",
+          "phonetic": "",
+          "translation": "skull"
+        }
+      ]
+    },
+    {
+      "line": "ដេរជីវិតដូចម្ជុលជុលៗ",
+      "translation": "Sewing life like a needle",
+      "phonetic": "der chivit dauch mchoul choul",
+      "words": [
+        {
+          "word": "ដេរ",
+          "phonetic": "der",
+          "translation": "Sewing"
+        },
+        {
+          "word": "ជីវិត",
+          "phonetic": "chivit",
+          "translation": "Life"
+        },
+        {
+          "word": "ដូច",
+          "phonetic": "dauch",
+          "translation": "Like"
+        },
+        {
+          "word": "ម្ជុល",
+          "phonetic": "mchoul",
+          "translation": "Needle"
+        },
+        {
+          "word": "ជុល",
+          "phonetic": "choul",
+          "translation": "Repair"
+        },
+        {
+          "word": "ៗ",
+          "phonetic": "",
+          "translation": "⁇"
+        }
+      ]
+    },
+    {
+      "line": "យើងត្រូវតែ ឈ្មុលៗៗ",
+      "translation": "We have to be different",
+      "phonetic": "yeung trauvte  chhmoul",
+      "words": [
+        {
+          "word": "យើង",
+          "phonetic": "yeung",
+          "translation": "We"
+        },
+        {
+          "word": "ត្រូវតែ",
+          "phonetic": "trauvte",
+          "translation": "Must"
+        },
+        {
+          "word": "ឈ្មុល",
+          "phonetic": "chhmoul",
+          "translation": "Male"
+        },
+        {
+          "word": "ៗ",
+          "phonetic": "",
+          "translation": "⁇"
+        },
+        {
+          "word": "ៗ",
+          "phonetic": "",
+          "translation": "⁇"
+        }
+      ]
+    },
+    {
+      "line": "សុីវាទាំងដុលៗៗ",
+      "translation": "Eat it raw",
+      "phonetic": "so ei vea teangdol",
+      "words": [
+        {
+          "word": "សុី",
+          "phonetic": "so ei",
+          "translation": "Eat"
+        },
+        {
+          "word": "វា",
+          "phonetic": "vea",
+          "translation": "It"
+        },
+        {
+          "word": "ទាំងដុល",
+          "phonetic": "teangdol",
+          "translation": "Gross"
+        },
+        {
+          "word": "ៗ",
+          "phonetic": "",
+          "translation": "⁇"
+        },
+        {
+          "word": "ៗ",
+          "phonetic": "",
+          "translation": "⁇"
+        }
+      ]
+    },
+    {
+      "line": "Skull skull skull",
+      "translation": "Skull skull skull",
+      "phonetic": "skull skull skull",
+      "words": [
+        {
+          "word": "Skull",
+          "phonetic": "",
+          "translation": "Skull"
+        },
+        {
+          "word": "skull",
+          "phonetic": "",
+          "translation": "skull"
+        },
+        {
+          "word": "skull",
+          "phonetic": "",
+          "translation": "skull"
+        }
+      ]
+    },
+    {
+      "line": "ដេរជីវិតដូចម្ជុលជុលៗ",
+      "translation": "Sewing life like a needle",
+      "phonetic": "der chivit dauch mchoul choul",
+      "words": [
+        {
+          "word": "ដេរ",
+          "phonetic": "der",
+          "translation": "Sewing"
+        },
+        {
+          "word": "ជីវិត",
+          "phonetic": "chivit",
+          "translation": "Life"
+        },
+        {
+          "word": "ដូច",
+          "phonetic": "dauch",
+          "translation": "Like"
+        },
+        {
+          "word": "ម្ជុល",
+          "phonetic": "mchoul",
+          "translation": "Needle"
+        },
+        {
+          "word": "ជុល",
+          "phonetic": "choul",
+          "translation": "Repair"
+        },
+        {
+          "word": "ៗ",
+          "phonetic": "",
+          "translation": "⁇"
+        }
+      ]
+    },
+    {
+      "line": "យើងត្រូវតែ ឈ្មុលៗៗ",
+      "translation": "We have to be different",
+      "phonetic": "yeung trauvte  chhmoul",
+      "words": [
+        {
+          "word": "យើង",
+          "phonetic": "yeung",
+          "translation": "We"
+        },
+        {
+          "word": "ត្រូវតែ",
+          "phonetic": "trauvte",
+          "translation": "Must"
+        },
+        {
+          "word": "ឈ្មុល",
+          "phonetic": "chhmoul",
+          "translation": "Male"
+        },
+        {
+          "word": "ៗ",
+          "phonetic": "",
+          "translation": "⁇"
+        },
+        {
+          "word": "ៗ",
+          "phonetic": "",
+          "translation": "⁇"
+        }
+      ]
+    },
+    {
+      "line": "សុីវាទាំង ដុលៗៗ",
+      "translation": "Eat it grossly",
+      "phonetic": "so ei vea teang  dol",
+      "words": [
+        {
+          "word": "សុី",
+          "phonetic": "so ei",
+          "translation": "Eat"
+        },
+        {
+          "word": "វា",
+          "phonetic": "vea",
+          "translation": "It"
+        },
+        {
+          "word": "ទាំង",
+          "phonetic": "teang",
+          "translation": "Both"
+        },
+        {
+          "word": "ដុល",
+          "phonetic": "dol",
+          "translation": "Gross"
+        },
+        {
+          "word": "ៗ",
+          "phonetic": "",
+          "translation": "⁇"
+        },
+        {
+          "word": "ៗ",
+          "phonetic": "",
+          "translation": "⁇"
+        }
+      ]
+    },
+    {
+      "line": "ជំហ៊ានទីមួយ វាយកំទេច all that shit",
+      "translation": "The first step is to destroy all that shit.",
+      "phonetic": "chom han timuoy  veay kamtech all that shit",
+      "words": [
+        {
+          "word": "ជំហ៊ាន",
+          "phonetic": "chom han",
+          "translation": "Steps"
+        },
+        {
+          "word": "ទីមួយ",
+          "phonetic": "timuoy",
+          "translation": "First"
+        },
+        {
+          "word": "វាយកំទេច",
+          "phonetic": "veay kamtech",
+          "translation": "Smash"
+        },
+        {
+          "word": "all",
+          "phonetic": "",
+          "translation": "all"
+        },
+        {
+          "word": "that",
+          "phonetic": "",
+          "translation": "that"
+        },
+        {
+          "word": "shit",
+          "phonetic": "",
+          "translation": "shit"
+        }
+      ]
+    },
+    {
+      "line": "ជំហ៊ានទីពីរ ធ្វើបទអោយ lit",
+      "translation": "The second step is to make the song lit.",
+      "phonetic": "chom han tipir  thveu bt aoy lit",
+      "words": [
+        {
+          "word": "ជំហ៊ាន",
+          "phonetic": "chom han",
+          "translation": "Steps"
+        },
+        {
+          "word": "ទីពីរ",
+          "phonetic": "tipir",
+          "translation": "Second"
+        },
+        {
+          "word": "ធ្វើ",
+          "phonetic": "thveu",
+          "translation": "Do"
+        },
+        {
+          "word": "បទ",
+          "phonetic": "bt",
+          "translation": "Track"
+        },
+        {
+          "word": "អោយ",
+          "phonetic": "aoy",
+          "translation": "To"
+        },
+        {
+          "word": "lit",
+          "phonetic": "",
+          "translation": "lit"
+        }
+      ]
+    },
+    {
+      "line": "ជំហ៊ានទីបី ធ្វើខ្លួនអោយ hit",
+      "translation": "The third step is to hit yourself.",
+      "phonetic": "chom han tibei  thveu khluon aoy hit",
+      "words": [
+        {
+          "word": "ជំហ៊ាន",
+          "phonetic": "chom han",
+          "translation": "Steps"
+        },
+        {
+          "word": "ទីបី",
+          "phonetic": "tibei",
+          "translation": "Third"
+        },
+        {
+          "word": "ធ្វើ",
+          "phonetic": "thveu",
+          "translation": "Do"
+        },
+        {
+          "word": "ខ្លួន",
+          "phonetic": "khluon",
+          "translation": "Body"
+        },
+        {
+          "word": "អោយ",
+          "phonetic": "aoy",
+          "translation": "To"
+        },
+        {
+          "word": "hit",
+          "phonetic": "",
+          "translation": "hit"
+        }
+      ]
+    },
+    {
+      "line": "ជំហ៊ានទីបួន សូមកុំគិតពី that bitch",
+      "translation": "Step # 4- Discovering Your Purpose",
+      "phonetic": "chom han ti buon  saumkom kit pi that bitch",
+      "words": [
+        {
+          "word": "ជំហ៊ាន",
+          "phonetic": "chom han",
+          "translation": "Steps"
+        },
+        {
+          "word": "ទី",
+          "phonetic": "ti",
+          "translation": "ទី"
+        },
+        {
+          "word": "បួន",
+          "phonetic": "buon",
+          "translation": "Four"
+        },
+        {
+          "word": "សូម",
+          "phonetic": "saum",
+          "translation": "Please"
+        },
+        {
+          "word": "កុំ",
+          "phonetic": "kom",
+          "translation": "Do not"
+        },
+        {
+          "word": "គិតពី",
+          "phonetic": "kit pi",
+          "translation": "Think about"
+        },
+        {
+          "word": "that",
+          "phonetic": "",
+          "translation": "that"
+        },
+        {
+          "word": "bitch",
+          "phonetic": "",
+          "translation": "bitch"
+        }
+      ]
+    },
+    {
+      "line": "Oh yeah! all that I need spit and then spit and then speed and then spit",
+      "translation": "Oh yeah! all that I need spit and then spit and then speed and then spit",
+      "phonetic": "oh yeah! all that i need spit and then spit and then speed and then spit",
+      "words": [
+        {
+          "word": "Oh",
+          "phonetic": "",
+          "translation": "Oh"
+        },
+        {
+          "word": "yeah!",
+          "phonetic": "yeah!",
+          "translation": "yeah!"
+        },
+        {
+          "word": "all",
+          "phonetic": "",
+          "translation": "all"
+        },
+        {
+          "word": "that",
+          "phonetic": "",
+          "translation": "that"
+        },
+        {
+          "word": "I",
+          "phonetic": "",
+          "translation": "I"
+        },
+        {
+          "word": "need",
+          "phonetic": "",
+          "translation": "need"
+        },
+        {
+          "word": "spit",
+          "phonetic": "",
+          "translation": "spit"
+        },
+        {
+          "word": "and",
+          "phonetic": "",
+          "translation": "and"
+        },
+        {
+          "word": "then",
+          "phonetic": "",
+          "translation": "then"
+        },
+        {
+          "word": "spit",
+          "phonetic": "",
+          "translation": "spit"
+        },
+        {
+          "word": "and",
+          "phonetic": "",
+          "translation": "and"
+        },
+        {
+          "word": "then",
+          "phonetic": "",
+          "translation": "then"
+        },
+        {
+          "word": "speed",
+          "phonetic": "",
+          "translation": "speed"
+        },
+        {
+          "word": "and",
+          "phonetic": "",
+          "translation": "and"
+        },
+        {
+          "word": "then",
+          "phonetic": "",
+          "translation": "then"
+        },
+        {
+          "word": "spit",
+          "phonetic": "",
+          "translation": "spit"
+        }
+      ]
+    },
+    {
+      "line": "ជំហ៊ានទាំងប៉ុន្មាននេះត្រូវផ្ដុំវាឲ្យមូល",
+      "translation": "These steps need to be integrated.",
+      "phonetic": "chom han teangbonman nih trauv phdom vea aoy moul",
+      "words": [
+        {
+          "word": "ជំហ៊ាន",
+          "phonetic": "chom han",
+          "translation": "Steps"
+        },
+        {
+          "word": "ទាំងប៉ុន្មាន",
+          "phonetic": "teangbonman",
+          "translation": "All"
+        },
+        {
+          "word": "នេះ",
+          "phonetic": "nih",
+          "translation": "This"
+        },
+        {
+          "word": "ត្រូវ",
+          "phonetic": "trauv",
+          "translation": "Yes"
+        },
+        {
+          "word": "ផ្ដុំ",
+          "phonetic": "phdom",
+          "translation": "Assemble"
+        },
+        {
+          "word": "វា",
+          "phonetic": "vea",
+          "translation": "It"
+        },
+        {
+          "word": "ឲ្យ",
+          "phonetic": "aoy",
+          "translation": "To"
+        },
+        {
+          "word": "មូល",
+          "phonetic": "moul",
+          "translation": "Round"
+        }
+      ]
+    },
+    {
+      "line": "កត់ទុកហើយចងចាំ ចាំឲ្យជាប់ in your skull",
+      "translation": "Write it down and remember it in your skull",
+      "phonetic": "kttouk haey changcham  cham aoy cheab in your skull",
+      "words": [
+        {
+          "word": "កត់ទុក",
+          "phonetic": "kttouk",
+          "translation": "Take notes"
+        },
+        {
+          "word": "ហើយ",
+          "phonetic": "haey",
+          "translation": "And"
+        },
+        {
+          "word": "ចងចាំ",
+          "phonetic": "changcham",
+          "translation": "Remember"
+        },
+        {
+          "word": "ចាំ",
+          "phonetic": "cham",
+          "translation": "Remember"
+        },
+        {
+          "word": "ឲ្យ",
+          "phonetic": "aoy",
+          "translation": "To"
+        },
+        {
+          "word": "ជាប់",
+          "phonetic": "cheab",
+          "translation": "Stuck"
+        },
+        {
+          "word": "in",
+          "phonetic": "",
+          "translation": "in"
+        },
+        {
+          "word": "your",
+          "phonetic": "your",
+          "translation": "your"
+        },
+        {
+          "word": "skull",
+          "phonetic": "",
+          "translation": "skull"
+        }
+      ]
+    },
+    {
+      "line": "តាំងពីតូចដល់ធំខុសគេ",
+      "translation": "Different from small to large",
+      "phonetic": "tangpi tauch dl thom khosake",
+      "words": [
+        {
+          "word": "តាំងពីតូច",
+          "phonetic": "tangpi tauch",
+          "translation": "Since childhood"
+        },
+        {
+          "word": "ដល់",
+          "phonetic": "dl",
+          "translation": "To"
+        },
+        {
+          "word": "ធំ",
+          "phonetic": "thom",
+          "translation": "Large"
+        },
+        {
+          "word": "ខុសគេ",
+          "phonetic": "khosake",
+          "translation": "Different"
+        }
+      ]
+    },
+    {
+      "line": "ចូលចិត្តរ៉េបចូលចិត្តភ្លេងនិងសសេរ",
+      "translation": "I like rap, I like music and writing.",
+      "phonetic": "chaulchett re b chaulchett phleng ning saser",
+      "words": [
+        {
+          "word": "ចូលចិត្ត",
+          "phonetic": "chaulchett",
+          "translation": "Like"
+        },
+        {
+          "word": "រ៉េប",
+          "phonetic": "re b",
+          "translation": "Rap"
+        },
+        {
+          "word": "ចូលចិត្ត",
+          "phonetic": "chaulchett",
+          "translation": "Like"
+        },
+        {
+          "word": "ភ្លេង",
+          "phonetic": "phleng",
+          "translation": "Music"
+        },
+        {
+          "word": "និង",
+          "phonetic": "ning",
+          "translation": "And"
+        },
+        {
+          "word": "សសេរ",
+          "phonetic": "saser",
+          "translation": "Write"
+        }
+      ]
+    },
+    {
+      "line": "ចូលចិត្តកំណាព្យហើយសសេរគ្រប់សំណេរ",
+      "translation": "Love poetry and write everything",
+      "phonetic": "chaulchett kamnapy haey sa ser krob saamner",
+      "words": [
+        {
+          "word": "ចូលចិត្ត",
+          "phonetic": "chaulchett",
+          "translation": "Like"
+        },
+        {
+          "word": "កំណាព្យ",
+          "phonetic": "kamnapy",
+          "translation": "Poetry"
+        },
+        {
+          "word": "ហើយ",
+          "phonetic": "haey",
+          "translation": "And"
+        },
+        {
+          "word": "សសេរ",
+          "phonetic": "saser",
+          "translation": "Write"
+        },
+        {
+          "word": "គ្រប់",
+          "phonetic": "krob",
+          "translation": "All"
+        },
+        {
+          "word": "សំណេរ",
+          "phonetic": "saamner",
+          "translation": "Writing"
+        }
+      ]
+    },
+    {
+      "line": "មានមិត្តគ្រប់ប្រភេទ but I walk on my way",
+      "translation": "There are all kinds of friends but I walk on my way",
+      "phonetic": "mean mitt krob braphet but i walk on my way",
+      "words": [
+        {
+          "word": "មាន",
+          "phonetic": "mean",
+          "translation": "Have"
+        },
+        {
+          "word": "មិត្ត",
+          "phonetic": "mit",
+          "translation": "Friend"
+        },
+        {
+          "word": "គ្រប់",
+          "phonetic": "krob",
+          "translation": "All"
+        },
+        {
+          "word": "ប្រភេទ",
+          "phonetic": "braphet",
+          "translation": "Category"
+        },
+        {
+          "word": "but",
+          "phonetic": "",
+          "translation": "but"
+        },
+        {
+          "word": "I",
+          "phonetic": "",
+          "translation": "I"
+        },
+        {
+          "word": "walk",
+          "phonetic": "",
+          "translation": "walk"
+        },
+        {
+          "word": "on",
+          "phonetic": "",
+          "translation": "on"
+        },
+        {
+          "word": "my",
+          "phonetic": "",
+          "translation": "my"
+        },
+        {
+          "word": "way",
+          "phonetic": "",
+          "translation": "way"
+        }
+      ]
+    },
+    {
+      "line": "ចង់ក្លាយជាអ្នករ៉េប ចង់ក្លាយជាអ្នកមាន",
+      "translation": "Want to be a rapper Want to be rich",
+      "phonetic": "chng klaycha anak re b  chng klaycha anakmean",
+      "words": [
+        {
+          "word": "ចង់",
+          "phonetic": "chng",
+          "translation": "Want"
+        },
+        {
+          "word": "ក្លាយ",
+          "phonetic": "klay",
+          "translation": "Become"
+        },
+        {
+          "word": "ជា",
+          "phonetic": "chea",
+          "translation": "Is"
+        },
+        {
+          "word": "អ្នក",
+          "phonetic": "anak",
+          "translation": "You"
+        },
+        {
+          "word": "រ៉េប",
+          "phonetic": "re b",
+          "translation": "Rap"
+        },
+        {
+          "word": "ចង់",
+          "phonetic": "chng",
+          "translation": "Want"
+        },
+        {
+          "word": "ក្លាយ",
+          "phonetic": "klay",
+          "translation": "Become"
+        },
+        {
+          "word": "ជា",
+          "phonetic": "chea",
+          "translation": "Is"
+        },
+        {
+          "word": "អ្នកមាន",
+          "phonetic": "anak mean",
+          "translation": "You are rich"
+        }
+      ]
+    },
+    {
+      "line": "ចង់បានធ្វើយ៉ាងណា ខំរៀន",
+      "translation": "Want to do what I want to learn",
+      "phonetic": "chngban thveu yeangna khamrien",
+      "words": [
+        {
+          "word": "ចង់បាន",
+          "phonetic": "chngban",
+          "translation": "Want"
+        },
+        {
+          "word": "ធ្វើ",
+          "phonetic": "thveu",
+          "translation": "Do"
+        },
+        {
+          "word": "យ៉ាងណា",
+          "phonetic": "yeangna",
+          "translation": "How"
+        },
+        {
+          "word": "ខំរៀន",
+          "phonetic": "khamrien",
+          "translation": "Study hard"
+        }
+      ]
+    },
+    {
+      "line": "នេះមិនមែនសុបិន្ដហែងកុំញៀនត្រូវតែរៀន",
+      "translation": "This is not a dream, do not be addicted, must learn",
+      "phonetic": "nih minmen sobend heng kom nhien trauvte rien",
+      "words": [
+        {
+          "word": "នេះ",
+          "phonetic": "nih",
+          "translation": "This"
+        },
+        {
+          "word": "មិនមែន",
+          "phonetic": "minmen",
+          "translation": "Is not"
+        },
+        {
+          "word": "សុបិន្ដ",
+          "phonetic": "sobend",
+          "translation": "Dream"
+        },
+        {
+          "word": "ហែង",
+          "phonetic": "heng",
+          "translation": "Heng"
+        },
+        {
+          "word": "កុំ",
+          "phonetic": "kom",
+          "translation": "Do not"
+        },
+        {
+          "word": "ញៀន",
+          "phonetic": "nhien",
+          "translation": "Addicted"
+        },
+        {
+          "word": "ត្រូវតែ",
+          "phonetic": "trauvte",
+          "translation": "Must"
+        },
+        {
+          "word": "រៀន",
+          "phonetic": "rien",
+          "translation": "Learn"
+        }
+      ]
+    },
+    {
+      "line": "ដឹងថាភ្លើងក្ដៅកុំបំពានអែបទៅកៀន",
+      "translation": "Know that the fire is hot, do not abuse the corner",
+      "phonetic": "doeng tha phleung kdaw kom bampean eb tow kien",
+      "words": [
+        {
+          "word": "ដឹង",
+          "phonetic": "doeng",
+          "translation": "Know"
+        },
+        {
+          "word": "ថា",
+          "phonetic": "tha",
+          "translation": "That"
+        },
+        {
+          "word": "ភ្លើង",
+          "phonetic": "phleung",
+          "translation": "Fire"
+        },
+        {
+          "word": "ក្ដៅ",
+          "phonetic": "kdaw",
+          "translation": "Hot"
+        },
+        {
+          "word": "កុំ",
+          "phonetic": "kom",
+          "translation": "Do not"
+        },
+        {
+          "word": "បំពាន",
+          "phonetic": "bampean",
+          "translation": "Arbitrary"
+        },
+        {
+          "word": "អែប",
+          "phonetic": "eb",
+          "translation": "Apple"
+        },
+        {
+          "word": "ទៅ",
+          "phonetic": "tow",
+          "translation": "To"
+        },
+        {
+          "word": "កៀន",
+          "phonetic": "kien",
+          "translation": "Corner"
+        }
+      ]
+    },
+    {
+      "line": "តាំងពីតូចដល់ធំខុសគេ",
+      "translation": "Different from small to large",
+      "phonetic": "tangpi tauch dl thom khosake",
+      "words": [
+        {
+          "word": "តាំងពីតូច",
+          "phonetic": "tangpi tauch",
+          "translation": "Since childhood"
+        },
+        {
+          "word": "ដល់",
+          "phonetic": "dl",
+          "translation": "To"
+        },
+        {
+          "word": "ធំ",
+          "phonetic": "thom",
+          "translation": "Large"
+        },
+        {
+          "word": "ខុសគេ",
+          "phonetic": "khosake",
+          "translation": "Different"
+        }
+      ]
+    },
+    {
+      "line": "ចូលចិត្តរ៉េបចូលចិត្តភ្លេងនិងសសេរ",
+      "translation": "I like rap, I like music and writing.",
+      "phonetic": "chaulchett re b chaulchett phleng ning saser",
+      "words": [
+        {
+          "word": "ចូលចិត្ត",
+          "phonetic": "chaulchett",
+          "translation": "Like"
+        },
+        {
+          "word": "រ៉េប",
+          "phonetic": "re b",
+          "translation": "Rap"
+        },
+        {
+          "word": "ចូលចិត្ត",
+          "phonetic": "chaulchett",
+          "translation": "Like"
+        },
+        {
+          "word": "ភ្លេង",
+          "phonetic": "phleng",
+          "translation": "Music"
+        },
+        {
+          "word": "និង",
+          "phonetic": "ning",
+          "translation": "And"
+        },
+        {
+          "word": "សសេរ",
+          "phonetic": "saser",
+          "translation": "Write"
+        }
+      ]
+    },
+    {
+      "line": "ចូលចិត្តកំណាព្យហើយសសេរគ្រប់សំណេរ",
+      "translation": "Love poetry and write everything",
+      "phonetic": "chaulchett kamnapy haey sa ser krob saamner",
+      "words": [
+        {
+          "word": "ចូលចិត្ត",
+          "phonetic": "chaulchett",
+          "translation": "Like"
+        },
+        {
+          "word": "កំណាព្យ",
+          "phonetic": "kamnapy",
+          "translation": "Poetry"
+        },
+        {
+          "word": "ហើយ",
+          "phonetic": "haey",
+          "translation": "And"
+        },
+        {
+          "word": "សសេរ",
+          "phonetic": "saser",
+          "translation": "Write"
+        },
+        {
+          "word": "គ្រប់",
+          "phonetic": "krob",
+          "translation": "All"
+        },
+        {
+          "word": "សំណេរ",
+          "phonetic": "saamner",
+          "translation": "Writing"
+        }
+      ]
+    },
+    {
+      "line": "មានមិត្តគ្រប់ប្រភេទ But I walk on my way",
+      "translation": "Have all kinds of friends But I walk on my way",
+      "phonetic": "mean mitt krob braphet but i walk on my way",
+      "words": [
+        {
+          "word": "មាន",
+          "phonetic": "mean",
+          "translation": "Have"
+        },
+        {
+          "word": "មិត្ត",
+          "phonetic": "mit",
+          "translation": "Friend"
+        },
+        {
+          "word": "គ្រប់",
+          "phonetic": "krob",
+          "translation": "All"
+        },
+        {
+          "word": "ប្រភេទ",
+          "phonetic": "braphet",
+          "translation": "Category"
+        },
+        {
+          "word": "But",
+          "phonetic": "",
+          "translation": "But"
+        },
+        {
+          "word": "I",
+          "phonetic": "",
+          "translation": "I"
+        },
+        {
+          "word": "walk",
+          "phonetic": "",
+          "translation": "walk"
+        },
+        {
+          "word": "on",
+          "phonetic": "",
+          "translation": "on"
+        },
+        {
+          "word": "my",
+          "phonetic": "",
+          "translation": "my"
+        },
+        {
+          "word": "way",
+          "phonetic": "",
+          "translation": "way"
+        }
+      ]
+    },
+    {
+      "line": "ចង់ក្លាយជាអ្នករ៉េប ចង់ក្លាយជាអ្នកមាន",
+      "translation": "Want to be a rapper Want to be rich",
+      "phonetic": "chng klaycha anak re b  chng klaycha anakmean",
+      "words": [
+        {
+          "word": "ចង់",
+          "phonetic": "chng",
+          "translation": "Want"
+        },
+        {
+          "word": "ក្លាយ",
+          "phonetic": "klay",
+          "translation": "Become"
+        },
+        {
+          "word": "ជា",
+          "phonetic": "chea",
+          "translation": "Is"
+        },
+        {
+          "word": "អ្នក",
+          "phonetic": "anak",
+          "translation": "You"
+        },
+        {
+          "word": "រ៉េប",
+          "phonetic": "re b",
+          "translation": "Rap"
+        },
+        {
+          "word": "ចង់",
+          "phonetic": "chng",
+          "translation": "Want"
+        },
+        {
+          "word": "ក្លាយ",
+          "phonetic": "klay",
+          "translation": "Become"
+        },
+        {
+          "word": "ជា",
+          "phonetic": "chea",
+          "translation": "Is"
+        },
+        {
+          "word": "អ្នកមាន",
+          "phonetic": "anak mean",
+          "translation": "You are rich"
+        }
+      ]
+    },
+    {
+      "line": "ចង់បានធ្វើយ៉ាងណា ខំរៀន",
+      "translation": "Want to do what I want to learn",
+      "phonetic": "chngban thveu yeangna khamrien",
+      "words": [
+        {
+          "word": "ចង់បាន",
+          "phonetic": "chngban",
+          "translation": "Want"
+        },
+        {
+          "word": "ធ្វើ",
+          "phonetic": "thveu",
+          "translation": "Do"
+        },
+        {
+          "word": "យ៉ាងណា",
+          "phonetic": "yeangna",
+          "translation": "How"
+        },
+        {
+          "word": "ខំរៀន",
+          "phonetic": "khamrien",
+          "translation": "Study hard"
+        }
+      ]
+    },
+    {
+      "line": "នេះមិនមែនសុបិន្ដហែងកុំញៀនត្រូវតែរៀន",
+      "translation": "This is not a dream, do not be addicted, must learn",
+      "phonetic": "nih minmen sobend heng kom nhien trauvte rien",
+      "words": [
+        {
+          "word": "នេះ",
+          "phonetic": "nih",
+          "translation": "This"
+        },
+        {
+          "word": "មិនមែន",
+          "phonetic": "minmen",
+          "translation": "Is not"
+        },
+        {
+          "word": "សុបិន្ដ",
+          "phonetic": "sobend",
+          "translation": "Dream"
+        },
+        {
+          "word": "ហែង",
+          "phonetic": "heng",
+          "translation": "Heng"
+        },
+        {
+          "word": "កុំ",
+          "phonetic": "kom",
+          "translation": "Do not"
+        },
+        {
+          "word": "ញៀន",
+          "phonetic": "nhien",
+          "translation": "Addicted"
+        },
+        {
+          "word": "ត្រូវតែ",
+          "phonetic": "trauvte",
+          "translation": "Must"
+        },
+        {
+          "word": "រៀន",
+          "phonetic": "rien",
+          "translation": "Learn"
+        }
+      ]
+    },
+    {
+      "line": "ដឹងថាភ្លើងក្ដៅកុំបំពានអែបទៅកៀន",
+      "translation": "Know that the fire is hot, do not abuse the corner",
+      "phonetic": "doeng tha phleung kdaw kom bampean eb tow kien",
+      "words": [
+        {
+          "word": "ដឹង",
+          "phonetic": "doeng",
+          "translation": "Know"
+        },
+        {
+          "word": "ថា",
+          "phonetic": "tha",
+          "translation": "That"
+        },
+        {
+          "word": "ភ្លើង",
+          "phonetic": "phleung",
+          "translation": "Fire"
+        },
+        {
+          "word": "ក្ដៅ",
+          "phonetic": "kdaw",
+          "translation": "Hot"
+        },
+        {
+          "word": "កុំ",
+          "phonetic": "kom",
+          "translation": "Do not"
+        },
+        {
+          "word": "បំពាន",
+          "phonetic": "bampean",
+          "translation": "Arbitrary"
+        },
+        {
+          "word": "អែប",
+          "phonetic": "eb",
+          "translation": "Apple"
+        },
+        {
+          "word": "ទៅ",
+          "phonetic": "tow",
+          "translation": "To"
+        },
+        {
+          "word": "កៀន",
+          "phonetic": "kien",
+          "translation": "Corner"
+        }
+      ]
+    },
+    {
+      "line": "Bitch, I'm from the bay I born this way yeah I'm the boss",
+      "translation": "Bitch, I'm from the bay I born this way yeah I'm the boss",
+      "phonetic": "bitch, i'm from the bay i born this way yeah i'm the boss",
+      "words": [
+        {
+          "word": "Bitch,",
+          "phonetic": "",
+          "translation": "Bitch,"
+        },
+        {
+          "word": "I'm",
+          "phonetic": "",
+          "translation": "I'm"
+        },
+        {
+          "word": "from",
+          "phonetic": "",
+          "translation": "from"
+        },
+        {
+          "word": "the",
+          "phonetic": "",
+          "translation": "the"
+        },
+        {
+          "word": "bay",
+          "phonetic": "",
+          "translation": "bay"
+        },
+        {
+          "word": "I",
+          "phonetic": "",
+          "translation": "I"
+        },
+        {
+          "word": "born",
+          "phonetic": "",
+          "translation": "born"
+        },
+        {
+          "word": "this",
+          "phonetic": "",
+          "translation": "this"
+        },
+        {
+          "word": "way",
+          "phonetic": "",
+          "translation": "way"
+        },
+        {
+          "word": "yeah",
+          "phonetic": "yeah",
+          "translation": "yeah"
+        },
+        {
+          "word": "I'm",
+          "phonetic": "",
+          "translation": "I'm"
+        },
+        {
+          "word": "the",
+          "phonetic": "",
+          "translation": "the"
+        },
+        {
+          "word": "boss",
+          "phonetic": "",
+          "translation": "boss"
+        }
+      ]
+    },
+    {
+      "line": "កើតជាតិនេះខុសគេ ខ្ញុំកាន់គ្រាប់អុក ខ្ញុំដើរមិនខុស",
+      "translation": "Born this way differently, I hold the chess board, I do not walk wrong",
+      "phonetic": "kaet cheate nih khosake  khnhom kan kreab ok  khnhom daer min khosa",
+      "words": [
+        {
+          "word": "កើត",
+          "phonetic": "kaet",
+          "translation": "Born"
+        },
+        {
+          "word": "ជាតិ",
+          "phonetic": "cheate",
+          "translation": "National"
+        },
+        {
+          "word": "នេះ",
+          "phonetic": "nih",
+          "translation": "This"
+        },
+        {
+          "word": "ខុសគេ",
+          "phonetic": "khosake",
+          "translation": "Different"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "កាន់",
+          "phonetic": "kan",
+          "translation": "Hold"
+        },
+        {
+          "word": "គ្រាប់",
+          "phonetic": "kreab",
+          "translation": "Nuts"
+        },
+        {
+          "word": "អុក",
+          "phonetic": "ok",
+          "translation": "Chess"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "ដើរ",
+          "phonetic": "daer",
+          "translation": "Walk"
+        },
+        {
+          "word": "មិន",
+          "phonetic": "min",
+          "translation": "No"
+        },
+        {
+          "word": "ខុស",
+          "phonetic": "khosa",
+          "translation": "Wrong"
+        }
+      ]
+    },
+    {
+      "line": "Shout-out អ្នកទន្លេ ពួកយើងមានបេះដូងជាកូនប្រុស",
+      "translation": "Shout-out river people, we have a son's heart",
+      "phonetic": "shout-out  anakatonle  puok yeung mean behdaung chea kaunobrosa",
+      "words": [
+        {
+          "word": "Shout-out",
+          "phonetic": "",
+          "translation": "Shout-out"
+        },
+        {
+          "word": "អ្នក",
+          "phonetic": "anak",
+          "translation": "You"
+        },
+        {
+          "word": "ទន្លេ",
+          "phonetic": "tonle",
+          "translation": "River"
+        },
+        {
+          "word": "ពួកយើង",
+          "phonetic": "puok yeung",
+          "translation": "We"
+        },
+        {
+          "word": "មាន",
+          "phonetic": "mean",
+          "translation": "Have"
+        },
+        {
+          "word": "បេះដូង",
+          "phonetic": "behdaung",
+          "translation": "Heart"
+        },
+        {
+          "word": "ជា",
+          "phonetic": "chea",
+          "translation": "Is"
+        },
+        {
+          "word": "កូនប្រុស",
+          "phonetic": "kaunobrosa",
+          "translation": "Son"
+        }
+      ]
+    },
+    {
+      "line": "ស្រីណាដែលមិនស្មោះ មិនបាច់ទៅខ្វល់ឲ្យនាងទៅចុះ",
+      "translation": "Any girl who is not honest does not need to care for her to go down",
+      "phonetic": "srei na del min smaoh  minbach tow khval aoy neang towchoh",
+      "words": [
+        {
+          "word": "ស្រី",
+          "phonetic": "srei",
+          "translation": "Female"
+        },
+        {
+          "word": "ណា",
+          "phonetic": "na",
+          "translation": "Any"
+        },
+        {
+          "word": "ដែល",
+          "phonetic": "del",
+          "translation": "Which"
+        },
+        {
+          "word": "មិន",
+          "phonetic": "min",
+          "translation": "No"
+        },
+        {
+          "word": "ស្មោះ",
+          "phonetic": "smaoh",
+          "translation": "Sincere"
+        },
+        {
+          "word": "មិនបាច់",
+          "phonetic": "minbach",
+          "translation": "No need"
+        },
+        {
+          "word": "ទៅ",
+          "phonetic": "tow",
+          "translation": "To"
+        },
+        {
+          "word": "ខ្វល់",
+          "phonetic": "khval",
+          "translation": "Care"
+        },
+        {
+          "word": "ឲ្យ",
+          "phonetic": "aoy",
+          "translation": "To"
+        },
+        {
+          "word": "នាង",
+          "phonetic": "neang",
+          "translation": "She"
+        },
+        {
+          "word": "ទៅចុះ",
+          "phonetic": "tow choh",
+          "translation": "Go down"
+        }
+      ]
+    },
+    {
+      "line": "កាលនៅរៀនបែកគំនិតធ្វើភ្លេង",
+      "translation": "When I was learning to make music",
+      "phonetic": "kal now rien bekkoumnit thveu phleng",
+      "words": [
+        {
+          "word": "កាល",
+          "phonetic": "kal",
+          "translation": "When"
+        },
+        {
+          "word": "នៅ",
+          "phonetic": "now",
+          "translation": "At"
+        },
+        {
+          "word": "រៀន",
+          "phonetic": "rien",
+          "translation": "Learn"
+        },
+        {
+          "word": "បែកគំនិត",
+          "phonetic": "bekkoumnit",
+          "translation": "Disagree"
+        },
+        {
+          "word": "ធ្វើ",
+          "phonetic": "thveu",
+          "translation": "Do"
+        },
+        {
+          "word": "ភ្លេង",
+          "phonetic": "phleng",
+          "translation": "Music"
+        }
+      ]
+    },
+    {
+      "line": "គ្រូខ្ញុំដៀលថាអានេះបែកឆ្វេង",
+      "translation": "My teacher mocked that this is a left turn",
+      "phonetic": "krou khnhom diel tha a nih bekachhveng",
+      "words": [
+        {
+          "word": "គ្រូ",
+          "phonetic": "krou",
+          "translation": "Teacher"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "ដៀល",
+          "phonetic": "diel",
+          "translation": "Mock"
+        },
+        {
+          "word": "ថា",
+          "phonetic": "tha",
+          "translation": "That"
+        },
+        {
+          "word": "អានេះ",
+          "phonetic": "anih",
+          "translation": "Ah this"
+        },
+        {
+          "word": "បែក",
+          "phonetic": "bek",
+          "translation": "Break"
+        },
+        {
+          "word": "ឆ្វេង",
+          "phonetic": "chhveng",
+          "translation": "Left"
+        }
+      ]
+    },
+    {
+      "line": "អត់ខំប្រឹងរៀនគិតតែភ្លេងហើយនិងភ្លេង",
+      "translation": "Do not try to learn to think only about music and music",
+      "phonetic": "at khambroeng rien kitte phleng haeyning phleng",
+      "words": [
+        {
+          "word": "អត់",
+          "phonetic": "at",
+          "translation": "No"
+        },
+        {
+          "word": "ខំប្រឹង",
+          "phonetic": "khambroeng",
+          "translation": "Try hard"
+        },
+        {
+          "word": "រៀន",
+          "phonetic": "rien",
+          "translation": "Learn"
+        },
+        {
+          "word": "គិតតែ",
+          "phonetic": "kitte",
+          "translation": "Think only"
+        },
+        {
+          "word": "ភ្លេង",
+          "phonetic": "phleng",
+          "translation": "Music"
+        },
+        {
+          "word": "ហើយ",
+          "phonetic": "haey",
+          "translation": "And"
+        },
+        {
+          "word": "និង",
+          "phonetic": "ning",
+          "translation": "And"
+        },
+        {
+          "word": "ភ្លេង",
+          "phonetic": "phleng",
+          "translation": "Music"
+        }
+      ]
+    },
+    {
+      "line": "ចូលដល់ថ្នាក់អត់សៀវភៅចោទថាខ្ញុំនេះវង្វេង",
+      "translation": "Go to class without books, accuse me of being lost",
+      "phonetic": "chaul dl thnak at sievphow chaot tha khnhom nih vongveng",
+      "words": [
+        {
+          "word": "ចូល",
+          "phonetic": "chaul",
+          "translation": "Login"
+        },
+        {
+          "word": "ដល់",
+          "phonetic": "dl",
+          "translation": "To"
+        },
+        {
+          "word": "ថ្នាក់",
+          "phonetic": "thnak",
+          "translation": "Class"
+        },
+        {
+          "word": "អត់",
+          "phonetic": "at",
+          "translation": "No"
+        },
+        {
+          "word": "សៀវភៅ",
+          "phonetic": "sievphow",
+          "translation": "Books"
+        },
+        {
+          "word": "ចោទ",
+          "phonetic": "chaot",
+          "translation": "Accuse"
+        },
+        {
+          "word": "ថា",
+          "phonetic": "tha",
+          "translation": "That"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "នេះ",
+          "phonetic": "nih",
+          "translation": "This"
+        },
+        {
+          "word": "វង្វេង",
+          "phonetic": "vongveng",
+          "translation": "Wandering"
+        }
+      ]
+    },
+    {
+      "line": "ឥឡូវយ៉ាងម៉េចដែលលោកគ្រូ",
+      "translation": "Now how are you, teacher?",
+      "phonetic": "ilauv yeangmech del lokakrou",
+      "words": [
+        {
+          "word": "ឥឡូវ",
+          "phonetic": "ilauv",
+          "translation": "Now"
+        },
+        {
+          "word": "យ៉ាងម៉េច",
+          "phonetic": "yeangmech",
+          "translation": "How"
+        },
+        {
+          "word": "ដែល",
+          "phonetic": "del",
+          "translation": "Which"
+        },
+        {
+          "word": "លោកគ្រូ",
+          "phonetic": "lokakrou",
+          "translation": "Teacher"
+        }
+      ]
+    },
+    {
+      "line": "ឥឡូវយ៉ាងម៉េចដែរមិត្តភក្ដិ? (ហ៊ឺម!!)",
+      "translation": "Now how are you friends? (Hmm !!)",
+      "phonetic": "ilauv yeangmech der mittaphokde? ( hu m!!)",
+      "words": [
+        {
+          "word": "ឥឡូវ",
+          "phonetic": "ilauv",
+          "translation": "Now"
+        },
+        {
+          "word": "យ៉ាងម៉េច",
+          "phonetic": "yeangmech",
+          "translation": "How"
+        },
+        {
+          "word": "ដែរ",
+          "phonetic": "der",
+          "translation": "Also"
+        },
+        {
+          "word": "មិត្តភក្ដិ",
+          "phonetic": "mittaphokde",
+          "translation": "Friends"
+        },
+        {
+          "word": "?",
+          "phonetic": "",
+          "translation": "?"
+        },
+        {
+          "word": "(",
+          "phonetic": "",
+          "translation": "("
+        },
+        {
+          "word": "ហ៊ឺម",
+          "phonetic": "hu m",
+          "translation": "Hmm"
+        },
+        {
+          "word": "!!)",
+          "phonetic": "",
+          "translation": "!!)"
+        }
+      ]
+    },
+    {
+      "line": "ដៀលថាខ្ញុំថាអត់កំណើត ពេលដែលខ្ញុំប្រលងធ្លាក់",
+      "translation": "Mock me for not being born when I failed the exam",
+      "phonetic": "diel tha khnhom tha at kamnaet  pel del khnhom bralng thleak",
+      "words": [
+        {
+          "word": "ដៀល",
+          "phonetic": "diel",
+          "translation": "Mock"
+        },
+        {
+          "word": "ថា",
+          "phonetic": "tha",
+          "translation": "That"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "ថា",
+          "phonetic": "tha",
+          "translation": "That"
+        },
+        {
+          "word": "អត់",
+          "phonetic": "at",
+          "translation": "No"
+        },
+        {
+          "word": "កំណើត",
+          "phonetic": "kamnaet",
+          "translation": "Birth"
+        },
+        {
+          "word": "ពេល",
+          "phonetic": "pel",
+          "translation": "When"
+        },
+        {
+          "word": "ដែល",
+          "phonetic": "del",
+          "translation": "Which"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "ប្រលង",
+          "phonetic": "bralng",
+          "translation": "Exam"
+        },
+        {
+          "word": "ធ្លាក់",
+          "phonetic": "thleak",
+          "translation": "To fall"
+        }
+      ]
+    },
+    {
+      "line": "អរគុណពាក្យជេរ",
+      "translation": "Thank you swear words",
+      "phonetic": "arkoun peaky cher",
+      "words": [
+        {
+          "word": "អរគុណ",
+          "phonetic": "arkoun",
+          "translation": "Thank you"
+        },
+        {
+          "word": "ពាក្យ",
+          "phonetic": "peaky",
+          "translation": "Words"
+        },
+        {
+          "word": "ជេរ",
+          "phonetic": "cher",
+          "translation": "Cursing"
+        }
+      ]
+    },
+    {
+      "line": "Now it's my day drinking whiskey",
+      "translation": "Now it's my day drinking whiskey",
+      "phonetic": "now it's my day drinking whiskey",
+      "words": [
+        {
+          "word": "Now",
+          "phonetic": "",
+          "translation": "Now"
+        },
+        {
+          "word": "it's",
+          "phonetic": "",
+          "translation": "it's"
+        },
+        {
+          "word": "my",
+          "phonetic": "",
+          "translation": "my"
+        },
+        {
+          "word": "day",
+          "phonetic": "",
+          "translation": "day"
+        },
+        {
+          "word": "drinking",
+          "phonetic": "",
+          "translation": "drinking"
+        },
+        {
+          "word": "whiskey",
+          "phonetic": "whiskey",
+          "translation": "whiskey"
+        }
+      ]
+    },
+    {
+      "line": "លុយចូលគ្រប់នាទី ABA'",
+      "translation": "ABA 'every minute of money",
+      "phonetic": "louy chaul krob neati aba'",
+      "words": [
+        {
+          "word": "លុយ",
+          "phonetic": "louy",
+          "translation": "Money"
+        },
+        {
+          "word": "ចូល",
+          "phonetic": "chaul",
+          "translation": "Login"
+        },
+        {
+          "word": "គ្រប់",
+          "phonetic": "krob",
+          "translation": "All"
+        },
+        {
+          "word": "នាទី",
+          "phonetic": "neati",
+          "translation": "Minutes"
+        },
+        {
+          "word": "ABA'",
+          "phonetic": "",
+          "translation": "ABA'"
+        }
+      ]
+    },
+    {
+      "line": "Fuck the enemies I ain't got no time to play",
+      "translation": "Fuck the enemies I ain't got no time to play",
+      "phonetic": "fuck the enemies i ain't got no time to play",
+      "words": [
+        {
+          "word": "Fuck",
+          "phonetic": "",
+          "translation": "Fuck"
+        },
+        {
+          "word": "the",
+          "phonetic": "",
+          "translation": "the"
+        },
+        {
+          "word": "enemies",
+          "phonetic": "",
+          "translation": "enemies"
+        },
+        {
+          "word": "I",
+          "phonetic": "",
+          "translation": "I"
+        },
+        {
+          "word": "ain't",
+          "phonetic": "",
+          "translation": "ain't"
+        },
+        {
+          "word": "got",
+          "phonetic": "",
+          "translation": "got"
+        },
+        {
+          "word": "no",
+          "phonetic": "",
+          "translation": "no"
+        },
+        {
+          "word": "time",
+          "phonetic": "",
+          "translation": "time"
+        },
+        {
+          "word": "to",
+          "phonetic": "",
+          "translation": "to"
+        },
+        {
+          "word": "play",
+          "phonetic": "",
+          "translation": "play"
+        }
+      ]
+    },
+    {
+      "line": "Put your energy on me I'll show the way",
+      "translation": "Put your energy on me I'll show the way",
+      "phonetic": "put your energy on me i'll show the way",
+      "words": [
+        {
+          "word": "Put",
+          "phonetic": "",
+          "translation": "Put"
+        },
+        {
+          "word": "your",
+          "phonetic": "your",
+          "translation": "your"
+        },
+        {
+          "word": "energy",
+          "phonetic": "",
+          "translation": "energy"
+        },
+        {
+          "word": "on",
+          "phonetic": "",
+          "translation": "on"
+        },
+        {
+          "word": "me",
+          "phonetic": "",
+          "translation": "me"
+        },
+        {
+          "word": "I'll",
+          "phonetic": "",
+          "translation": "I'll"
+        },
+        {
+          "word": "show",
+          "phonetic": "",
+          "translation": "show"
+        },
+        {
+          "word": "the",
+          "phonetic": "",
+          "translation": "the"
+        },
+        {
+          "word": "way",
+          "phonetic": "",
+          "translation": "way"
+        }
+      ]
+    },
+    {
+      "line": "មិនបាច់យកប្រៀប យកមកធៀប",
+      "translation": "No need to compare",
+      "phonetic": "minbach yk brieb  yk mk thieb",
+      "words": [
+        {
+          "word": "មិនបាច់",
+          "phonetic": "minbach",
+          "translation": "No need"
+        },
+        {
+          "word": "យក",
+          "phonetic": "yk",
+          "translation": "Take"
+        },
+        {
+          "word": "ប្រៀប",
+          "phonetic": "brieb",
+          "translation": "Compare"
+        },
+        {
+          "word": "យកមក",
+          "phonetic": "yk mok",
+          "translation": "Bring"
+        },
+        {
+          "word": "ធៀប",
+          "phonetic": "thieb",
+          "translation": "Compare"
+        }
+      ]
+    },
+    {
+      "line": "បើជីវិតមានសម្ពាធ វានឹងគៀបយើងឲ្យងាប់",
+      "translation": "If life is under pressure, it will crush us to death",
+      "phonetic": "bae chivit mean sampeath  vea nung kie b yeung aoy ngeab",
+      "words": [
+        {
+          "word": "បើ",
+          "phonetic": "bae",
+          "translation": "If"
+        },
+        {
+          "word": "ជីវិត",
+          "phonetic": "chivit",
+          "translation": "Life"
+        },
+        {
+          "word": "មាន",
+          "phonetic": "mean",
+          "translation": "Have"
+        },
+        {
+          "word": "សម្ពាធ",
+          "phonetic": "sampeath",
+          "translation": "Pressure"
+        },
+        {
+          "word": "វា",
+          "phonetic": "vea",
+          "translation": "It"
+        },
+        {
+          "word": "នឹង",
+          "phonetic": "nung",
+          "translation": "Will"
+        },
+        {
+          "word": "គៀប",
+          "phonetic": "kieb",
+          "translation": "Clamp"
+        },
+        {
+          "word": "យើង",
+          "phonetic": "yeung",
+          "translation": "We"
+        },
+        {
+          "word": "ឲ្យ",
+          "phonetic": "aoy",
+          "translation": "To"
+        },
+        {
+          "word": "ងាប់",
+          "phonetic": "ngeab",
+          "translation": "Die"
+        }
+      ]
+    },
+    {
+      "line": "អានេះវាកើតមកខុសរបៀប",
+      "translation": "Ah, it was born the wrong way",
+      "phonetic": "a nih vea kaetamk khosa rbieb",
+      "words": [
+        {
+          "word": "អានេះ",
+          "phonetic": "anih",
+          "translation": "Ah this"
+        },
+        {
+          "word": "វា",
+          "phonetic": "vea",
+          "translation": "It"
+        },
+        {
+          "word": "កើតមក",
+          "phonetic": "kaetamk",
+          "translation": "Born"
+        },
+        {
+          "word": "ខុស",
+          "phonetic": "khosa",
+          "translation": "Wrong"
+        },
+        {
+          "word": "របៀប",
+          "phonetic": "rbieb",
+          "translation": "How"
+        }
+      ]
+    },
+    {
+      "line": "ឃើញគេតូច ឃើញគេទាប ធ្វើដូចឯងនឹងមិនធ្លាប់",
+      "translation": "See them small, see them low, do as you will never",
+      "phonetic": "kheunh ke tauch  kheunh ke teab  thveu dauch eng nung minothleab",
+      "words": [
+        {
+          "word": "ឃើញ",
+          "phonetic": "kheunh",
+          "translation": "See"
+        },
+        {
+          "word": "គេ",
+          "phonetic": "ke",
+          "translation": "They"
+        },
+        {
+          "word": "តូច",
+          "phonetic": "tauch",
+          "translation": "Small"
+        },
+        {
+          "word": "ឃើញ",
+          "phonetic": "kheunh",
+          "translation": "See"
+        },
+        {
+          "word": "គេ",
+          "phonetic": "ke",
+          "translation": "They"
+        },
+        {
+          "word": "ទាប",
+          "phonetic": "teab",
+          "translation": "Low"
+        },
+        {
+          "word": "ធ្វើ",
+          "phonetic": "thveu",
+          "translation": "Do"
+        },
+        {
+          "word": "ដូច",
+          "phonetic": "dauch",
+          "translation": "Like"
+        },
+        {
+          "word": "ឯង",
+          "phonetic": "eng",
+          "translation": "Alone"
+        },
+        {
+          "word": "នឹង",
+          "phonetic": "nung",
+          "translation": "Will"
+        },
+        {
+          "word": "មិនធ្លាប់",
+          "phonetic": "minothleab",
+          "translation": "Never"
+        }
+      ]
+    },
+    {
+      "line": "បើសិនក្ដៅវាសុីរាក់ បើត្រជាក់វាសុីជ្រៅ",
+      "translation": "If hot it eats shallow; if cold it eats deep;",
+      "phonetic": "baesen kdaw vea so ei reak  bae trachak vea so ei chrow",
+      "words": [
+        {
+          "word": "បើសិន",
+          "phonetic": "baesen",
+          "translation": "If"
+        },
+        {
+          "word": "ក្ដៅ",
+          "phonetic": "kdaw",
+          "translation": "Hot"
+        },
+        {
+          "word": "វា",
+          "phonetic": "vea",
+          "translation": "It"
+        },
+        {
+          "word": "សុី",
+          "phonetic": "so ei",
+          "translation": "Eat"
+        },
+        {
+          "word": "រាក់",
+          "phonetic": "reak",
+          "translation": "Shallow"
+        },
+        {
+          "word": "បើ",
+          "phonetic": "bae",
+          "translation": "If"
+        },
+        {
+          "word": "ត្រជាក់",
+          "phonetic": "trachak",
+          "translation": "Cold"
+        },
+        {
+          "word": "វា",
+          "phonetic": "vea",
+          "translation": "It"
+        },
+        {
+          "word": "សុី",
+          "phonetic": "so ei",
+          "translation": "Eat"
+        },
+        {
+          "word": "ជ្រៅ",
+          "phonetic": "chrow",
+          "translation": "Deep"
+        }
+      ]
+    },
+    {
+      "line": "ឃើញងាប់វាមិនជួយ សុំជំនួយវាមិនទៅ",
+      "translation": "Seeing dead, it does not help, ask for help, it does not go",
+      "phonetic": "kheunh ngeab vea min chuoy  som chomnuoy vea mintow",
+      "words": [
+        {
+          "word": "ឃើញ",
+          "phonetic": "kheunh",
+          "translation": "See"
+        },
+        {
+          "word": "ងាប់",
+          "phonetic": "ngeab",
+          "translation": "Die"
+        },
+        {
+          "word": "វា",
+          "phonetic": "vea",
+          "translation": "It"
+        },
+        {
+          "word": "មិន",
+          "phonetic": "min",
+          "translation": "No"
+        },
+        {
+          "word": "ជួយ",
+          "phonetic": "chuoy",
+          "translation": "Help"
+        },
+        {
+          "word": "សុំ",
+          "phonetic": "som",
+          "translation": "Ask"
+        },
+        {
+          "word": "ជំនួយ",
+          "phonetic": "chomnuoy",
+          "translation": "Help"
+        },
+        {
+          "word": "វា",
+          "phonetic": "vea",
+          "translation": "It"
+        },
+        {
+          "word": "មិន",
+          "phonetic": "min",
+          "translation": "No"
+        },
+        {
+          "word": "ទៅ",
+          "phonetic": "tow",
+          "translation": "To"
+        }
+      ]
+    },
+    {
+      "line": "ឃើញគេអន់ចាំតែជាន់ តែយ៉ាងណាក៏មានផ្លូវ",
+      "translation": "I see people waiting for the floor, but there is a way",
+      "phonetic": "kheunh ke an chate chean  te yeangna ka meanophlauv",
+      "words": [
+        {
+          "word": "ឃើញ",
+          "phonetic": "kheunh",
+          "translation": "See"
+        },
+        {
+          "word": "គេ",
+          "phonetic": "ke",
+          "translation": "They"
+        },
+        {
+          "word": "អន់",
+          "phonetic": "an",
+          "translation": "Bad"
+        },
+        {
+          "word": "ចាំតែ",
+          "phonetic": "chate",
+          "translation": "Wait"
+        },
+        {
+          "word": "ជាន់",
+          "phonetic": "chean",
+          "translation": "Floor"
+        },
+        {
+          "word": "តែ",
+          "phonetic": "te",
+          "translation": "Tea"
+        },
+        {
+          "word": "យ៉ាងណា",
+          "phonetic": "yeangna",
+          "translation": "How"
+        },
+        {
+          "word": "ក៏មាន",
+          "phonetic": "ka mean",
+          "translation": "Also available"
+        },
+        {
+          "word": "ផ្លូវ",
+          "phonetic": "phlauv",
+          "translation": "Road"
+        }
+      ]
+    },
+    {
+      "line": "Bitch, I'm born in this way ធ្វើអំពើធ្វើមិនត្រូវដូចដែលខ្ញុំបាននិយាយ",
+      "translation": "Bitch, I was born in this way, doing wrong as I said",
+      "phonetic": "bitch, i'm born in this way  thveuampeu thveuminotrauv dauchdel khnhom ban niyeay",
+      "words": [
+        {
+          "word": "Bitch,",
+          "phonetic": "",
+          "translation": "Bitch,"
+        },
+        {
+          "word": "I'm",
+          "phonetic": "",
+          "translation": "I'm"
+        },
+        {
+          "word": "born",
+          "phonetic": "",
+          "translation": "born"
+        },
+        {
+          "word": "in",
+          "phonetic": "",
+          "translation": "in"
+        },
+        {
+          "word": "this",
+          "phonetic": "",
+          "translation": "this"
+        },
+        {
+          "word": "way",
+          "phonetic": "",
+          "translation": "way"
+        },
+        {
+          "word": "ធ្វើអំពើ",
+          "phonetic": "thveuampeu",
+          "translation": "Do"
+        },
+        {
+          "word": "ធ្វើមិនត្រូវ",
+          "phonetic": "thveuminotrauv",
+          "translation": "Do not"
+        },
+        {
+          "word": "ដូចដែល",
+          "phonetic": "dauchdel",
+          "translation": "As"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "បាន",
+          "phonetic": "ban",
+          "translation": "Yes"
+        },
+        {
+          "word": "និយាយ",
+          "phonetic": "niyeay",
+          "translation": "To speak"
+        }
+      ]
+    },
+    {
+      "line": "កុំទៅខ្វល់នឹងសម្ដី ចេញពីមាត់អ្នកដទៃ",
+      "translation": "Do not care about what others say",
+      "phonetic": "kom tow khval nung samdi  chenhpi meat anakadtei",
+      "words": [
+        {
+          "word": "កុំ",
+          "phonetic": "kom",
+          "translation": "Do not"
+        },
+        {
+          "word": "ទៅ",
+          "phonetic": "tow",
+          "translation": "To"
+        },
+        {
+          "word": "ខ្វល់",
+          "phonetic": "khval",
+          "translation": "Care"
+        },
+        {
+          "word": "នឹង",
+          "phonetic": "nung",
+          "translation": "Will"
+        },
+        {
+          "word": "សម្ដី",
+          "phonetic": "samdi",
+          "translation": "Speech"
+        },
+        {
+          "word": "ចេញពី",
+          "phonetic": "chenhpi",
+          "translation": "Out of"
+        },
+        {
+          "word": "មាត់",
+          "phonetic": "meat",
+          "translation": "Mouth"
+        },
+        {
+          "word": "អ្នកដទៃ",
+          "phonetic": "anakadtei",
+          "translation": "Others"
+        }
+      ]
+    },
+    {
+      "line": "ធ្វើជីវិតឲ្យមានន័យ ព្រោះជីវិតយើងវាខ្លី",
+      "translation": "Make life meaningful because our lives are short",
+      "phonetic": "thveu chivit aoy meanny  proh chivit yeung vea khlei",
+      "words": [
+        {
+          "word": "ធ្វើ",
+          "phonetic": "thveu",
+          "translation": "Do"
+        },
+        {
+          "word": "ជីវិត",
+          "phonetic": "chivit",
+          "translation": "Life"
+        },
+        {
+          "word": "ឲ្យ",
+          "phonetic": "aoy",
+          "translation": "To"
+        },
+        {
+          "word": "មានន័យ",
+          "phonetic": "meanny",
+          "translation": "Meaning"
+        },
+        {
+          "word": "ព្រោះ",
+          "phonetic": "proh",
+          "translation": "Because"
+        },
+        {
+          "word": "ជីវិត",
+          "phonetic": "chivit",
+          "translation": "Life"
+        },
+        {
+          "word": "យើង",
+          "phonetic": "yeung",
+          "translation": "We"
+        },
+        {
+          "word": "វា",
+          "phonetic": "vea",
+          "translation": "It"
+        },
+        {
+          "word": "ខ្លី",
+          "phonetic": "khlei",
+          "translation": "Short"
+        }
+      ]
+    },
+    {
+      "line": "ពួកវាចាំតែបំភ័យ",
+      "translation": "They need to be scared",
+      "phonetic": "puokvea chate bamphy",
+      "words": [
+        {
+          "word": "ពួកវា",
+          "phonetic": "puokvea",
+          "translation": "They"
+        },
+        {
+          "word": "ចាំតែ",
+          "phonetic": "chate",
+          "translation": "Wait"
+        },
+        {
+          "word": "បំភ័យ",
+          "phonetic": "bamphy",
+          "translation": "Scare"
+        }
+      ]
+    },
+    {
+      "line": "កុំទៅភ័យ កុំទៅភ័យ កុំទៅភ័យ កុំទៅភ័យ កុំទៅភ័យ",
+      "translation": "Do not be afraid Do not be afraid Do not be afraid Do not be afraid Do not be afraid",
+      "phonetic": "kom tow phy  kom tow phy  kom tow phy  kom tow phy  kom tow phy",
+      "words": [
+        {
+          "word": "កុំ",
+          "phonetic": "kom",
+          "translation": "Do not"
+        },
+        {
+          "word": "ទៅ",
+          "phonetic": "tow",
+          "translation": "To"
+        },
+        {
+          "word": "ភ័យ",
+          "phonetic": "phy",
+          "translation": "Fear"
+        },
+        {
+          "word": "កុំ",
+          "phonetic": "kom",
+          "translation": "Do not"
+        },
+        {
+          "word": "ទៅ",
+          "phonetic": "tow",
+          "translation": "To"
+        },
+        {
+          "word": "ភ័យ",
+          "phonetic": "phy",
+          "translation": "Fear"
+        },
+        {
+          "word": "កុំ",
+          "phonetic": "kom",
+          "translation": "Do not"
+        },
+        {
+          "word": "ទៅ",
+          "phonetic": "tow",
+          "translation": "To"
+        },
+        {
+          "word": "ភ័យ",
+          "phonetic": "phy",
+          "translation": "Fear"
+        },
+        {
+          "word": "កុំ",
+          "phonetic": "kom",
+          "translation": "Do not"
+        },
+        {
+          "word": "ទៅ",
+          "phonetic": "tow",
+          "translation": "To"
+        },
+        {
+          "word": "ភ័យ",
+          "phonetic": "phy",
+          "translation": "Fear"
+        },
+        {
+          "word": "កុំ",
+          "phonetic": "kom",
+          "translation": "Do not"
+        },
+        {
+          "word": "ទៅ",
+          "phonetic": "tow",
+          "translation": "To"
+        },
+        {
+          "word": "ភ័យ",
+          "phonetic": "phy",
+          "translation": "Fear"
+        }
+      ]
+    },
+    {
+      "line": "I do my dirt do my thang with my gang",
+      "translation": "I do my dirt do my thang with my gang",
+      "phonetic": "i do my dirt do my thang with my gang",
+      "words": [
+        {
+          "word": "I",
+          "phonetic": "",
+          "translation": "I"
+        },
+        {
+          "word": "do",
+          "phonetic": "",
+          "translation": "do"
+        },
+        {
+          "word": "my",
+          "phonetic": "",
+          "translation": "my"
+        },
+        {
+          "word": "dirt",
+          "phonetic": "",
+          "translation": "dirt"
+        },
+        {
+          "word": "do",
+          "phonetic": "",
+          "translation": "do"
+        },
+        {
+          "word": "my",
+          "phonetic": "",
+          "translation": "my"
+        },
+        {
+          "word": "thang",
+          "phonetic": "",
+          "translation": "thang"
+        },
+        {
+          "word": "with",
+          "phonetic": "with",
+          "translation": "with"
+        },
+        {
+          "word": "my",
+          "phonetic": "",
+          "translation": "my"
+        },
+        {
+          "word": "gang",
+          "phonetic": "",
+          "translation": "gang"
+        }
+      ]
+    },
+    {
+      "line": "Don't touch my fams, brang bang bang bang bang bang bang",
+      "translation": "Do not touch my fams, brang bang bang bang bang bang bang",
+      "phonetic": "don't touch my fams, brang bang bang bang bang bang bang",
+      "words": [
+        {
+          "word": "Don't",
+          "phonetic": "",
+          "translation": "Don't"
+        },
+        {
+          "word": "touch",
+          "phonetic": "",
+          "translation": "touch"
+        },
+        {
+          "word": "my",
+          "phonetic": "",
+          "translation": "my"
+        },
+        {
+          "word": "fams,",
+          "phonetic": "",
+          "translation": "fams,"
+        },
+        {
+          "word": "brang",
+          "phonetic": "",
+          "translation": "brang"
+        },
+        {
+          "word": "bang",
+          "phonetic": "",
+          "translation": "bang"
+        },
+        {
+          "word": "bang",
+          "phonetic": "",
+          "translation": "bang"
+        },
+        {
+          "word": "bang",
+          "phonetic": "",
+          "translation": "bang"
+        },
+        {
+          "word": "bang",
+          "phonetic": "",
+          "translation": "bang"
+        },
+        {
+          "word": "bang",
+          "phonetic": "",
+          "translation": "bang"
+        },
+        {
+          "word": "bang",
+          "phonetic": "",
+          "translation": "bang"
+        }
+      ]
+    },
+    {
+      "line": "Hit em with the heat",
+      "translation": "Hit em with the heat",
+      "phonetic": "hit em with the heat",
+      "words": [
+        {
+          "word": "Hit",
+          "phonetic": "",
+          "translation": "Hit"
+        },
+        {
+          "word": "em",
+          "phonetic": "",
+          "translation": "em"
+        },
+        {
+          "word": "with",
+          "phonetic": "with",
+          "translation": "with"
+        },
+        {
+          "word": "the",
+          "phonetic": "",
+          "translation": "the"
+        },
+        {
+          "word": "heat",
+          "phonetic": "",
+          "translation": "heat"
+        }
+      ]
+    },
+    {
+      "line": "Like I'm Johnny Dang",
+      "translation": "Like I'm Johnny Dang",
+      "phonetic": "like i'm johnny dang",
+      "words": [
+        {
+          "word": "Like",
+          "phonetic": "",
+          "translation": "Like"
+        },
+        {
+          "word": "I'm",
+          "phonetic": "",
+          "translation": "I'm"
+        },
+        {
+          "word": "Johnny",
+          "phonetic": "",
+          "translation": "Johnny"
+        },
+        {
+          "word": "Dang",
+          "phonetic": "",
+          "translation": "Dang"
+        }
+      ]
+    },
+    {
+      "line": "Baramey by my side, countin' money in the bank",
+      "translation": "Baramey by my side, countin 'money in the bank",
+      "phonetic": "baramey by my side, countin' money in the bank",
+      "words": [
+        {
+          "word": "Baramey",
+          "phonetic": "",
+          "translation": "Baramey"
+        },
+        {
+          "word": "by",
+          "phonetic": "",
+          "translation": "by"
+        },
+        {
+          "word": "my",
+          "phonetic": "",
+          "translation": "my"
+        },
+        {
+          "word": "side,",
+          "phonetic": "",
+          "translation": "side,"
+        },
+        {
+          "word": "countin'",
+          "phonetic": "",
+          "translation": "countin'"
+        },
+        {
+          "word": "money",
+          "phonetic": "",
+          "translation": "money"
+        },
+        {
+          "word": "in",
+          "phonetic": "",
+          "translation": "in"
+        },
+        {
+          "word": "the",
+          "phonetic": "",
+          "translation": "the"
+        },
+        {
+          "word": "bank",
+          "phonetic": "",
+          "translation": "bank"
+        }
+      ]
+    },
+    {
+      "line": "Bitch, I'm from the bay I born this way yeah I'm the boss",
+      "translation": "Bitch, I'm from the bay I born this way yeah I'm the boss",
+      "phonetic": "bitch, i'm from the bay i born this way yeah i'm the boss",
+      "words": [
+        {
+          "word": "Bitch,",
+          "phonetic": "",
+          "translation": "Bitch,"
+        },
+        {
+          "word": "I'm",
+          "phonetic": "",
+          "translation": "I'm"
+        },
+        {
+          "word": "from",
+          "phonetic": "",
+          "translation": "from"
+        },
+        {
+          "word": "the",
+          "phonetic": "",
+          "translation": "the"
+        },
+        {
+          "word": "bay",
+          "phonetic": "",
+          "translation": "bay"
+        },
+        {
+          "word": "I",
+          "phonetic": "",
+          "translation": "I"
+        },
+        {
+          "word": "born",
+          "phonetic": "",
+          "translation": "born"
+        },
+        {
+          "word": "this",
+          "phonetic": "",
+          "translation": "this"
+        },
+        {
+          "word": "way",
+          "phonetic": "",
+          "translation": "way"
+        },
+        {
+          "word": "yeah",
+          "phonetic": "yeah",
+          "translation": "yeah"
+        },
+        {
+          "word": "I'm",
+          "phonetic": "",
+          "translation": "I'm"
+        },
+        {
+          "word": "the",
+          "phonetic": "",
+          "translation": "the"
+        },
+        {
+          "word": "boss",
+          "phonetic": "",
+          "translation": "boss"
+        }
+      ]
+    },
+    {
+      "line": "កើតជាតិនេះខុសគេ ខ្ញុំកាន់គ្រាប់អុក ខ្ញុំដើរមិនខុស",
+      "translation": "Born this way differently, I hold the chess board, I do not walk wrong",
+      "phonetic": "kaet cheate nih khosake  khnhom kan kreab ok  khnhom daer min khosa",
+      "words": [
+        {
+          "word": "កើត",
+          "phonetic": "kaet",
+          "translation": "Born"
+        },
+        {
+          "word": "ជាតិ",
+          "phonetic": "cheate",
+          "translation": "National"
+        },
+        {
+          "word": "នេះ",
+          "phonetic": "nih",
+          "translation": "This"
+        },
+        {
+          "word": "ខុសគេ",
+          "phonetic": "khosake",
+          "translation": "Different"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "កាន់",
+          "phonetic": "kan",
+          "translation": "Hold"
+        },
+        {
+          "word": "គ្រាប់",
+          "phonetic": "kreab",
+          "translation": "Nuts"
+        },
+        {
+          "word": "អុក",
+          "phonetic": "ok",
+          "translation": "Chess"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "ដើរ",
+          "phonetic": "daer",
+          "translation": "Walk"
+        },
+        {
+          "word": "មិន",
+          "phonetic": "min",
+          "translation": "No"
+        },
+        {
+          "word": "ខុស",
+          "phonetic": "khosa",
+          "translation": "Wrong"
+        }
+      ]
+    },
+    {
+      "line": "Shout-out អ្នកទន្លេ ពួកយើងមានបេះដូងជាកូនប្រុស",
+      "translation": "Shout-out river people, we have a son's heart",
+      "phonetic": "shout-out  anakatonle  puok yeung mean behdaung chea kaunobrosa",
+      "words": [
+        {
+          "word": "Shout-out",
+          "phonetic": "",
+          "translation": "Shout-out"
+        },
+        {
+          "word": "អ្នក",
+          "phonetic": "anak",
+          "translation": "You"
+        },
+        {
+          "word": "ទន្លេ",
+          "phonetic": "tonle",
+          "translation": "River"
+        },
+        {
+          "word": "ពួកយើង",
+          "phonetic": "puok yeung",
+          "translation": "We"
+        },
+        {
+          "word": "មាន",
+          "phonetic": "mean",
+          "translation": "Have"
+        },
+        {
+          "word": "បេះដូង",
+          "phonetic": "behdaung",
+          "translation": "Heart"
+        },
+        {
+          "word": "ជា",
+          "phonetic": "chea",
+          "translation": "Is"
+        },
+        {
+          "word": "កូនប្រុស",
+          "phonetic": "kaunobrosa",
+          "translation": "Son"
+        }
+      ]
+    },
+    {
+      "line": "ស្រីណាដែលមិនស្មោះ មិនបាច់ទៅខ្វល់ឲ្យនាងទៅចុះ",
+      "translation": "Any girl who is not honest does not need to care for her to go down",
+      "phonetic": "srei na del min smaoh  minbach tow khval aoy neang towchoh",
+      "words": [
+        {
+          "word": "ស្រី",
+          "phonetic": "srei",
+          "translation": "Female"
+        },
+        {
+          "word": "ណា",
+          "phonetic": "na",
+          "translation": "Any"
+        },
+        {
+          "word": "ដែល",
+          "phonetic": "del",
+          "translation": "Which"
+        },
+        {
+          "word": "មិន",
+          "phonetic": "min",
+          "translation": "No"
+        },
+        {
+          "word": "ស្មោះ",
+          "phonetic": "smaoh",
+          "translation": "Sincere"
+        },
+        {
+          "word": "មិនបាច់",
+          "phonetic": "minbach",
+          "translation": "No need"
+        },
+        {
+          "word": "ទៅ",
+          "phonetic": "tow",
+          "translation": "To"
+        },
+        {
+          "word": "ខ្វល់",
+          "phonetic": "khval",
+          "translation": "Care"
+        },
+        {
+          "word": "ឲ្យ",
+          "phonetic": "aoy",
+          "translation": "To"
+        },
+        {
+          "word": "នាង",
+          "phonetic": "neang",
+          "translation": "She"
+        },
+        {
+          "word": "ទៅចុះ",
+          "phonetic": "tow choh",
+          "translation": "Go down"
+        }
+      ]
+    }
+  ]
+}

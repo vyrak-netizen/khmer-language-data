@@ -1,0 +1,1904 @@
+{
+  "name": "Solo Again",
+  "translation": "",
+  "artist": "Vannda",
+  "lines": [
+    {
+      "line": "ថ្ងៃនេះមានអារម្មណ៍ថាដូចឯកា",
+      "translation": "Today feels lonely",
+      "phonetic": "thngainih mean arommo tha dauch eka",
+      "words": [
+        {
+          "word": "ថ្ងៃនេះ",
+          "phonetic": "thngainih",
+          "translation": "Today"
+        },
+        {
+          "word": "មាន",
+          "phonetic": "mean",
+          "translation": "Have"
+        },
+        {
+          "word": "អារម្មណ៍",
+          "phonetic": "arommo",
+          "translation": "Feelings"
+        },
+        {
+          "word": "ថា",
+          "phonetic": "tha",
+          "translation": "That"
+        },
+        {
+          "word": "ដូច",
+          "phonetic": "dauch",
+          "translation": "Like"
+        },
+        {
+          "word": "ឯកា",
+          "phonetic": "eka",
+          "translation": "Lonely"
+        }
+      ]
+    },
+    {
+      "line": "ឈឺចិត្តព្រោះតែទើបបែកបាក់ស្នេហា",
+      "translation": "Sad because I just broke up",
+      "phonetic": "chhuchett prohte teub bekbak snehea",
+      "words": [
+        {
+          "word": "ឈឺចិត្ត",
+          "phonetic": "chhuchett",
+          "translation": "It hurts"
+        },
+        {
+          "word": "ព្រោះតែ",
+          "phonetic": "prohte",
+          "translation": "Because"
+        },
+        {
+          "word": "ទើប",
+          "phonetic": "teub",
+          "translation": "Recently"
+        },
+        {
+          "word": "បែកបាក់",
+          "phonetic": "bekbak",
+          "translation": "Break up"
+        },
+        {
+          "word": "ស្នេហា",
+          "phonetic": "snehea",
+          "translation": "Love"
+        }
+      ]
+    },
+    {
+      "line": "ពេលនេះខ្ញុំកំពុងរវល់កាន់កែវស្រា",
+      "translation": "Right now I'm busy holding a glass of wine",
+      "phonetic": "pelnih khnhom kampoungorovl kan kev sra",
+      "words": [
+        {
+          "word": "ពេលនេះ",
+          "phonetic": "pelnih",
+          "translation": "Now"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "កំពុង",
+          "phonetic": "kampoung",
+          "translation": "Is"
+        },
+        {
+          "word": "រវល់",
+          "phonetic": "rovl",
+          "translation": "Busy"
+        },
+        {
+          "word": "កាន់",
+          "phonetic": "kan",
+          "translation": "Hold"
+        },
+        {
+          "word": "កែវ",
+          "phonetic": "kev",
+          "translation": "Glass"
+        },
+        {
+          "word": "ស្រា",
+          "phonetic": "sra",
+          "translation": "Wine"
+        }
+      ]
+    },
+    {
+      "line": "យប់នេះ ស្វែងរកសង្សារ",
+      "translation": "Tonight looking for a girlfriend",
+      "phonetic": "yb nih  svengork sangsaear",
+      "words": [
+        {
+          "word": "យប់",
+          "phonetic": "yb",
+          "translation": "Night"
+        },
+        {
+          "word": "នេះ",
+          "phonetic": "nih",
+          "translation": "This"
+        },
+        {
+          "word": "ស្វែងរក",
+          "phonetic": "svengork",
+          "translation": "Search"
+        },
+        {
+          "word": "សង្សារ",
+          "phonetic": "sangsaear",
+          "translation": "Girlfriend"
+        }
+      ]
+    },
+    {
+      "break": true
+    },
+    {
+      "line": "ថ្ងៃនេះមានអារម្មណ៍ថាដូចឯកា",
+      "translation": "Today feels lonely",
+      "phonetic": "thngainih mean arommo tha dauch eka",
+      "words": [
+        {
+          "word": "ថ្ងៃនេះ",
+          "phonetic": "thngainih",
+          "translation": "Today"
+        },
+        {
+          "word": "មាន",
+          "phonetic": "mean",
+          "translation": "Have"
+        },
+        {
+          "word": "អារម្មណ៍",
+          "phonetic": "arommo",
+          "translation": "Feelings"
+        },
+        {
+          "word": "ថា",
+          "phonetic": "tha",
+          "translation": "That"
+        },
+        {
+          "word": "ដូច",
+          "phonetic": "dauch",
+          "translation": "Like"
+        },
+        {
+          "word": "ឯកា",
+          "phonetic": "eka",
+          "translation": "Lonely"
+        }
+      ]
+    },
+    {
+      "line": "ឈឺចិត្តព្រោះតែទើបបែកបាក់ស្នេហា",
+      "translation": "Sad because I just broke up",
+      "phonetic": "chhuchett prohte teub bekbak snehea",
+      "words": [
+        {
+          "word": "ឈឺចិត្ត",
+          "phonetic": "chhuchett",
+          "translation": "It hurts"
+        },
+        {
+          "word": "ព្រោះតែ",
+          "phonetic": "prohte",
+          "translation": "Because"
+        },
+        {
+          "word": "ទើប",
+          "phonetic": "teub",
+          "translation": "Recently"
+        },
+        {
+          "word": "បែកបាក់",
+          "phonetic": "bekbak",
+          "translation": "Break up"
+        },
+        {
+          "word": "ស្នេហា",
+          "phonetic": "snehea",
+          "translation": "Love"
+        }
+      ]
+    },
+    {
+      "line": "ពេលនេះខ្ញុំកំពុងរវល់កាន់កែវស្រា",
+      "translation": "Right now I'm busy holding a glass of wine",
+      "phonetic": "pelnih khnhom kampoungorovl kan kev sra",
+      "words": [
+        {
+          "word": "ពេលនេះ",
+          "phonetic": "pelnih",
+          "translation": "Now"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "កំពុង",
+          "phonetic": "kampoung",
+          "translation": "Is"
+        },
+        {
+          "word": "រវល់",
+          "phonetic": "rovl",
+          "translation": "Busy"
+        },
+        {
+          "word": "កាន់",
+          "phonetic": "kan",
+          "translation": "Hold"
+        },
+        {
+          "word": "កែវ",
+          "phonetic": "kev",
+          "translation": "Glass"
+        },
+        {
+          "word": "ស្រា",
+          "phonetic": "sra",
+          "translation": "Wine"
+        }
+      ]
+    },
+    {
+      "line": "យប់នេះ ស្វែងរកសង្សារ",
+      "translation": "Tonight looking for a girlfriend",
+      "phonetic": "yb nih  svengork sangsaear",
+      "words": [
+        {
+          "word": "យប់",
+          "phonetic": "yb",
+          "translation": "Night"
+        },
+        {
+          "word": "នេះ",
+          "phonetic": "nih",
+          "translation": "This"
+        },
+        {
+          "word": "ស្វែងរក",
+          "phonetic": "svengork",
+          "translation": "Search"
+        },
+        {
+          "word": "សង្សារ",
+          "phonetic": "sangsaear",
+          "translation": "Girlfriend"
+        }
+      ]
+    },
+    {
+      "break": true
+    },
+    {
+      "line": "ហេតុអ្វីទៅ  ប្រាប់ខ្ញុំបានទេថា",
+      "translation": "Why can you tell me?",
+      "phonetic": "hetoavei tow   brab khnhom ban te tha",
+      "words": [
+        {
+          "word": "ហេតុអ្វី",
+          "phonetic": "hetoavei",
+          "translation": "Why"
+        },
+        {
+          "word": "ទៅ",
+          "phonetic": "tow",
+          "translation": "To"
+        },
+        {
+          "word": "ប្រាប់",
+          "phonetic": "brab",
+          "translation": "Tell"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "បានទេ",
+          "phonetic": "ban te",
+          "translation": "Yes"
+        },
+        {
+          "word": "ថា",
+          "phonetic": "tha",
+          "translation": "That"
+        }
+      ]
+    },
+    {
+      "line": "អាគុយខ្ញុំចង់កូវជាមួយអាស៊ីតស្នេហា",
+      "translation": "Battery I want to mix with love acid",
+      "phonetic": "akouy khnhom chng kauv cheamuoy asai t snehea",
+      "words": [
+        {
+          "word": "អាគុយ",
+          "phonetic": "akouy",
+          "translation": "Battery"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "ចង់",
+          "phonetic": "chng",
+          "translation": "Want"
+        },
+        {
+          "word": "កូវ",
+          "phonetic": "kauv",
+          "translation": "Cow"
+        },
+        {
+          "word": "ជាមួយ",
+          "phonetic": "cheamuoy",
+          "translation": "With"
+        },
+        {
+          "word": "អាស៊ីត",
+          "phonetic": "asai t",
+          "translation": "Acid"
+        },
+        {
+          "word": "ស្នេហា",
+          "phonetic": "snehea",
+          "translation": "Love"
+        }
+      ]
+    },
+    {
+      "line": "ជាតិនេះគេតម្រូវឲ្យខ្ញុំត្រូវឈឺផ្សា",
+      "translation": "This nation requires me to suffer",
+      "phonetic": "cheate nih ke tamrouvaoy khnhom trauv chhuphsaea",
+      "words": [
+        {
+          "word": "ជាតិ",
+          "phonetic": "cheate",
+          "translation": "National"
+        },
+        {
+          "word": "នេះ",
+          "phonetic": "nih",
+          "translation": "This"
+        },
+        {
+          "word": "គេ",
+          "phonetic": "ke",
+          "translation": "They"
+        },
+        {
+          "word": "តម្រូវ",
+          "phonetic": "tamrouv",
+          "translation": "Required"
+        },
+        {
+          "word": "ឲ្យ",
+          "phonetic": "aoy",
+          "translation": "To"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "ត្រូវ",
+          "phonetic": "trauv",
+          "translation": "Yes"
+        },
+        {
+          "word": "ឈឺផ្សា",
+          "phonetic": "chhuphsaea",
+          "translation": "Sore throat"
+        }
+      ]
+    },
+    {
+      "line": "ដើរខុសផ្លុវព្រោះចុះសម្រុងនឹងដបស្រា",
+      "translation": "Going the wrong way because it harmonizes with the bottle of wine",
+      "phonetic": "daer khosa phlo v proh chohsamroung nung db sra",
+      "words": [
+        {
+          "word": "ដើរ",
+          "phonetic": "daer",
+          "translation": "Walk"
+        },
+        {
+          "word": "ខុស",
+          "phonetic": "khosa",
+          "translation": "Wrong"
+        },
+        {
+          "word": "ផ្លុវ",
+          "phonetic": "phlov",
+          "translation": "Road"
+        },
+        {
+          "word": "ព្រោះ",
+          "phonetic": "proh",
+          "translation": "Because"
+        },
+        {
+          "word": "ចុះ",
+          "phonetic": "choh",
+          "translation": "Down"
+        },
+        {
+          "word": "សម្រុង",
+          "phonetic": "samroung",
+          "translation": "Harmony"
+        },
+        {
+          "word": "នឹង",
+          "phonetic": "nung",
+          "translation": "Will"
+        },
+        {
+          "word": "ដប",
+          "phonetic": "dab",
+          "translation": "Bottle"
+        },
+        {
+          "word": "ស្រា",
+          "phonetic": "sra",
+          "translation": "Wine"
+        }
+      ]
+    },
+    {
+      "line": "តើអ្នកណាខ្ឡះដូចខ្ញុំ? អភ័ព្វស្នេហ៍",
+      "translation": "Who is like me? Unfortunate love",
+      "phonetic": "tae anaknea khlah dauch khnhom?  aphpv sne",
+      "words": [
+        {
+          "word": "តើ",
+          "phonetic": "tae",
+          "translation": "Is"
+        },
+        {
+          "word": "អ្នកណា",
+          "phonetic": "anaknea",
+          "translation": "Who"
+        },
+        {
+          "word": "ខ្ឡះ",
+          "phonetic": "khlah",
+          "translation": "Some"
+        },
+        {
+          "word": "ដូច",
+          "phonetic": "dauch",
+          "translation": "Like"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "?",
+          "phonetic": "",
+          "translation": "?"
+        },
+        {
+          "word": "អភ័ព្វ",
+          "phonetic": "aphpv",
+          "translation": "Unfortunately"
+        },
+        {
+          "word": "ស្នេហ៍",
+          "phonetic": "sne",
+          "translation": "Love"
+        }
+      ]
+    },
+    {
+      "line": "មានអ្នកណាខ្លះចង់យំ? ខ្ញុំសុំយំដែរ",
+      "translation": "Who wants to cry? I want to cry too",
+      "phonetic": "mean anak nakhleah chngyom?  khnhom som yom der",
+      "words": [
+        {
+          "word": "មាន",
+          "phonetic": "mean",
+          "translation": "Have"
+        },
+        {
+          "word": "អ្នក",
+          "phonetic": "anak",
+          "translation": "You"
+        },
+        {
+          "word": "ណាខ្លះ",
+          "phonetic": "nakhleah",
+          "translation": "Which"
+        },
+        {
+          "word": "ចង់",
+          "phonetic": "chng",
+          "translation": "Want"
+        },
+        {
+          "word": "យំ",
+          "phonetic": "yom",
+          "translation": "Cry"
+        },
+        {
+          "word": "?",
+          "phonetic": "",
+          "translation": "?"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "សុំ",
+          "phonetic": "som",
+          "translation": "Ask"
+        },
+        {
+          "word": "យំ",
+          "phonetic": "yom",
+          "translation": "Cry"
+        },
+        {
+          "word": "ដែរ",
+          "phonetic": "der",
+          "translation": "Also"
+        }
+      ]
+    },
+    {
+      "break": true
+    },
+    {
+      "line": "ឆ្នាំមុន ឆ្នាំនេះខ្ញុំ Solo",
+      "translation": "Last year this year I Solo",
+      "phonetic": "chhnamoun  chhnam nih khnhom solo",
+      "words": [
+        {
+          "word": "ឆ្នាំមុន",
+          "phonetic": "chhnamoun",
+          "translation": "Last year"
+        },
+        {
+          "word": "ឆ្នាំ",
+          "phonetic": "chhnam",
+          "translation": "Years"
+        },
+        {
+          "word": "នេះ",
+          "phonetic": "nih",
+          "translation": "This"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "Solo",
+          "phonetic": "",
+          "translation": "Solo"
+        }
+      ]
+    },
+    {
+      "line": "ខំណាស់ដែរតែនៅតែ Solo",
+      "translation": "Hard work but still Solo",
+      "phonetic": "kham nasa der te nowte solo",
+      "words": [
+        {
+          "word": "ខំ",
+          "phonetic": "kham",
+          "translation": "Try"
+        },
+        {
+          "word": "ណាស់",
+          "phonetic": "nasa",
+          "translation": "Very"
+        },
+        {
+          "word": "ដែរ",
+          "phonetic": "der",
+          "translation": "Also"
+        },
+        {
+          "word": "តែ",
+          "phonetic": "te",
+          "translation": "Tea"
+        },
+        {
+          "word": "នៅតែ",
+          "phonetic": "nowte",
+          "translation": "Still"
+        },
+        {
+          "word": "Solo",
+          "phonetic": "",
+          "translation": "Solo"
+        }
+      ]
+    },
+    {
+      "line": "រឿងស្នេហាមានតែពាក្យថា Sorrow",
+      "translation": "Love story only with the word Sorrow",
+      "phonetic": "rueng snehea meante peaky tha sorrow",
+      "words": [
+        {
+          "word": "រឿង",
+          "phonetic": "rueng",
+          "translation": "Story"
+        },
+        {
+          "word": "ស្នេហា",
+          "phonetic": "snehea",
+          "translation": "Love"
+        },
+        {
+          "word": "មានតែ",
+          "phonetic": "meante",
+          "translation": "Only"
+        },
+        {
+          "word": "ពាក្យ",
+          "phonetic": "peaky",
+          "translation": "Words"
+        },
+        {
+          "word": "ថា",
+          "phonetic": "tha",
+          "translation": "That"
+        },
+        {
+          "word": "Sorrow",
+          "phonetic": "",
+          "translation": "Sorrow"
+        }
+      ]
+    },
+    {
+      "line": "បើកបេះដូងឲ្យតែគេនោះចេញចូល",
+      "translation": "Open your heart to let them in and out",
+      "phonetic": "baek behdaung aoy te ke noh chenhchaul",
+      "words": [
+        {
+          "word": "បើក",
+          "phonetic": "baek",
+          "translation": "Open"
+        },
+        {
+          "word": "បេះដូង",
+          "phonetic": "behdaung",
+          "translation": "Heart"
+        },
+        {
+          "word": "ឲ្យតែ",
+          "phonetic": "aoy te",
+          "translation": "As long as"
+        },
+        {
+          "word": "គេ",
+          "phonetic": "ke",
+          "translation": "They"
+        },
+        {
+          "word": "នោះ",
+          "phonetic": "noh",
+          "translation": "That"
+        },
+        {
+          "word": "ចេញចូល",
+          "phonetic": "chenhchaul",
+          "translation": "Login"
+        }
+      ]
+    },
+    {
+      "line": "គេថាខ្ញុំសម្ដែងខូចចិត្តតែឯង",
+      "translation": "It is said that I acted alone",
+      "phonetic": "ke tha khnhom samdeng khauchchett teeng",
+      "words": [
+        {
+          "word": "គេ",
+          "phonetic": "ke",
+          "translation": "They"
+        },
+        {
+          "word": "ថា",
+          "phonetic": "tha",
+          "translation": "That"
+        },
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "សម្ដែង",
+          "phonetic": "samdeng",
+          "translation": "Acting"
+        },
+        {
+          "word": "ខូចចិត្ត",
+          "phonetic": "khauchchett",
+          "translation": "Broken hearted"
+        },
+        {
+          "word": "តែឯង",
+          "phonetic": "teeng",
+          "translation": "Alone"
+        }
+      ]
+    },
+    {
+      "line": "ខ្ញុំតូចចិត្តតែឯង",
+      "translation": "I'm upset alone",
+      "phonetic": "khnhom tauchchett teeng",
+      "words": [
+        {
+          "word": "ខ្ញុំ",
+          "phonetic": "khnhom",
+          "translation": "I"
+        },
+        {
+          "word": "តូចចិត្ត",
+          "phonetic": "tauchchett",
+          "translation": "Upset"
+        },
+        {
+          "word": "តែឯង",
+          "phonetic": "teeng",
+          "translation": "Alone"
+        }
+      ]
+    },
+    {
+      "line": "ស្នេហាដូចរឿងកំប្លែង",
+      "translation": "Love like a joke",
+      "phonetic": "snehea dauch rueng kambleng",
+      "words": [
+        {
+          "word": "ស្នេហា",
+          "phonetic": "snehea",
+          "translation": "Love"
+        },
+        {
+          "word": "ដូច",
+          "phonetic": "dauch",
+          "translation": "Like"
+        },
+        {
+          "word": "រឿង",
+          "phonetic": "rueng",
+          "translation": "Story"
+        },
+        {
+          "word": "កំប្លែង",
+          "phonetic": "kambleng",
+          "translation": "Funny"
+        }
+      ]
+    },
+    {
+      "line": "អូនជាតួឯក អូនពូកែសម្ដែង",
+      "translation": "You are the main character, you are good at acting",
+      "phonetic": "aun chea tuoek  aun pouke samdeng",
+      "words": [
+        {
+          "word": "អូន",
+          "phonetic": "aun",
+          "translation": "Me"
+        },
+        {
+          "word": "ជា",
+          "phonetic": "chea",
+          "translation": "Is"
+        },
+        {
+          "word": "តួឯក",
+          "phonetic": "tuoek",
+          "translation": "Protagonist"
+        },
+        {
+          "word": "អូន",
+          "phonetic": "aun",
+          "translation": "Me"
+        },
+        {
+          "word": "ពូកែ",
+          "phonetic": "pouke",
+          "translation": "Outstanding"
+        },
+        {
+          "word": "សម្ដែង",
+          "phonetic": "samdeng",
+          "translation": "Acting"
+        }
+      ]
+    },
+    {
+      "break": true
+    },
+    {
+      "line": "ថ្ងៃនេះមានអារម្មណ៍ថាដូចឯកា",
+      "translation": "Today feels lonely",
+      "phonetic": "thngainih mean arommo tha dauch eka",
+      "words": [
+        {
+          "word": "ថ្ងៃនេះ",
+          "phonetic": "thngainih",
+          "translation": "Today"
+        },
+        {
+          "word": "មាន",
+          "phonetic": "mean",
+          "translation": "Have"
+        },
+        {
+          "word": "អារម្មណ៍",
+          "phonetic": "arommo",
+          "translation": "Feelings"
+        },
+        {
+          "word": "ថា",
+          "phonetic": "tha",
+          "translation": "That"
+        },
+        {
+          "word": "ដូច",
+          "phonetic": "dauch",
+          "translation": "Like"
+        },
+        {
+          "word": "ឯកា",
+          "phonetic": "eka",
+          "translation": "Lonely"
+        }
+      ]
+    },
+    {
+      "line": "ឈឺចិត្តព្រោះតែទើបបែកបាក់ស្នេហា",
+      "translation": "Sad because I just broke up",
+      "phonetic": "chhuchett prohte teub bekbak snehea",
+      "words": [
+        {
+          "word": "ឈឺចិត្ត",
+          "phonetic": "chhuchett",
+          "translation": "It hurts"
+        },
+        {
+          "word": "ព្រោះតែ",
+          "phonetic": "prohte",
+          "translation": "Because"
+        },
+        {
+          "word": "ទើប",
+          "phonetic": "teub",
+          "translation": "Recently"
+        },
+        {
+          "word": "បែកបាក់",
+          "phonetic": "bekbak",
+          "translation": "Break up"
+        },
+        {
+          "word": "ស្នេហា",
+          "phonetic": "snehea",
+          "translation": "Love"
+        }
+      ]
+    },
+    {
+      "line": "ពេលនេះ កំពុងរវល់កាន់កែវស្រា",
+      "translation": "Now busy holding a glass of wine",
+      "phonetic": "pelnih  kampoungorovl kan kev sra",
+      "words": [
+        {
+          "word": "ពេលនេះ",
+          "phonetic": "pelnih",
+          "translation": "Now"
+        },
+        {
+          "word": "កំពុង",
+          "phonetic": "kampoung",
+          "translation": "Is"
+        },
+        {
+          "word": "រវល់",
+          "phonetic": "rovl",
+          "translation": "Busy"
+        },
+        {
+          "word": "កាន់",
+          "phonetic": "kan",
+          "translation": "Hold"
+        },
+        {
+          "word": "កែវ",
+          "phonetic": "kev",
+          "translation": "Glass"
+        },
+        {
+          "word": "ស្រា",
+          "phonetic": "sra",
+          "translation": "Wine"
+        }
+      ]
+    },
+    {
+      "line": "យប់នេះ ស្វែងរកសង្សារ",
+      "translation": "Tonight looking for a girlfriend",
+      "phonetic": "yb nih  svengork sangsaear",
+      "words": [
+        {
+          "word": "យប់",
+          "phonetic": "yb",
+          "translation": "Night"
+        },
+        {
+          "word": "នេះ",
+          "phonetic": "nih",
+          "translation": "This"
+        },
+        {
+          "word": "ស្វែងរក",
+          "phonetic": "svengork",
+          "translation": "Search"
+        },
+        {
+          "word": "សង្សារ",
+          "phonetic": "sangsaear",
+          "translation": "Girlfriend"
+        }
+      ]
+    },
+    {
+      "break": true
+    },
+    {
+      "line": "អ៎ៗ យប់នេះអូនក៏ញ៉ាំហើយបងក៏ញ៉ាំ",
+      "translation": "Oh, tonight I ate and I ate",
+      "phonetic": "a’   yb nih aun ka nhoam haey bng ka nhoam",
+      "words": [
+        {
+          "word": "អ៎",
+          "phonetic": "a’",
+          "translation": "Oh"
+        },
+        {
+          "word": "ៗ",
+          "phonetic": "",
+          "translation": "⁇"
+        },
+        {
+          "word": "យប់",
+          "phonetic": "yb",
+          "translation": "Night"
+        },
+        {
+          "word": "នេះ",
+          "phonetic": "nih",
+          "translation": "This"
+        },
+        {
+          "word": "អូន",
+          "phonetic": "aun",
+          "translation": "Me"
+        },
+        {
+          "word": "ក៏",
+          "phonetic": "ka",
+          "translation": "Also"
+        },
+        {
+          "word": "ញ៉ាំ",
+          "phonetic": "nhoam",
+          "translation": "To eat"
+        },
+        {
+          "word": "ហើយ",
+          "phonetic": "haey",
+          "translation": "And"
+        },
+        {
+          "word": "បង",
+          "phonetic": "bng",
+          "translation": "Brother"
+        },
+        {
+          "word": "ក៏",
+          "phonetic": "ka",
+          "translation": "Also"
+        },
+        {
+          "word": "ញ៉ាំ",
+          "phonetic": "nhoam",
+          "translation": "To eat"
+        }
+      ]
+    },
+    {
+      "line": "អូនញ៉ាំដើម្បីសប្បាយតែបងញ៉ាំដើម្បីចាំ",
+      "translation": "I eat to be happy, but I eat to remember",
+      "phonetic": "aun nhoam daembi sabbay te bng nhoam daembi cham",
+      "words": [
+        {
+          "word": "អូន",
+          "phonetic": "aun",
+          "translation": "Me"
+        },
+        {
+          "word": "ញ៉ាំ",
+          "phonetic": "nhoam",
+          "translation": "To eat"
+        },
+        {
+          "word": "ដើម្បី",
+          "phonetic": "daembi",
+          "translation": "To"
+        },
+        {
+          "word": "សប្បាយ",
+          "phonetic": "sabbay",
+          "translation": "Have fun"
+        },
+        {
+          "word": "តែ",
+          "phonetic": "te",
+          "translation": "Tea"
+        },
+        {
+          "word": "បង",
+          "phonetic": "bng",
+          "translation": "Brother"
+        },
+        {
+          "word": "ញ៉ាំ",
+          "phonetic": "nhoam",
+          "translation": "To eat"
+        },
+        {
+          "word": "ដើម្បី",
+          "phonetic": "daembi",
+          "translation": "To"
+        },
+        {
+          "word": "ចាំ",
+          "phonetic": "cham",
+          "translation": "Remember"
+        }
+      ]
+    },
+    {
+      "line": "ស្នេហាទើបតែប្រេះស្រាំ",
+      "translation": "Love has just broken",
+      "phonetic": "snehea teubte brehsram",
+      "words": [
+        {
+          "word": "ស្នេហា",
+          "phonetic": "snehea",
+          "translation": "Love"
+        },
+        {
+          "word": "ទើប",
+          "phonetic": "teub",
+          "translation": "Recently"
+        },
+        {
+          "word": "តែ",
+          "phonetic": "te",
+          "translation": "Tea"
+        },
+        {
+          "word": "ប្រេះស្រាំ",
+          "phonetic": "brehsram",
+          "translation": "Crack"
+        }
+      ]
+    },
+    {
+      "line": "បើបានអូននៅកំដរ យើងបន្តដល់ម៉ោង៥",
+      "translation": "If you stay with us, we will continue until 5 o'clock",
+      "phonetic": "bae ban aun now kamdr  yeung bant dl maong5",
+      "words": [
+        {
+          "word": "បើ",
+          "phonetic": "bae",
+          "translation": "If"
+        },
+        {
+          "word": "បាន",
+          "phonetic": "ban",
+          "translation": "Yes"
+        },
+        {
+          "word": "អូន",
+          "phonetic": "aun",
+          "translation": "Me"
+        },
+        {
+          "word": "នៅ",
+          "phonetic": "now",
+          "translation": "At"
+        },
+        {
+          "word": "កំដរ",
+          "phonetic": "kamdr",
+          "translation": "Accompany"
+        },
+        {
+          "word": "យើង",
+          "phonetic": "yeung",
+          "translation": "We"
+        },
+        {
+          "word": "បន្ត",
+          "phonetic": "bant",
+          "translation": "Continue"
+        },
+        {
+          "word": "ដល់ម៉ោង",
+          "phonetic": "dlmaong",
+          "translation": "On time"
+        },
+        {
+          "word": "៥",
+          "phonetic": "5",
+          "translation": "5"
+        }
+      ]
+    },
+    {
+      "line": "គិតច្រើនធ្វើអី ប្រុសពេញដីស្រីពេញនគរ",
+      "translation": "Think a lot, do men all over the land, women all over the kingdom",
+      "phonetic": "kit chraen thveu ei  brosa penh dei srei penh nokr",
+      "words": [
+        {
+          "word": "គិត",
+          "phonetic": "kit",
+          "translation": "Think"
+        },
+        {
+          "word": "ច្រើន",
+          "phonetic": "chraen",
+          "translation": "A lot"
+        },
+        {
+          "word": "ធ្វើ",
+          "phonetic": "thveu",
+          "translation": "Do"
+        },
+        {
+          "word": "អី",
+          "phonetic": "ei",
+          "translation": "What"
+        },
+        {
+          "word": "ប្រុស",
+          "phonetic": "brosa",
+          "translation": "Male"
+        },
+        {
+          "word": "ពេញ",
+          "phonetic": "penh",
+          "translation": "Full"
+        },
+        {
+          "word": "ដី",
+          "phonetic": "dei",
+          "translation": "Land"
+        },
+        {
+          "word": "ស្រី",
+          "phonetic": "srei",
+          "translation": "Female"
+        },
+        {
+          "word": "ពេញ",
+          "phonetic": "penh",
+          "translation": "Full"
+        },
+        {
+          "word": "នគរ",
+          "phonetic": "nokr",
+          "translation": "Kingdom"
+        }
+      ]
+    },
+    {
+      "line": "បើគេមិនស្មោះ ដោះលែងគេចុះ កុំទៅអង្វរ",
+      "translation": "If they are not sincere, let them go, do not beg",
+      "phonetic": "bae ke min smaoh  daohleng ke choh  kom tow angvor",
+      "words": [
+        {
+          "word": "បើ",
+          "phonetic": "bae",
+          "translation": "If"
+        },
+        {
+          "word": "គេ",
+          "phonetic": "ke",
+          "translation": "They"
+        },
+        {
+          "word": "មិន",
+          "phonetic": "min",
+          "translation": "No"
+        },
+        {
+          "word": "ស្មោះ",
+          "phonetic": "smaoh",
+          "translation": "Sincere"
+        },
+        {
+          "word": "ដោះលែង",
+          "phonetic": "daohleng",
+          "translation": "Release"
+        },
+        {
+          "word": "គេ",
+          "phonetic": "ke",
+          "translation": "They"
+        },
+        {
+          "word": "ចុះ",
+          "phonetic": "choh",
+          "translation": "Down"
+        },
+        {
+          "word": "កុំ",
+          "phonetic": "kom",
+          "translation": "Do not"
+        },
+        {
+          "word": "ទៅ",
+          "phonetic": "tow",
+          "translation": "To"
+        },
+        {
+          "word": "អង្វរ",
+          "phonetic": "angvor",
+          "translation": "Plead"
+        }
+      ]
+    },
+    {
+      "line": "បើអូនព្រមកាន់ដៃ បងនាំអូនទៅលើលំហ",
+      "translation": "If you agree to hold my hand, take me to space",
+      "phonetic": "bae aun prom kandai  bng noam aun towleu lomh",
+      "words": [
+        {
+          "word": "បើ",
+          "phonetic": "bae",
+          "translation": "If"
+        },
+        {
+          "word": "អូន",
+          "phonetic": "aun",
+          "translation": "Me"
+        },
+        {
+          "word": "ព្រម",
+          "phonetic": "prom",
+          "translation": "OK"
+        },
+        {
+          "word": "កាន់",
+          "phonetic": "kan",
+          "translation": "Hold"
+        },
+        {
+          "word": "ដៃ",
+          "phonetic": "dai",
+          "translation": "Hand"
+        },
+        {
+          "word": "បង",
+          "phonetic": "bng",
+          "translation": "Brother"
+        },
+        {
+          "word": "នាំ",
+          "phonetic": "noam",
+          "translation": "Bring"
+        },
+        {
+          "word": "អូន",
+          "phonetic": "aun",
+          "translation": "Me"
+        },
+        {
+          "word": "ទៅលើ",
+          "phonetic": "towleu",
+          "translation": "On top"
+        },
+        {
+          "word": "លំហ",
+          "phonetic": "lomh",
+          "translation": "Space"
+        }
+      ]
+    },
+    {
+      "line": "មានចក្ខុវិស័យ ឃើញស្នេហាក្នុងផ្លូវល្អ",
+      "translation": "Have a vision to see love in a good way",
+      "phonetic": "mean chakkhovisay  kheunh snehea knong phlauv la",
+      "words": [
+        {
+          "word": "មាន",
+          "phonetic": "mean",
+          "translation": "Have"
+        },
+        {
+          "word": "ចក្ខុវិស័យ",
+          "phonetic": "chakkhovisay",
+          "translation": "Vision"
+        },
+        {
+          "word": "ឃើញ",
+          "phonetic": "kheunh",
+          "translation": "See"
+        },
+        {
+          "word": "ស្នេហា",
+          "phonetic": "snehea",
+          "translation": "Love"
+        },
+        {
+          "word": "ក្នុង",
+          "phonetic": "knong",
+          "translation": "In"
+        },
+        {
+          "word": "ផ្លូវ",
+          "phonetic": "phlauv",
+          "translation": "Road"
+        },
+        {
+          "word": "ល្អ",
+          "phonetic": "la",
+          "translation": "Good"
+        }
+      ]
+    },
+    {
+      "line": "បងឃើញអូនសប្បាយ High-five",
+      "translation": "I see you happy High-five",
+      "phonetic": "bng kheunh aun sabbay high-five",
+      "words": [
+        {
+          "word": "បង",
+          "phonetic": "bng",
+          "translation": "Brother"
+        },
+        {
+          "word": "ឃើញ",
+          "phonetic": "kheunh",
+          "translation": "See"
+        },
+        {
+          "word": "អូន",
+          "phonetic": "aun",
+          "translation": "Me"
+        },
+        {
+          "word": "សប្បាយ",
+          "phonetic": "sabbay",
+          "translation": "Have fun"
+        },
+        {
+          "word": "High-five",
+          "phonetic": "",
+          "translation": "High-five"
+        }
+      ]
+    },
+    {
+      "line": "មេឃត្រជាក់ៗ រាប់ផ្កាយ (១ ២ ៤ ៥)",
+      "translation": "Cold skies counting stars (1 2 4 5)",
+      "phonetic": "mekh trachak   reab phkay (1 2 4  5)",
+      "words": [
+        {
+          "word": "មេឃ",
+          "phonetic": "mekh",
+          "translation": "The sky"
+        },
+        {
+          "word": "ត្រជាក់",
+          "phonetic": "trachak",
+          "translation": "Cold"
+        },
+        {
+          "word": "ៗ",
+          "phonetic": "",
+          "translation": "⁇"
+        },
+        {
+          "word": "រាប់",
+          "phonetic": "reab",
+          "translation": "Count"
+        },
+        {
+          "word": "ផ្កាយ",
+          "phonetic": "phkay",
+          "translation": "Star"
+        },
+        {
+          "word": "(",
+          "phonetic": "",
+          "translation": "("
+        },
+        {
+          "word": "១",
+          "phonetic": "1",
+          "translation": "1"
+        },
+        {
+          "word": "២",
+          "phonetic": "2",
+          "translation": "2"
+        },
+        {
+          "word": "៤",
+          "phonetic": "4",
+          "translation": "4"
+        },
+        {
+          "word": "៥",
+          "phonetic": "5",
+          "translation": "5"
+        },
+        {
+          "word": ")",
+          "phonetic": "",
+          "translation": ")"
+        }
+      ]
+    },
+    {
+      "line": "រាំជាមួយនឹងបង Tonight",
+      "translation": "Dance with Tonight",
+      "phonetic": "roam cheamuoynung bng tonight",
+      "words": [
+        {
+          "word": "រាំ",
+          "phonetic": "roam",
+          "translation": "Dance"
+        },
+        {
+          "word": "ជាមួយនឹង",
+          "phonetic": "cheamuoynung",
+          "translation": "With"
+        },
+        {
+          "word": "បង",
+          "phonetic": "bng",
+          "translation": "Brother"
+        },
+        {
+          "word": "Tonight",
+          "phonetic": "",
+          "translation": "Tonight"
+        }
+      ]
+    },
+    {
+      "line": "បងចង់ឃើញអូនបំភ្លេចពាក្យថា Good night (Good night night night)",
+      "translation": "I want to see you forget the word Good night (Good night night night)",
+      "phonetic": "bng chng kheunh aun bamphlech peaky tha good night (good night night night)",
+      "words": [
+        {
+          "word": "បង",
+          "phonetic": "bng",
+          "translation": "Brother"
+        },
+        {
+          "word": "ចង់",
+          "phonetic": "chng",
+          "translation": "Want"
+        },
+        {
+          "word": "ឃើញ",
+          "phonetic": "kheunh",
+          "translation": "See"
+        },
+        {
+          "word": "អូន",
+          "phonetic": "aun",
+          "translation": "Me"
+        },
+        {
+          "word": "បំភ្លេច",
+          "phonetic": "bamphlech",
+          "translation": "Forget"
+        },
+        {
+          "word": "ពាក្យ",
+          "phonetic": "peaky",
+          "translation": "Words"
+        },
+        {
+          "word": "ថា",
+          "phonetic": "tha",
+          "translation": "That"
+        },
+        {
+          "word": "Good",
+          "phonetic": "",
+          "translation": "Good"
+        },
+        {
+          "word": "night",
+          "phonetic": "",
+          "translation": "night"
+        },
+        {
+          "word": "(Good",
+          "phonetic": "",
+          "translation": "(Good"
+        },
+        {
+          "word": "night",
+          "phonetic": "",
+          "translation": "night"
+        },
+        {
+          "word": "night",
+          "phonetic": "",
+          "translation": "night"
+        },
+        {
+          "word": "night)",
+          "phonetic": "",
+          "translation": "night)"
+        }
+      ]
+    },
+    {
+      "line": "បេះដូងបងកម្សត់ ព្រោះបងមិនទាន់មានអ្នកណាថែ",
+      "translation": "My heart is sad because I do not have anyone to take care of me",
+      "phonetic": "behdaung bng kamsaot  proh bng mintean mean anaknea the",
+      "words": [
+        {
+          "word": "បេះដូង",
+          "phonetic": "behdaung",
+          "translation": "Heart"
+        },
+        {
+          "word": "បង",
+          "phonetic": "bng",
+          "translation": "Brother"
+        },
+        {
+          "word": "កម្សត់",
+          "phonetic": "kamsaot",
+          "translation": "Sad"
+        },
+        {
+          "word": "ព្រោះ",
+          "phonetic": "proh",
+          "translation": "Because"
+        },
+        {
+          "word": "បង",
+          "phonetic": "bng",
+          "translation": "Brother"
+        },
+        {
+          "word": "មិនទាន់",
+          "phonetic": "mintean",
+          "translation": "Not yet"
+        },
+        {
+          "word": "មាន",
+          "phonetic": "mean",
+          "translation": "Have"
+        },
+        {
+          "word": "អ្នកណា",
+          "phonetic": "anaknea",
+          "translation": "Who"
+        },
+        {
+          "word": "ថែ",
+          "phonetic": "the",
+          "translation": "Take care"
+        }
+      ]
+    },
+    {
+      "line": "មិនបាច់មើលទៅឆ្ងាយ",
+      "translation": "No need to look far",
+      "phonetic": "minbach meul tow chhngay",
+      "words": [
+        {
+          "word": "មិនបាច់",
+          "phonetic": "minbach",
+          "translation": "No need"
+        },
+        {
+          "word": "មើលទៅ",
+          "phonetic": "meultow",
+          "translation": "Look"
+        },
+        {
+          "word": "ឆ្ងាយ",
+          "phonetic": "chhngay",
+          "translation": "Far"
+        }
+      ]
+    },
+    {
+      "line": "ព្រោះពេលនេះបងមានអូននៅក្បែរ",
+      "translation": "Because now I have you by my side",
+      "phonetic": "proh pelnih bng mean aun now kber",
+      "words": [
+        {
+          "word": "ព្រោះ",
+          "phonetic": "proh",
+          "translation": "Because"
+        },
+        {
+          "word": "ពេលនេះ",
+          "phonetic": "pelnih",
+          "translation": "Now"
+        },
+        {
+          "word": "បង",
+          "phonetic": "bng",
+          "translation": "Brother"
+        },
+        {
+          "word": "មាន",
+          "phonetic": "mean",
+          "translation": "Have"
+        },
+        {
+          "word": "អូន",
+          "phonetic": "aun",
+          "translation": "Me"
+        },
+        {
+          "word": "នៅក្បែរ",
+          "phonetic": "now kber",
+          "translation": "Nearby"
+        }
+      ]
+    },
+    {
+      "line": "ស្បែកជើង កែងចោត អាវសដូចស្បៃ",
+      "translation": "White heels",
+      "phonetic": "sbekcheung kengchaot  av sa dauch sbai",
+      "words": [
+        {
+          "word": "ស្បែកជើង",
+          "phonetic": "sbekcheung",
+          "translation": "Shoes"
+        },
+        {
+          "word": "កែងចោត",
+          "phonetic": "kengchaot",
+          "translation": "Stump"
+        },
+        {
+          "word": "អាវ",
+          "phonetic": "av",
+          "translation": "Shirt"
+        },
+        {
+          "word": "ស",
+          "phonetic": "sa",
+          "translation": "White"
+        },
+        {
+          "word": "ដូច",
+          "phonetic": "dauch",
+          "translation": "Like"
+        },
+        {
+          "word": "ស្បៃ",
+          "phonetic": "sbai",
+          "translation": "Veil"
+        }
+      ]
+    },
+    {
+      "line": "ស្បែកស ម៉ត់ខៃ ដូចពេជ្រចរណៃ",
+      "translation": "White skin like diamonds",
+      "phonetic": "sbe ksa mtkhai  dauch pechrocharnai",
+      "words": [
+        {
+          "word": "ស្បែក",
+          "phonetic": "sbek",
+          "translation": "Skin"
+        },
+        {
+          "word": "ស",
+          "phonetic": "sa",
+          "translation": "White"
+        },
+        {
+          "word": "ម៉ត់",
+          "phonetic": "mt",
+          "translation": "Matt"
+        },
+        {
+          "word": "ខៃ",
+          "phonetic": "khai",
+          "translation": "Khay"
+        },
+        {
+          "word": "ដូច",
+          "phonetic": "dauch",
+          "translation": "Like"
+        },
+        {
+          "word": "ពេជ្រ",
+          "phonetic": "pechr",
+          "translation": "Diamonds"
+        },
+        {
+          "word": "ចរណៃ",
+          "phonetic": "charnai",
+          "translation": "Travel"
+        }
+      ]
+    },
+    {
+      "line": "ទប់ចិត្តមិនបាន តែឲ្យតម្លៃ",
+      "translation": "Uncontrollable but appreciative",
+      "phonetic": "tbchett minban  te aoy tamlei",
+      "words": [
+        {
+          "word": "ទប់ចិត្ត",
+          "phonetic": "tbchett",
+          "translation": "Restrain"
+        },
+        {
+          "word": "មិនបាន",
+          "phonetic": "minban",
+          "translation": "No"
+        },
+        {
+          "word": "តែ",
+          "phonetic": "te",
+          "translation": "Tea"
+        },
+        {
+          "word": "ឲ្យ",
+          "phonetic": "aoy",
+          "translation": "To"
+        },
+        {
+          "word": "តម្លៃ",
+          "phonetic": "tamlei",
+          "translation": "Price"
+        }
+      ]
+    },
+    {
+      "line": "យប់នេះតែងខ្លួនទៅណា ប្រាប់បងផងជីវ៉ា",
+      "translation": "Tell me where to get dressed tonight, Chiva",
+      "phonetic": "yb nih tengokhluon townea  brab bng phng chivea",
+      "words": [
+        {
+          "word": "យប់",
+          "phonetic": "yb",
+          "translation": "Night"
+        },
+        {
+          "word": "នេះ",
+          "phonetic": "nih",
+          "translation": "This"
+        },
+        {
+          "word": "តែងខ្លួន",
+          "phonetic": "tengokhluon",
+          "translation": "Make up"
+        },
+        {
+          "word": "ទៅណា",
+          "phonetic": "townea",
+          "translation": "Where to go"
+        },
+        {
+          "word": "ប្រាប់",
+          "phonetic": "brab",
+          "translation": "Tell"
+        },
+        {
+          "word": "បង",
+          "phonetic": "bng",
+          "translation": "Brother"
+        },
+        {
+          "word": "ផង",
+          "phonetic": "phng",
+          "translation": "Also"
+        },
+        {
+          "word": "ជីវ៉ា",
+          "phonetic": "chivea",
+          "translation": "Chiva"
+        }
+      ]
+    },
+    {
+      "line": "សំពត់ខ្លី បងការពារកល្យាណ (បងការពារកល្យាណ)",
+      "translation": "Short skirt, I protect Kalyan (I protect Kalyan)",
+      "phonetic": "saampt khlei  bng karpar kalyean ( bng karpar kalyean)",
+      "words": [
+        {
+          "word": "សំពត់",
+          "phonetic": "saampt",
+          "translation": "Skirt"
+        },
+        {
+          "word": "ខ្លី",
+          "phonetic": "khlei",
+          "translation": "Short"
+        },
+        {
+          "word": "បង",
+          "phonetic": "bng",
+          "translation": "Brother"
+        },
+        {
+          "word": "ការពារ",
+          "phonetic": "karpar",
+          "translation": "Protect"
+        },
+        {
+          "word": "កល្យាណ",
+          "phonetic": "kalyean",
+          "translation": "Kalyan"
+        },
+        {
+          "word": "(",
+          "phonetic": "",
+          "translation": "("
+        },
+        {
+          "word": "បង",
+          "phonetic": "bng",
+          "translation": "Brother"
+        },
+        {
+          "word": "ការពារ",
+          "phonetic": "karpar",
+          "translation": "Protect"
+        },
+        {
+          "word": "កល្យាណ",
+          "phonetic": "kalyean",
+          "translation": "Kalyan"
+        },
+        {
+          "word": ")",
+          "phonetic": "",
+          "translation": ")"
+        }
+      ]
+    }
+  ]
+}

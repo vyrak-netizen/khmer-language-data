@@ -12,7 +12,6 @@
     {"char": "អ្នកគ្រូ","name": "Teacher (neak kru)"},
     {"char": "អ្នកសាស្រ្តា","name": "Professor (neak sastra)"},
     {"char": "អ្នកប្រាជ្ញ","name": "Scholar (neak prach)"},
-    {"char": "បណ្ឌិត","name": "Doctor (bondeut)"},
-    {"char": "វេជ្ជបណ្ឌិត", "name": "Company (kromhon)"}
+    {"char": "បណ្ឌិត","name": "Doctor (bondeut)"}
   ]
 }

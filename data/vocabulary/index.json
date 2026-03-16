@@ -10,9 +10,9 @@
     "file": "essentials.json"
   },
   {
-    "id": "arts_culture",
-    "label": "Arts & Culture",
-    "file": "arts_culture.json"
+    "id": "art_culture",
+    "label": "Art & Culture",
+    "file": "art_culture.json"
   },
   {
     "id": "numbers",

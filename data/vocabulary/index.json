@@ -5,6 +5,11 @@
     "file": "essentials.json"
   },
   {
+    "id": "custom",
+    "label": "By Me",
+    "file": "custom.json"
+  },
+  {
     "id": "numbers",
     "label": "Numbers",
     "file": "numbers.json"

@@ -1,0 +1,10 @@
+{
+  "id": "custom",
+  "label": "By Me",
+  "items": [
+    {
+      "char": "គុណភាព",
+      "name": "Quality (kounpheap)"
+    }
+  ]
+}

@@ -1,6 +1,14 @@
 {
   "id": "art_culture",
   "label": "Art & Culture",
+  "chunkSizes": [
+    10,
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
   "items": [
     {
       "char": "តន្ត្រី",

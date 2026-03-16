@@ -2,9 +2,17 @@
   "id": "custom",
   "label": "By Me",
   "items": [
-    {
-      "char": "គុណភាព",
-      "name": "Quality (kounpheap)"
-    }
+    {"char": "គុណភាព","name": "Quality (kounpheap)"},
+    {"char": "អ្នកផលិត","name": "Manufacturer (neak pheuleut)"},
+    {"char": "អភិវឌ្ឍន៍","name": "Development (apivoit)"},
+    {"char": "កសិកម្ម","name": "Agriculture(katsekam)"},
+    {"char": "កសិដ្ឋាន","name": "Farm (katsetan)"},
+    {"char": "ទេសចរណ៍","name": "Tourism (tesachor)"},
+    {"char": "គាំទ្រ","name": "Support (kontro)"},
+    {"char": "អ្នកគ្រូ","name": "Teacher (neak kru)"},
+    {"char": "អ្នកសាស្រ្តា","name": "Professor (neak sastra)"},
+    {"char": "អ្នកប្រាជ្ញ","name": "Scholar (neak prach)"},
+    {"char": "បណ្ឌិត","name": "Doctor (bondeut)"},
+    {"char": "វេជ្ជបណ្ឌិត", "name": "Company (kromhon)"}
   ]
 }

@@ -1,0 +1,162 @@
+{
+  "id": "business",
+  "label": "Business & Work",
+  "items": [
+    {
+      "char": "លុយ",
+      "name": "Money (Luy)"
+    },
+    {
+      "char": "ការងារ",
+      "name": "Work / Job (Karngear)"
+    },
+    {
+      "char": "ក្រុមហ៊ុន",
+      "name": "Company (Kromhun)"
+    },
+    {
+      "char": "ការិយាល័យ",
+      "name": "Office (Kariyaley)"
+    },
+    {
+      "char": "ទិញ",
+      "name": "Buy (Tenh)"
+    },
+    {
+      "char": "លក់",
+      "name": "Sell (Luok)"
+    },
+    {
+      "char": "តម្លៃ",
+      "name": "Price (Domlai)"
+    },
+    {
+      "char": "ប្រធាន",
+      "name": "Boss / Manager (Prothean)"
+    },
+    {
+      "char": "បុគ្គលិក",
+      "name": "Employee (Bokolik)"
+    },
+    {
+      "char": "អតិថិជន",
+      "name": "Customer (Atethechon)"
+    },
+    {
+      "char": "អាជីវកម្ម",
+      "name": "Business (Ajivokam)"
+    },
+    {
+      "char": "ប្រាក់ខែ",
+      "name": "Salary (Prak khae)"
+    },
+    {
+      "char": "ការប្រជុំ",
+      "name": "Meeting (Kar prochum)"
+    },
+    {
+      "char": "ទីផ្សារ",
+      "name": "Market (Phsar)"
+    },
+    {
+      "char": "ធនាគារ",
+      "name": "Bank (Thneakea)"
+    },
+    {
+      "char": "ចំណេញ",
+      "name": "Profit (Chomnenh)"
+    },
+    {
+      "char": "ខាត",
+      "name": "Loss (Khat)"
+    },
+    {
+      "char": "គម្រោង",
+      "name": "Project (Komrong)"
+    },
+    {
+      "char": "គោលដៅ",
+      "name": "Goal (Koldov)"
+    },
+    {
+      "char": "ជោគជ័យ",
+      "name": "Success (Chokchey)"
+    },
+    {
+      "char": "កិច្ចសន្យា",
+      "name": "Contract (Kech sonykea)"
+    },
+    {
+      "char": "ផលិតផល",
+      "name": "Product (Pholitophol)"
+    },
+    {
+      "char": "សេវាកម្ម",
+      "name": "Service (Sevakamm)"
+    },
+    {
+      "char": "ពន្ធ",
+      "name": "Tax (Pon)"
+    },
+    {
+      "char": "វិនិយោគ",
+      "name": "Invest (Viniyok)"
+    },
+    {
+      "char": "គណនេយ្យ",
+      "name": "Accounting (Konaney)"
+    },
+    {
+      "char": "ការផ្សាយពាណិជ្ជកម្ម",
+      "name": "Advertising (Kar phsay peanichokam)"
+    },
+    {
+      "char": "ដៃគូ",
+      "name": "Partner (Dai ku)"
+    },
+    {
+      "char": "ភាគហ៊ុន",
+      "name": "Stock / Share (Pheakhon)"
+    },
+    {
+      "char": "ឯកសារ",
+      "name": "Document (Aekasar)"
+    },
+    {
+      "char": "ហត្ថលេខា",
+      "name": "Signature (Hathlekha)"
+    },
+    {
+      "char": "សេដ្ឋកិច្ច",
+      "name": "Economy (Sethakech)"
+    },
+    {
+      "char": "ការនាំចេញ",
+      "name": "Export (Kar noam chenh)"
+    },
+    {
+      "char": "ការនាំចូល",
+      "name": "Import (Kar noam chol)"
+    },
+    {
+      "char": "ហានិភ័យ",
+      "name": "Risk (Haniphey)"
+    },
+    {
+      "char": "ថៅកែ",
+      "name": "Owner (Thov kae)"
+    },
+    {
+      "char": "វិក្កយបត្រ",
+      "name": "Invoice (Vikayobot)"
+    },
+    {
+      "char": "ថវិកា",
+      "name": "Budget (Thovika)"
+    },
+    {
+      "char": "យុទ្ធសាស្ត្រ",
+      "name": "Strategy (Yuthosast)"
+    }
+  ]
+}

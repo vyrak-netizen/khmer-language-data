@@ -1,0 +1,162 @@
+{
+  "id": "technology",
+  "label": "Technology",
+  "items": [
+    {
+      "char": "ទូរស័ព្ទ",
+      "name": "Phone (Turosap)"
+    },
+    {
+      "char": "ទូរស័ព្ទដៃ",
+      "name": "Mobile Phone (Turosap dai)"
+    },
+    {
+      "char": "កុំព្យូទ័រ",
+      "name": "Computer (Kompyuter)"
+    },
+    {
+      "char": "អ៊ីនធឺណិត",
+      "name": "Internet (Inthoenet)"
+    },
+    {
+      "char": "វ៉ាយហ្វាយ",
+      "name": "Wi-Fi (Wifi)"
+    },
+    {
+      "char": "ថ្ម",
+      "name": "Battery (Thmor)"
+    },
+    {
+      "char": "ឆ្នាំងសាក",
+      "name": "Charger (Chhnang sak)"
+    },
+    {
+      "char": "លេខសម្ងាត់",
+      "name": "Password (Lek somngat)"
+    },
+    {
+      "char": "សារ",
+      "name": "Message (Sar)"
+    },
+    {
+      "char": "កម្មវិធី",
+      "name": "Software / App (Kammovithi)"
+    },
+    {
+      "char": "អេក្រង់",
+      "name": "Screen (Aekrong)"
+    },
+    {
+      "char": "កាស",
+      "name": "Headphones (Kas)"
+    },
+    {
+      "char": "ម៉ាស៊ីន",
+      "name": "Machine (Masin)"
+    },
+    {
+      "char": "កាមេរ៉ា",
+      "name": "Camera (Kamera)"
+    },
+    {
+      "char": "បច្ចេកវិទ្យា",
+      "name": "Technology (Bochek vitya)"
+    },
+    {
+      "char": "ទូរទស្សន៍",
+      "name": "Television (Turotos)"
+    },
+    {
+      "char": "ក្តារចុច",
+      "name": "Keyboard (Kda choch)"
+    },
+    {
+      "char": "កណ្តុរ",
+      "name": "Mouse (Kondol)"
+    },
+    {
+      "char": "វិទ្យុ",
+      "name": "Radio (Vityu)"
+    },
+    {
+      "char": "ខ្សែ",
+      "name": "Cable / Wire (Khsae)"
+    },
+    {
+      "char": "ឧបករណ៍",
+      "name": "Device (Opokor)"
+    },
+    {
+      "char": "ទិន្នន័យ",
+      "name": "Data (Tinnonoy)"
+    },
+    {
+      "char": "គណនី",
+      "name": "Account (Konani)"
+    },
+    {
+      "char": "អ៊ីមែល",
+      "name": "Email (Imel)"
+    },
+    {
+      "char": "វីដេអូ",
+      "name": "Video (Video)"
+    },
+    {
+      "char": "រូបភាព",
+      "name": "Image / Picture (Rub pheap)"
+    },
+    {
+      "char": "សម្លេង",
+      "name": "Audio (Somleng)"
+    },
+    {
+      "char": "ទាញយក",
+      "name": "Download (Teanh yok)"
+    },
+    {
+      "char": "បង្ហោះ",
+      "name": "Upload (Bong hoh)"
+    },
+    {
+      "char": "តំណភ្ជាប់",
+      "name": "Link (Domnor phchoab)"
+    },
+    {
+      "char": "បណ្តាញសង្គម",
+      "name": "Social Media (Bonday songkom)"
+    },
+    {
+      "char": "ការស្វែងរក",
+      "name": "Search (Kar svaeng rok)"
+    },
+    {
+      "char": "កម្មវិធីរុករក",
+      "name": "Browser (Kammovithi ruk rok)"
+    },
+    {
+      "char": "ម៉ាស៊ីនបោះពុម្ព",
+      "name": "Printer (Masin bos pum)"
+    },
+    {
+      "char": "ថាសរឹង",
+      "name": "Hard Drive (Thas reung)"
+    },
+    {
+      "char": "អង្គចងចាំ",
+      "name": "Memory (Ong chong cham)"
+    },
+    {
+      "char": "ស៊ីមកាត",
+      "name": "SIM Card (Sim kat)"
+    },
+    {
+      "char": "មេរោគ",
+      "name": "Virus (Merok)"
+    },
+    {
+      "char": "សុវត្ថិភាព",
+      "name": "Security (Sovathapheap)"
+    }
+  ]
+}

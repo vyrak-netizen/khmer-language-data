@@ -1,0 +1,98 @@
+{
+  "id": "numbers",
+  "label": "Numbers",
+  "items": [
+    {
+      "char": "សូន្យ",
+      "name": "Zero (Soun)"
+    },
+    {
+      "char": "មួយ",
+      "name": "One (Muoy)"
+    },
+    {
+      "char": "ពីរ",
+      "name": "Two (Pii)"
+    },
+    {
+      "char": "បី",
+      "name": "Three (Bei)"
+    },
+    {
+      "char": "បួន",
+      "name": "Four (Buon)"
+    },
+    {
+      "char": "ប្រាំ",
+      "name": "Five (Pram)"
+    },
+    {
+      "char": "ប្រាំមួយ",
+      "name": "Six (Pram muoy)"
+    },
+    {
+      "char": "ប្រាំពីរ",
+      "name": "Seven (Pram pii)"
+    },
+    {
+      "char": "ប្រាំបី",
+      "name": "Eight (Pram bei)"
+    },
+    {
+      "char": "ប្រាំបួន",
+      "name": "Nine (Pram buon)"
+    },
+    {
+      "char": "ដប់",
+      "name": "Ten (Dop)"
+    },
+    {
+      "char": "ដប់មួយ",
+      "name": "Eleven (Dop muoy)"
+    },
+    {
+      "char": "ម្ភៃ",
+      "name": "Twenty (Mphei)"
+    },
+    {
+      "char": "សាមសិប",
+      "name": "Thirty (Sam sep)"
+    },
+    {
+      "char": "សែសិប",
+      "name": "Forty (Sae sep)"
+    },
+    {
+      "char": "ហាសិប",
+      "name": "Fifty (Ha sep)"
+    },
+    {
+      "char": "ហុកសិប",
+      "name": "Sixty (Hok sep)"
+    },
+    {
+      "char": "ចិតសិប",
+      "name": "Seventy (Chet sep)"
+    },
+    {
+      "char": "ប៉ែតសិប",
+      "name": "Eighty (Paet sep)"
+    },
+    {
+      "char": "កៅសិប",
+      "name": "Ninety (Kao sep)"
+    },
+    {
+      "char": "មួយរយ",
+      "name": "One Hundred (Muoy roy)"
+    },
+    {
+      "char": "មួយពាន់",
+      "name": "One Thousand (Muoy poan)"
+    },
+    {
+      "char": "មួយម៉ឺន",
+      "name": "Ten Thousand (Muoy meun)"
+    }
+  ]
+}

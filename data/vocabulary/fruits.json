@@ -1,0 +1,86 @@
+{
+  "id": "fruits",
+  "label": "Fruits",
+  "items": [
+    {
+      "char": "ផ្លែឈើ",
+      "name": "Fruit (Plae chheu)"
+    },
+    {
+      "char": "ចេក",
+      "name": "Banana (Chek)"
+    },
+    {
+      "char": "ស្វាយ",
+      "name": "Mango (Svay)"
+    },
+    {
+      "char": "ដូង",
+      "name": "Coconut (Doung)"
+    },
+    {
+      "char": "ក្រូច",
+      "name": "Orange (Krouch)"
+    },
+    {
+      "char": "ល្ហុង",
+      "name": "Papaya (Lhong)"
+    },
+    {
+      "char": "ម្នាស់",
+      "name": "Pineapple (Mnoas)"
+    },
+    {
+      "char": "ឪឡឹក",
+      "name": "Watermelon (Ov luek)"
+    },
+    {
+      "char": "ផ្លែប៉ោម",
+      "name": "Apple (Plae paom)"
+    },
+    {
+      "char": "ទំពាំងបាយជូរ",
+      "name": "Grapes (Tompeang bay chu)"
+    },
+    {
+      "char": "ក្រូចឆ្មា",
+      "name": "Lemon/Lime (Krouch chhma)"
+    },
+    {
+      "char": "មង្ឃុត",
+      "name": "Mangosteen (Mongkhut)"
+    },
+    {
+      "char": "ធុរេន",
+      "name": "Durian (Thuren)"
+    },
+    {
+      "char": "សាវម៉ាវ",
+      "name": "Rambutan (Sav mav)"
+    },
+    {
+      "char": "មៀន",
+      "name": "Longan (Mien)"
+    },
+    {
+      "char": "ត្នោត",
+      "name": "Palm Fruit (Tnot)"
+    },
+    {
+      "char": "ខ្នុរ",
+      "name": "Jackfruit (Khnôr)"
+    },
+    {
+      "char": "ចំពូ",
+      "name": "Rose Apple (Chompou)"
+    },
+    {
+      "char": "ទៀប",
+      "name": "Custard Apple (Tieb)"
+    },
+    {
+      "char": "មាក់ប្រាង",
+      "name": "Marian Plum (Meak prang)"
+    }
+  ]
+}

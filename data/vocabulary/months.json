@@ -1,0 +1,62 @@
+{
+  "id": "months",
+  "label": "Months",
+  "items": [
+    {
+      "char": "ខែ",
+      "name": "Month (Khae)"
+    },
+    {
+      "char": "មករា",
+      "name": "January (Mokara)"
+    },
+    {
+      "char": "កុម្ភៈ",
+      "name": "February (Komphea)"
+    },
+    {
+      "char": "មីនា",
+      "name": "March (Mina)"
+    },
+    {
+      "char": "មេសា",
+      "name": "April (Mesa)"
+    },
+    {
+      "char": "ឧសភា",
+      "name": "May (Ousapha)"
+    },
+    {
+      "char": "មិថុនា",
+      "name": "June (Methona)"
+    },
+    {
+      "char": "កក្កដា",
+      "name": "July (Kokada)"
+    },
+    {
+      "char": "សីហា",
+      "name": "August (Seiha)"
+    },
+    {
+      "char": "កញ្ញា",
+      "name": "September (Kanha)"
+    },
+    {
+      "char": "តុលា",
+      "name": "October (Tola)"
+    },
+    {
+      "char": "វិច្ឆិកា",
+      "name": "November (Vicheka)"
+    },
+    {
+      "char": "ធ្នូ",
+      "name": "December (Thnou)"
+    },
+    {
+      "char": "ឆ្នាំ",
+      "name": "Year (Chhnam)"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "body-parts",
+  "label": "Body Parts",
+  "items": [
+    {
+      "char": "ក្បាល",
+      "name": "Head (Kbal)"
+    },
+    {
+      "char": "ដៃ",
+      "name": "Arm / Hand (Dai)"
+    },
+    {
+      "char": "ជើង",
+      "name": "Leg / Foot (Cheung)"
+    },
+    {
+      "char": "មុខ",
+      "name": "Face (Muk)"
+    },
+    {
+      "char": "ភ្នែក",
+      "name": "Eye (Phnaek)"
+    },
+    {
+      "char": "មាត់",
+      "name": "Mouth (Moat)"
+    },
+    {
+      "char": "ច្រមុះ",
+      "name": "Nose (Cromoh)"
+    },
+    {
+      "char": "ត្រចៀក",
+      "name": "Ear (Tracheak)"
+    },
+    {
+      "char": "សក់",
+      "name": "Hair (Sok)"
+    },
+    {
+      "char": "ធ្មេញ",
+      "name": "Tooth (Thmenh)"
+    },
+    {
+      "char": "អណ្តាត",
+      "name": "Tongue (Andat)"
+    },
+    {
+      "char": "បបូរមាត់",
+      "name": "Lip (Bobor moat)"
+    },
+    {
+      "char": "ពោះ",
+      "name": "Stomach / Belly (Puoh)"
+    },
+    {
+      "char": "ខ្នង",
+      "name": "Back (Khnong)"
+    },
+    {
+      "char": "ទ្រូង",
+      "name": "Chest (Troung)"
+    },
+    {
+      "char": "ស្មា",
+      "name": "Shoulder (Sma)"
+    },
+    {
+      "char": "ក",
+      "name": "Neck (Kor)"
+    },
+    {
+      "char": "ម្រាមដៃ",
+      "name": "Finger (Mream dai)"
+    },
+    {
+      "char": "ម្រាមជើង",
+      "name": "Toe (Mream cheung)"
+    },
+    {
+      "char": "ជង្គង់",
+      "name": "Knee (Chongkong)"
+    },
+    {
+      "char": "ស្បែក",
+      "name": "Skin (Sbaek)"
+    },
+    {
+      "char": "ឈាម",
+      "name": "Blood (Chheam)"
+    },
+    {
+      "char": "បេះដូង",
+      "name": "Heart (Besdoung)"
+    },
+    {
+      "char": "ចិញ្ចើម",
+      "name": "Eyebrow (Chenhcheum)"
+    },
+    {
+      "char": "ថ្ពាល់",
+      "name": "Cheek (Thpoal)"
+    },
+    {
+      "char": "ចង្កា",
+      "name": "Chin (Chongka)"
+    },
+    {
+      "char": "កែងដៃ",
+      "name": "Elbow (Kaeng dai)"
+    },
+    {
+      "char": "កជើង",
+      "name": "Ankle (Kor cheung)"
+    },
+    {
+      "char": "កែងជើង",
+      "name": "Heel (Kaeng cheung)"
+    },
+    {
+      "char": "ក្រចក",
+      "name": "Nail (Krochok)"
+    },
+    {
+      "char": "សាច់ដុំ",
+      "name": "Muscle (Sach dom)"
+    },
+    {
+      "char": "ឆ្អឹង",
+      "name": "Bone (Chha'eung)"
+    },
+    {
+      "char": "ខួរក្បាល",
+      "name": "Brain (Khuor kbal)"
+    },
+    {
+      "char": "ក្រពះ",
+      "name": "Stomach [Organ] (Kropeah)"
+    },
+    {
+      "char": "សួត",
+      "name": "Lung (Suot)"
+    },
+    {
+      "char": "ថ្លើម",
+      "name": "Liver (Thlaeum)"
+    },
+    {
+      "char": "ពោះវៀន",
+      "name": "Intestine (Puoh vien)"
+    },
+    {
+      "char": "សរសៃឈាម",
+      "name": "Vein (Sorsai chheam)"
+    },
+    {
+      "char": "ញើស",
+      "name": "Sweat (Nheuh)"
+    },
+    {
+      "char": "ទឹកភ្នែក",
+      "name": "Tear (Tuek phnaek)"
+    }
+  ]
+}

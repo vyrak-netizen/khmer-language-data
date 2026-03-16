@@ -1,0 +1,50 @@
+{
+  "id": "numbers",
+  "label": "Numbers",
+  "chunkSizes": [
+    5,
+    5
+  ],
+  "items": [
+    {
+      "char": "០",
+      "name": "Zero (Soun)"
+    },
+    {
+      "char": "១",
+      "name": "One (Muoy)"
+    },
+    {
+      "char": "២",
+      "name": "Two (Pir)"
+    },
+    {
+      "char": "៣",
+      "name": "Three (Bei)"
+    },
+    {
+      "char": "៤",
+      "name": "Four (Buon)"
+    },
+    {
+      "char": "៥",
+      "name": "Five (Pram)"
+    },
+    {
+      "char": "៦",
+      "name": "Six (Pram-muoy)"
+    },
+    {
+      "char": "៧",
+      "name": "Seven (Pram-pir)"
+    },
+    {
+      "char": "៨",
+      "name": "Eight (Pram-bei)"
+    },
+    {
+      "char": "៩",
+      "name": "Nine (Pram-buon)"
+    }
+  ]
+}

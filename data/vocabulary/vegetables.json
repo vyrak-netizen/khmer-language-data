@@ -1,0 +1,90 @@
+{
+  "id": "vegetables",
+  "label": "Vegetables",
+  "items": [
+    {
+      "char": "បន្លែ",
+      "name": "Vegetable (Bonlae)"
+    },
+    {
+      "char": "បាយ",
+      "name": "Rice [Cooked] (Bay)"
+    },
+    {
+      "char": "ត្រកួន",
+      "name": "Morning Glory (Trokuon)"
+    },
+    {
+      "char": "ខ្ទឹមស",
+      "name": "Garlic (Khtuem sor)"
+    },
+    {
+      "char": "ម្ទេស",
+      "name": "Chili (Mtes)"
+    },
+    {
+      "char": "ខ្ទឹមក្រហម",
+      "name": "Shallot/Red Onion (Khtuem krahorm)"
+    },
+    {
+      "char": "ប៉េងប៉ោះ",
+      "name": "Tomato (Peng poh)"
+    },
+    {
+      "char": "ត្រសក់",
+      "name": "Cucumber (Trosok)"
+    },
+    {
+      "char": "ការ៉ុត",
+      "name": "Carrot (Karot)"
+    },
+    {
+      "char": "ដំឡូងបារាំង",
+      "name": "Potato (Domloung barang)"
+    },
+    {
+      "char": "ពោត",
+      "name": "Corn (Pot)"
+    },
+    {
+      "char": "ស្ពៃក្តោប",
+      "name": "Cabbage (Spey kdor)"
+    },
+    {
+      "char": "ខ្ញី",
+      "name": "Ginger (Khnhey)"
+    },
+    {
+      "char": "ត្រប់",
+      "name": "Eggplant (Trob)"
+    },
+    {
+      "char": "សណ្តែកបាយ",
+      "name": "Mung Bean (Sondaek bay)"
+    },
+    {
+      "char": "សណ្តែកគួរ",
+      "name": "Long Bean (Sondaek kuor)"
+    },
+    {
+      "char": "ស្ពៃខៀវ",
+      "name": "Chinese Cabbage (Spey khiev)"
+    },
+    {
+      "char": "ផ្កាខាត់ណា",
+      "name": "Cauliflower (Phka khat na)"
+    },
+    {
+      "char": "ត្រឡាច",
+      "name": "Winter Melon (Trolach)"
+    },
+    {
+      "char": "ត្រយូងចេក",
+      "name": "Banana Flower (Troyoung chek)"
+    },
+    {
+      "char": "អង្កាម",
+      "name": "Rice Husk/Sprout (Angkam)"
+    }
+  ]
+}

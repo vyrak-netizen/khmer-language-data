@@ -1,0 +1,104 @@
+{
+  "id": "dependent-vowels",
+  "label": "Dependent Vowels",
+  "chunkSizes": [
+    5,
+    6,
+    6,
+    6
+  ],
+  "items": [
+    {
+      "char": "ា",
+      "name": "aa"
+    },
+    {
+      "char": "ិ",
+      "name": "i"
+    },
+    {
+      "char": "ី",
+      "name": "ii"
+    },
+    {
+      "char": "ឹ",
+      "name": "ue"
+    },
+    {
+      "char": "ឺ",
+      "name": "uue"
+    },
+    {
+      "char": "ុ",
+      "name": "u"
+    },
+    {
+      "char": "ូ",
+      "name": "uu"
+    },
+    {
+      "char": "ួ",
+      "name": "uoe"
+    },
+    {
+      "char": "ើ",
+      "name": "aeu"
+    },
+    {
+      "char": "ឿ",
+      "name": "uea"
+    },
+    {
+      "char": "ៀ",
+      "name": "ie"
+    },
+    {
+      "char": "េ",
+      "name": "ee"
+    },
+    {
+      "char": "ែ",
+      "name": "ae"
+    },
+    {
+      "char": "ៃ",
+      "name": "ai"
+    },
+    {
+      "char": "ោ",
+      "name": "oo"
+    },
+    {
+      "char": "ៅ",
+      "name": "au"
+    },
+    {
+      "char": "ុំ",
+      "name": "om"
+    },
+    {
+      "char": "ំ",
+      "name": "am"
+    },
+    {
+      "char": "ាំ",
+      "name": "aam"
+    },
+    {
+      "char": "ះ",
+      "name": "ah"
+    },
+    {
+      "char": "ុះ",
+      "name": "uh"
+    },
+    {
+      "char": "េះ",
+      "name": "eh"
+    },
+    {
+      "char": "ោះ",
+      "name": "oh"
+    }
+  ]
+}

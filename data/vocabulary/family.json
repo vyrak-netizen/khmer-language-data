@@ -1,0 +1,74 @@
+{
+  "id": "family",
+  "label": "Family",
+  "items": [
+    {
+      "char": "គ្រួសារ",
+      "name": "Family (Kruosa)"
+    },
+    {
+      "char": "ម៉ាក់",
+      "name": "Mom (Mak)"
+    },
+    {
+      "char": "ប៉ា",
+      "name": "Dad (Pa)"
+    },
+    {
+      "char": "ម្តាយ",
+      "name": "Mother [Formal] (Mday)"
+    },
+    {
+      "char": "ឪពុក",
+      "name": "Father [Formal] (Ov puk)"
+    },
+    {
+      "char": "កូន",
+      "name": "Child (Koun)"
+    },
+    {
+      "char": "កូនប្រុស",
+      "name": "Son (Koun pros)"
+    },
+    {
+      "char": "កូនស្រី",
+      "name": "Daughter (Koun srey)"
+    },
+    {
+      "char": "បងប្រុស",
+      "name": "Older Brother (Bong pros)"
+    },
+    {
+      "char": "បងស្រី",
+      "name": "Older Sister (Bong srey)"
+    },
+    {
+      "char": "ប្អូនប្រុស",
+      "name": "Younger Brother (P'oun pros)"
+    },
+    {
+      "char": "ប្អូនស្រី",
+      "name": "Younger Sister (P'oun srey)"
+    },
+    {
+      "char": "យាយ",
+      "name": "Grandmother (Yeay)"
+    },
+    {
+      "char": "តា",
+      "name": "Grandfather (Ta)"
+    },
+    {
+      "char": "មិត្តភក្តិ",
+      "name": "Friend (Met pheak)"
+    },
+    {
+      "char": "ប្តី",
+      "name": "Husband (Pdey)"
+    },
+    {
+      "char": "ប្រពន្ធ",
+      "name": "Wife (Propon)"
+    }
+  ]
+}

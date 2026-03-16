@@ -1,0 +1,54 @@
+{
+  "id": "colors",
+  "label": "Colors",
+  "items": [
+    {
+      "char": "ពណ៌",
+      "name": "Color (Poa)"
+    },
+    {
+      "char": "ក្រហម",
+      "name": "Red (Krahom)"
+    },
+    {
+      "char": "ខៀវ",
+      "name": "Blue (Khiev)"
+    },
+    {
+      "char": "លឿង",
+      "name": "Yellow (Lueang)"
+    },
+    {
+      "char": "បៃតង",
+      "name": "Green (Baitong)"
+    },
+    {
+      "char": "ខ្មៅ",
+      "name": "Black (Khmao)"
+    },
+    {
+      "char": "ស",
+      "name": "White (Sor)"
+    },
+    {
+      "char": "ផ្កាឈូក",
+      "name": "Pink (Phka chhouk)"
+    },
+    {
+      "char": "ទឹកក្រូច",
+      "name": "Orange (Tuek krouch)"
+    },
+    {
+      "char": "ស្វាយ",
+      "name": "Purple (Svay)"
+    },
+    {
+      "char": "ត្នោត",
+      "name": "Brown (Tnot)"
+    },
+    {
+      "char": "ប្រផេះ",
+      "name": "Grey (Prophes)"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "days",
+  "label": "Days of the Week",
+  "items": [
+    {
+      "char": "ថ្ងៃ",
+      "name": "Day (Thngai)"
+    },
+    {
+      "char": "ថ្ងៃច័ន្ទ",
+      "name": "Monday (Thngai Chan)"
+    },
+    {
+      "char": "ថ្ងៃអង្គារ",
+      "name": "Tuesday (Thngai Angkea)"
+    },
+    {
+      "char": "ថ្ងៃពុធ",
+      "name": "Wednesday (Thngai Put)"
+    },
+    {
+      "char": "ថ្ងៃព្រហស្បតិ៍",
+      "name": "Thursday (Thngai Prohoas)"
+    },
+    {
+      "char": "ថ្ងៃសុក្រ",
+      "name": "Friday (Thngai Sok)"
+    },
+    {
+      "char": "ថ្ងៃសៅរ៍",
+      "name": "Saturday (Thngai Sao)"
+    },
+    {
+      "char": "ថ្ងៃអាទិត្យ",
+      "name": "Sunday (Thngai Atet)"
+    },
+    {
+      "char": "ថ្ងៃនេះ",
+      "name": "Today (Thngai nih)"
+    },
+    {
+      "char": "ថ្ងៃស្អែក",
+      "name": "Tomorrow (Thngai s'aek)"
+    },
+    {
+      "char": "ម្សិលមិញ",
+      "name": "Yesterday (Msel menh)"
+    }
+  ]
+}

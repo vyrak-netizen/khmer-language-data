@@ -1,0 +1,66 @@
+{
+  "id": "animals",
+  "label": "Animals",
+  "items": [
+    {
+      "char": "សត្វ",
+      "name": "Animal (Sat)"
+    },
+    {
+      "char": "ឆ្កែ",
+      "name": "Dog (Chhkae)"
+    },
+    {
+      "char": "ឆ្មា",
+      "name": "Cat (Chhma)"
+    },
+    {
+      "char": "ត្រី",
+      "name": "Fish (Trei)"
+    },
+    {
+      "char": "មាន់",
+      "name": "Chicken (Moan)"
+    },
+    {
+      "char": "ជ្រូក",
+      "name": "Pig (Chrouk)"
+    },
+    {
+      "char": "គោ",
+      "name": "Cow (Ko)"
+    },
+    {
+      "char": "បក្សី",
+      "name": "Bird (Boksei)"
+    },
+    {
+      "char": "ទា",
+      "name": "Duck (Tea)"
+    },
+    {
+      "char": "សេះ",
+      "name": "Horse (Seh)"
+    },
+    {
+      "char": "ដំរី",
+      "name": "Elephant (Domrei)"
+    },
+    {
+      "char": "ស្វា",
+      "name": "Monkey (Sva)"
+    },
+    {
+      "char": "ពស់",
+      "name": "Snake (Puoh)"
+    },
+    {
+      "char": "កណ្ដុរ",
+      "name": "Mouse / Rat (Kondol)"
+    },
+    {
+      "char": "មូស",
+      "name": "Mosquito (Mous)"
+    }
+  ]
+}

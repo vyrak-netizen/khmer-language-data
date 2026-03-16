@@ -1,0 +1,212 @@
+{
+  "id": "consonants",
+  "label": "Consonants",
+  "chunkSizes": [
+    5,
+    5,
+    5,
+    5,
+    5,
+    8
+  ],
+  "items": [
+    {
+      "char": "ក",
+      "sub": "្ក",
+      "name": "Ka",
+      "series": "a"
+    },
+    {
+      "char": "ខ",
+      "sub": "្ខ",
+      "name": "Kha",
+      "series": "a"
+    },
+    {
+      "char": "គ",
+      "sub": "្គ",
+      "name": "Ko",
+      "series": "o"
+    },
+    {
+      "char": "ឃ",
+      "sub": "្ឃ",
+      "name": "Kho",
+      "series": "o"
+    },
+    {
+      "char": "ង",
+      "sub": "្ង",
+      "name": "Ngo",
+      "series": "o"
+    },
+    {
+      "char": "ច",
+      "sub": "្ច",
+      "name": "Cha",
+      "series": "a"
+    },
+    {
+      "char": "ឆ",
+      "sub": "្ឆ",
+      "name": "Chha",
+      "series": "a"
+    },
+    {
+      "char": "ជ",
+      "sub": "្ជ",
+      "name": "Cho",
+      "series": "o"
+    },
+    {
+      "char": "ឈ",
+      "sub": "្ឈ",
+      "name": "Chho",
+      "series": "o"
+    },
+    {
+      "char": "ញ",
+      "sub": "្ញ",
+      "name": "Nho",
+      "series": "o"
+    },
+    {
+      "char": "ដ",
+      "sub": "្ដ",
+      "name": "Da",
+      "series": "a"
+    },
+    {
+      "char": "ឋ",
+      "sub": "្ឋ",
+      "name": "Tha",
+      "series": "a"
+    },
+    {
+      "char": "ឌ",
+      "sub": "្ឌ",
+      "name": "Do",
+      "series": "o"
+    },
+    {
+      "char": "ឍ",
+      "sub": "្ឍ",
+      "name": "Tho",
+      "series": "o"
+    },
+    {
+      "char": "ណ",
+      "sub": "្ណ",
+      "name": "Na",
+      "series": "a"
+    },
+    {
+      "char": "ត",
+      "sub": "្ត",
+      "name": "Ta",
+      "series": "a"
+    },
+    {
+      "char": "ថ",
+      "sub": "្ថ",
+      "name": "Tha",
+      "series": "a"
+    },
+    {
+      "char": "ទ",
+      "sub": "្ទ",
+      "name": "To",
+      "series": "o"
+    },
+    {
+      "char": "ធ",
+      "sub": "្ធ",
+      "name": "Tho",
+      "series": "o"
+    },
+    {
+      "char": "ន",
+      "sub": "្ន",
+      "name": "No",
+      "series": "o"
+    },
+    {
+      "char": "ប",
+      "sub": "្ប",
+      "name": "Ba",
+      "series": "a"
+    },
+    {
+      "char": "ផ",
+      "sub": "្ផ",
+      "name": "Pha",
+      "series": "a"
+    },
+    {
+      "char": "ព",
+      "sub": "្ព",
+      "name": "Po",
+      "series": "o"
+    },
+    {
+      "char": "ភ",
+      "sub": "្ភ",
+      "name": "Pho",
+      "series": "o"
+    },
+    {
+      "char": "ម",
+      "sub": "្ម",
+      "name": "Mo",
+      "series": "o"
+    },
+    {
+      "char": "យ",
+      "sub": "្យ",
+      "name": "Yo",
+      "series": "o"
+    },
+    {
+      "char": "រ",
+      "sub": "្រ",
+      "name": "Ro",
+      "series": "o"
+    },
+    {
+      "char": "ល",
+      "sub": "្ល",
+      "name": "Lo",
+      "series": "o"
+    },
+    {
+      "char": "វ",
+      "sub": "្វ",
+      "name": "Vo",
+      "series": "o"
+    },
+    {
+      "char": "ស",
+      "sub": "្ស",
+      "name": "Sa",
+      "series": "a"
+    },
+    {
+      "char": "ហ",
+      "sub": "្ហ",
+      "name": "Ha",
+      "series": "a"
+    },
+    {
+      "char": "ឡ",
+      "sub": "",
+      "name": "La",
+      "series": "a"
+    },
+    {
+      "char": "អ",
+      "sub": "្អ",
+      "name": "Qa",
+      "series": "a"
+    }
+  ]
+}

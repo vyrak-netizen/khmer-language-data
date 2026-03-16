@@ -1,0 +1,62 @@
+[
+  {
+    "id": "essentials",
+    "label": "Essentials & Verbs",
+    "file": "essentials.json"
+  },
+  {
+    "id": "numbers",
+    "label": "Numbers",
+    "file": "numbers.json"
+  },
+  {
+    "id": "days",
+    "label": "Days of the Week",
+    "file": "days.json"
+  },
+  {
+    "id": "months",
+    "label": "Months",
+    "file": "months.json"
+  },
+  {
+    "id": "family",
+    "label": "Family",
+    "file": "family.json"
+  },
+  {
+    "id": "body-parts",
+    "label": "Body Parts",
+    "file": "body-parts.json"
+  },
+  {
+    "id": "colors",
+    "label": "Colors",
+    "file": "colors.json"
+  },
+  {
+    "id": "animals",
+    "label": "Animals",
+    "file": "animals.json"
+  },
+  {
+    "id": "business",
+    "label": "Business & Work",
+    "file": "business.json"
+  },
+  {
+    "id": "fruits",
+    "label": "Fruits",
+    "file": "fruits.json"
+  },
+  {
+    "id": "vegetables",
+    "label": "Vegetables",
+    "file": "vegetables.json"
+  },
+  {
+    "id": "technology",
+    "label": "Technology",
+    "file": "technology.json"
+  }
+]

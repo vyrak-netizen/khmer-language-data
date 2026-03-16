@@ -1,0 +1,162 @@
+{
+  "id": "essentials",
+  "label": "Essentials & Verbs",
+  "items": [
+    {
+      "char": "សួស្តី",
+      "name": "Hello (Suostei)"
+    },
+    {
+      "char": "បាទ",
+      "name": "Yes [Male] (Baat)"
+    },
+    {
+      "char": "ចាស",
+      "name": "Yes [Female] (Jaas)"
+    },
+    {
+      "char": "ទេ",
+      "name": "No (Te)"
+    },
+    {
+      "char": "អរគុណ",
+      "name": "Thank you (Orkun)"
+    },
+    {
+      "char": "សូម",
+      "name": "Please (Som)"
+    },
+    {
+      "char": "សូមទោស",
+      "name": "Sorry / Excuse me (Som tos)"
+    },
+    {
+      "char": "លាហើយ",
+      "name": "Goodbye (Lea huey)"
+    },
+    {
+      "char": "ខ្ញុំ",
+      "name": "I / Me (Knhom)"
+    },
+    {
+      "char": "អ្នក",
+      "name": "You (Neak)"
+    },
+    {
+      "char": "គាត់",
+      "name": "He / She (Koat)"
+    },
+    {
+      "char": "ពួកយើង",
+      "name": "We (Puok yeung)"
+    },
+    {
+      "char": "គេ",
+      "name": "They (Ke)"
+    },
+    {
+      "char": "នេះ",
+      "name": "This (Nih)"
+    },
+    {
+      "char": "នោះ",
+      "name": "That (Nuh)"
+    },
+    {
+      "char": "ទៅ",
+      "name": "Go (Tov)"
+    },
+    {
+      "char": "មក",
+      "name": "Come (Mok)"
+    },
+    {
+      "char": "ញ៉ាំ",
+      "name": "Eat (Nham)"
+    },
+    {
+      "char": "ផឹក",
+      "name": "Drink (Phok)"
+    },
+    {
+      "char": "ចង់",
+      "name": "Want (Chong)"
+    },
+    {
+      "char": "មាន",
+      "name": "Have (Mean)"
+    },
+    {
+      "char": "ធ្វើ",
+      "name": "Do / Make (Thveu)"
+    },
+    {
+      "char": "ដឹង",
+      "name": "Know (Deung)"
+    },
+    {
+      "char": "យល់",
+      "name": "Understand (Yol)"
+    },
+    {
+      "char": "អាច",
+      "name": "Can (Ach)"
+    },
+    {
+      "char": "ចូលចិត្ត",
+      "name": "Like (Choul chet)"
+    },
+    {
+      "char": "សុខសប្បាយទេ",
+      "name": "How are you? (Sok sabay te?)"
+    },
+    {
+      "char": "ល្អ",
+      "name": "Good (La'or)"
+    },
+    {
+      "char": "អាក្រក់",
+      "name": "Bad (Akrok)"
+    },
+    {
+      "char": "ធំ",
+      "name": "Big (Thom)"
+    },
+    {
+      "char": "តូច",
+      "name": "Small (Touch)"
+    },
+    {
+      "char": "ច្រើន",
+      "name": "A lot / Much (Chraen)"
+    },
+    {
+      "char": "តិច",
+      "name": "A little (Tech)"
+    },
+    {
+      "char": "អ្វី",
+      "name": "What (Avey)"
+    },
+    {
+      "char": "នៅឯណា",
+      "name": "Where (Nov aena)"
+    },
+    {
+      "char": "ពេលណា",
+      "name": "When (Pel na)"
+    },
+    {
+      "char": "ហេតុអ្វី",
+      "name": "Why (Het avey)"
+    },
+    {
+      "char": "អ្នកណា",
+      "name": "Who (Neak na)"
+    },
+    {
+      "char": "ប៉ុន្មាន",
+      "name": "How much / How many (Ponman)"
+    }
+  ]
+}

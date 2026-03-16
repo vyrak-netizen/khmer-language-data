@@ -1,0 +1,63 @@
+{
+  "id": "independent-vowels",
+  "label": "Independent Vowels",
+  "chunkSizes": [
+    5,
+    4,
+    4
+  ],
+  "items": [
+    {
+      "char": "ឥ",
+      "name": "E"
+    },
+    {
+      "char": "ឦ",
+      "name": "Ey"
+    },
+    {
+      "char": "ឧ",
+      "name": "U"
+    },
+    {
+      "char": "ឨ",
+      "name": "Uu"
+    },
+    {
+      "char": "ឪ",
+      "name": "Ov"
+    },
+    {
+      "char": "ឫ",
+      "name": "Rue"
+    },
+    {
+      "char": "ឬ",
+      "name": "Ruue"
+    },
+    {
+      "char": "ឭ",
+      "name": "Lue"
+    },
+    {
+      "char": "ឮ",
+      "name": "Luue"
+    },
+    {
+      "char": "ឯ",
+      "name": "Ae"
+    },
+    {
+      "char": "ឰ",
+      "name": "Ai"
+    },
+    {
+      "char": "ឱ",
+      "name": "Ao"
+    },
+    {
+      "char": "ឲ",
+      "name": "Aoy"
+    }
+  ]
+}

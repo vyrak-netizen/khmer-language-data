@@ -66,12 +66,6 @@
     "translation": ""
   },
   {
-    "file": "vannda-lets_go.json",
-    "artist": "Vannda",
-    "name": "Lets Go",
-    "translation": ""
-  },
-  {
     "file": "vannda-solo_again.json",
     "artist": "Vannda",
     "name": "Solo Again",
@@ -84,6 +78,12 @@
     "translation": ""
   },
   {
+    "file": "vannda-u_know_u_know.json",
+    "artist": "Vannda",
+    "name": "U Know U Know",
+    "translation": ""
+  },
+  {
     "file": "vannda-wooden_box.json",
     "artist": "Vannda",
     "name": "Wooden Box",
@@ -93,12 +93,6 @@
     "file": "zedes-jak.json",
     "artist": "Zedes",
     "name": "Jak",
-    "translation": ""
-  },
-  {
-    "file": "vyrak-dev.json",
-    "artist": "Vyrak",
-    "name": "Dev",
     "translation": ""
   }
 ]

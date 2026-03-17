@@ -9,203 +9,203 @@
     5,
     8
   ],
-  "items": [
+  "words": [
     {
-      "char": "ក",
+      "word": "ក",
       "sub": "្ក",
-      "name": "Ka",
+      "translation": "Ka",
       "series": "a"
     },
     {
-      "char": "ខ",
+      "word": "ខ",
       "sub": "្ខ",
-      "name": "Kha",
+      "translation": "Kha",
       "series": "a"
     },
     {
-      "char": "គ",
+      "word": "គ",
       "sub": "្គ",
-      "name": "Ko",
+      "translation": "Ko",
       "series": "o"
     },
     {
-      "char": "ឃ",
+      "word": "ឃ",
       "sub": "្ឃ",
-      "name": "Kho",
+      "translation": "Kho",
       "series": "o"
     },
     {
-      "char": "ង",
+      "word": "ង",
       "sub": "្ង",
-      "name": "Ngo",
+      "translation": "Ngo",
       "series": "o"
     },
     {
-      "char": "ច",
+      "word": "ច",
       "sub": "្ច",
-      "name": "Cha",
+      "translation": "Cha",
       "series": "a"
     },
     {
-      "char": "ឆ",
+      "word": "ឆ",
       "sub": "្ឆ",
-      "name": "Chha",
+      "translation": "Chha",
       "series": "a"
     },
     {
-      "char": "ជ",
+      "word": "ជ",
       "sub": "្ជ",
-      "name": "Cho",
+      "translation": "Cho",
       "series": "o"
     },
     {
-      "char": "ឈ",
+      "word": "ឈ",
       "sub": "្ឈ",
-      "name": "Chho",
+      "translation": "Chho",
       "series": "o"
     },
     {
-      "char": "ញ",
+      "word": "ញ",
       "sub": "្ញ",
-      "name": "Nho",
+      "translation": "Nho",
       "series": "o"
     },
     {
-      "char": "ដ",
+      "word": "ដ",
       "sub": "្ដ",
-      "name": "Da",
+      "translation": "Da",
       "series": "a"
     },
     {
-      "char": "ឋ",
+      "word": "ឋ",
       "sub": "្ឋ",
-      "name": "Tha",
+      "translation": "Tha",
       "series": "a"
     },
     {
-      "char": "ឌ",
+      "word": "ឌ",
       "sub": "្ឌ",
-      "name": "Do",
+      "translation": "Do",
       "series": "o"
     },
     {
-      "char": "ឍ",
+      "word": "ឍ",
       "sub": "្ឍ",
-      "name": "Tho",
+      "translation": "Tho",
       "series": "o"
     },
     {
-      "char": "ណ",
+      "word": "ណ",
       "sub": "្ណ",
-      "name": "Na",
+      "translation": "Na",
       "series": "a"
     },
     {
-      "char": "ត",
+      "word": "ត",
       "sub": "្ត",
-      "name": "Ta",
+      "translation": "Ta",
       "series": "a"
     },
     {
-      "char": "ថ",
+      "word": "ថ",
       "sub": "្ថ",
-      "name": "Tha",
+      "translation": "Tha",
       "series": "a"
     },
     {
-      "char": "ទ",
+      "word": "ទ",
       "sub": "្ទ",
-      "name": "To",
+      "translation": "To",
       "series": "o"
     },
     {
-      "char": "ធ",
+      "word": "ធ",
       "sub": "្ធ",
-      "name": "Tho",
+      "translation": "Tho",
       "series": "o"
     },
     {
-      "char": "ន",
+      "word": "ន",
       "sub": "្ន",
-      "name": "No",
+      "translation": "No",
       "series": "o"
     },
     {
-      "char": "ប",
+      "word": "ប",
       "sub": "្ប",
-      "name": "Ba",
+      "translation": "Ba",
       "series": "a"
     },
     {
-      "char": "ផ",
+      "word": "ផ",
       "sub": "្ផ",
-      "name": "Pha",
+      "translation": "Pha",
       "series": "a"
     },
     {
-      "char": "ព",
+      "word": "ព",
       "sub": "្ព",
-      "name": "Po",
+      "translation": "Po",
       "series": "o"
     },
     {
-      "char": "ភ",
+      "word": "ភ",
       "sub": "្ភ",
-      "name": "Pho",
+      "translation": "Pho",
       "series": "o"
     },
     {
-      "char": "ម",
+      "word": "ម",
       "sub": "្ម",
-      "name": "Mo",
+      "translation": "Mo",
       "series": "o"
     },
     {
-      "char": "យ",
+      "word": "យ",
       "sub": "្យ",
-      "name": "Yo",
+      "translation": "Yo",
       "series": "o"
     },
     {
-      "char": "រ",
+      "word": "រ",
       "sub": "្រ",
-      "name": "Ro",
+      "translation": "Ro",
       "series": "o"
     },
     {
-      "char": "ល",
+      "word": "ល",
       "sub": "្ល",
-      "name": "Lo",
+      "translation": "Lo",
       "series": "o"
     },
     {
-      "char": "វ",
+      "word": "វ",
       "sub": "្វ",
-      "name": "Vo",
+      "translation": "Vo",
       "series": "o"
     },
     {
-      "char": "ស",
+      "word": "ស",
       "sub": "្ស",
-      "name": "Sa",
+      "translation": "Sa",
       "series": "a"
     },
     {
-      "char": "ហ",
+      "word": "ហ",
       "sub": "្ហ",
-      "name": "Ha",
+      "translation": "Ha",
       "series": "a"
     },
     {
-      "char": "ឡ",
+      "word": "ឡ",
       "sub": "",
-      "name": "La",
+      "translation": "La",
       "series": "a"
     },
     {
-      "char": "អ",
+      "word": "អ",
       "sub": "្អ",
-      "name": "Qa",
+      "translation": "Qa",
       "series": "a"
     }
   ]

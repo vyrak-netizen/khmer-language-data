@@ -1,17 +1,61 @@
 {
   "id": "custom",
   "label": "By Me",
-  "items": [
-    {"char": "គុណភាព","name": "Quality (kounpheap)"},
-    {"char": "អ្នកផលិត","name": "Manufacturer (neak pheuleut)"},
-    {"char": "អភិវឌ្ឍន៍","name": "Development (apivoit)"},
-    {"char": "កសិកម្ម","name": "Agriculture(katsekam)"},
-    {"char": "កសិដ្ឋាន","name": "Farm (katsetan)"},
-    {"char": "ទេសចរណ៍","name": "Tourism (tesachor)"},
-    {"char": "គាំទ្រ","name": "Support (kontro)"},
-    {"char": "អ្នកគ្រូ","name": "Teacher (neak kru)"},
-    {"char": "អ្នកសាស្រ្តា","name": "Professor (neak sastra)"},
-    {"char": "អ្នកប្រាជ្ញ","name": "Scholar (neak prach)"},
-    {"char": "បណ្ឌិត","name": "Doctor (bondeut)"}
+  "words": [
+    {
+      "word": "គុណភាព",
+      "translation": "Quality",
+      "phonetic": "kounpheap"
+    },
+    {
+      "word": "អ្នកផលិត",
+      "translation": "Manufacturer",
+      "phonetic": "neak pheuleut"
+    },
+    {
+      "word": "អភិវឌ្ឍន៍",
+      "translation": "Development",
+      "phonetic": "apivoit"
+    },
+    {
+      "word": "កសិកម្ម",
+      "translation": "Agriculture",
+      "phonetic": "katsekam"
+    },
+    {
+      "word": "កសិដ្ឋាន",
+      "translation": "Farm",
+      "phonetic": "katsetan"
+    },
+    {
+      "word": "ទេសចរណ៍",
+      "translation": "Tourism",
+      "phonetic": "tesachor"
+    },
+    {
+      "word": "គាំទ្រ",
+      "translation": "Support",
+      "phonetic": "kontro"
+    },
+    {
+      "word": "អ្នកគ្រូ",
+      "translation": "Teacher",
+      "phonetic": "neak kru"
+    },
+    {
+      "word": "អ្នកសាស្រ្តា",
+      "translation": "Professor",
+      "phonetic": "neak sastra"
+    },
+    {
+      "word": "អ្នកប្រាជ្ញ",
+      "translation": "Scholar",
+      "phonetic": "neak prach"
+    },
+    {
+      "word": "បណ្ឌិត",
+      "translation": "Doctor",
+      "phonetic": "bondeut"
+    }
   ]
 }

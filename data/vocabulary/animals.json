@@ -1,66 +1,81 @@
 {
   "id": "animals",
   "label": "Animals",
-  "items": [
+  "words": [
     {
-      "char": "សត្វ",
-      "name": "Animal (Sat)"
+      "word": "សត្វ",
+      "translation": "Animal",
+      "phonetic": "Sat"
     },
     {
-      "char": "ឆ្កែ",
-      "name": "Dog (Chhkae)"
+      "word": "ឆ្កែ",
+      "translation": "Dog",
+      "phonetic": "Chhkae"
     },
     {
-      "char": "ឆ្មា",
-      "name": "Cat (Chhma)"
+      "word": "ឆ្មា",
+      "translation": "Cat",
+      "phonetic": "Chhma"
     },
     {
-      "char": "ត្រី",
-      "name": "Fish (Trei)"
+      "word": "ត្រី",
+      "translation": "Fish",
+      "phonetic": "Trei"
     },
     {
-      "char": "មាន់",
-      "name": "Chicken (Moan)"
+      "word": "មាន់",
+      "translation": "Chicken",
+      "phonetic": "Moan"
     },
     {
-      "char": "ជ្រូក",
-      "name": "Pig (Chrouk)"
+      "word": "ជ្រូក",
+      "translation": "Pig",
+      "phonetic": "Chrouk"
     },
     {
-      "char": "គោ",
-      "name": "Cow (Ko)"
+      "word": "គោ",
+      "translation": "Cow",
+      "phonetic": "Ko"
     },
     {
-      "char": "បក្សី",
-      "name": "Bird (Boksei)"
+      "word": "បក្សី",
+      "translation": "Bird",
+      "phonetic": "Boksei"
     },
     {
-      "char": "ទា",
-      "name": "Duck (Tea)"
+      "word": "ទា",
+      "translation": "Duck",
+      "phonetic": "Tea"
     },
     {
-      "char": "សេះ",
-      "name": "Horse (Seh)"
+      "word": "សេះ",
+      "translation": "Horse",
+      "phonetic": "Seh"
     },
     {
-      "char": "ដំរី",
-      "name": "Elephant (Domrei)"
+      "word": "ដំរី",
+      "translation": "Elephant",
+      "phonetic": "Domrei"
     },
     {
-      "char": "ស្វា",
-      "name": "Monkey (Sva)"
+      "word": "ស្វា",
+      "translation": "Monkey",
+      "phonetic": "Sva"
     },
     {
-      "char": "ពស់",
-      "name": "Snake (Puoh)"
+      "word": "ពស់",
+      "translation": "Snake",
+      "phonetic": "Puoh"
     },
     {
-      "char": "កណ្ដុរ",
-      "name": "Mouse / Rat (Kondol)"
+      "word": "កណ្ដុរ",
+      "translation": "Mouse / Rat",
+      "phonetic": "Kondol"
     },
     {
-      "char": "មូស",
-      "name": "Mosquito (Mous)"
+      "word": "មូស",
+      "translation": "Mosquito",
+      "phonetic": "Mous"
     }
   ]
 }

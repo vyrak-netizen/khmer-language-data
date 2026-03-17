@@ -1,62 +1,76 @@
 {
   "id": "months",
   "label": "Months",
-  "items": [
+  "words": [
     {
-      "char": "ខែ",
-      "name": "Month (Khae)"
+      "word": "ខែ",
+      "translation": "Month",
+      "phonetic": "Khae"
     },
     {
-      "char": "មករា",
-      "name": "January (Mokara)"
+      "word": "មករា",
+      "translation": "January",
+      "phonetic": "Mokara"
     },
     {
-      "char": "កុម្ភៈ",
-      "name": "February (Komphea)"
+      "word": "កុម្ភៈ",
+      "translation": "February",
+      "phonetic": "Komphea"
     },
     {
-      "char": "មីនា",
-      "name": "March (Mina)"
+      "word": "មីនា",
+      "translation": "March",
+      "phonetic": "Mina"
     },
     {
-      "char": "មេសា",
-      "name": "April (Mesa)"
+      "word": "មេសា",
+      "translation": "April",
+      "phonetic": "Mesa"
     },
     {
-      "char": "ឧសភា",
-      "name": "May (Ousapha)"
+      "word": "ឧសភា",
+      "translation": "May",
+      "phonetic": "Ousapha"
     },
     {
-      "char": "មិថុនា",
-      "name": "June (Methona)"
+      "word": "មិថុនា",
+      "translation": "June",
+      "phonetic": "Methona"
     },
     {
-      "char": "កក្កដា",
-      "name": "July (Kokada)"
+      "word": "កក្កដា",
+      "translation": "July",
+      "phonetic": "Kokada"
     },
     {
-      "char": "សីហា",
-      "name": "August (Seiha)"
+      "word": "សីហា",
+      "translation": "August",
+      "phonetic": "Seiha"
     },
     {
-      "char": "កញ្ញា",
-      "name": "September (Kanha)"
+      "word": "កញ្ញា",
+      "translation": "September",
+      "phonetic": "Kanha"
     },
     {
-      "char": "តុលា",
-      "name": "October (Tola)"
+      "word": "តុលា",
+      "translation": "October",
+      "phonetic": "Tola"
     },
     {
-      "char": "វិច្ឆិកា",
-      "name": "November (Vicheka)"
+      "word": "វិច្ឆិកា",
+      "translation": "November",
+      "phonetic": "Vicheka"
     },
     {
-      "char": "ធ្នូ",
-      "name": "December (Thnou)"
+      "word": "ធ្នូ",
+      "translation": "December",
+      "phonetic": "Thnou"
     },
     {
-      "char": "ឆ្នាំ",
-      "name": "Year (Chhnam)"
+      "word": "ឆ្នាំ",
+      "translation": "Year",
+      "phonetic": "Chhnam"
     }
   ]
 }

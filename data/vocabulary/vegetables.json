@@ -1,90 +1,111 @@
 {
   "id": "vegetables",
   "label": "Vegetables",
-  "items": [
+  "words": [
     {
-      "char": "បន្លែ",
-      "name": "Vegetable (Bonlae)"
+      "word": "បន្លែ",
+      "translation": "Vegetable",
+      "phonetic": "Bonlae"
     },
     {
-      "char": "បាយ",
-      "name": "Rice [Cooked] (Bay)"
+      "word": "បាយ",
+      "translation": "Rice [Cooked]",
+      "phonetic": "Bay"
     },
     {
-      "char": "ត្រកួន",
-      "name": "Morning Glory (Trokuon)"
+      "word": "ត្រកួន",
+      "translation": "Morning Glory",
+      "phonetic": "Trokuon"
     },
     {
-      "char": "ខ្ទឹមស",
-      "name": "Garlic (Khtuem sor)"
+      "word": "ខ្ទឹមស",
+      "translation": "Garlic",
+      "phonetic": "Khtuem sor"
     },
     {
-      "char": "ម្ទេស",
-      "name": "Chili (Mtes)"
+      "word": "ម្ទេស",
+      "translation": "Chili",
+      "phonetic": "Mtes"
     },
     {
-      "char": "ខ្ទឹមក្រហម",
-      "name": "Shallot/Red Onion (Khtuem krahorm)"
+      "word": "ខ្ទឹមក្រហម",
+      "translation": "Shallot/Red Onion",
+      "phonetic": "Khtuem krahorm"
     },
     {
-      "char": "ប៉េងប៉ោះ",
-      "name": "Tomato (Peng poh)"
+      "word": "ប៉េងប៉ោះ",
+      "translation": "Tomato",
+      "phonetic": "Peng poh"
     },
     {
-      "char": "ត្រសក់",
-      "name": "Cucumber (Trosok)"
+      "word": "ត្រសក់",
+      "translation": "Cucumber",
+      "phonetic": "Trosok"
     },
     {
-      "char": "ការ៉ុត",
-      "name": "Carrot (Karot)"
+      "word": "ការ៉ុត",
+      "translation": "Carrot",
+      "phonetic": "Karot"
     },
     {
-      "char": "ដំឡូងបារាំង",
-      "name": "Potato (Domloung barang)"
+      "word": "ដំឡូងបារាំង",
+      "translation": "Potato",
+      "phonetic": "Domloung barang"
     },
     {
-      "char": "ពោត",
-      "name": "Corn (Pot)"
+      "word": "ពោត",
+      "translation": "Corn",
+      "phonetic": "Pot"
     },
     {
-      "char": "ស្ពៃក្តោប",
-      "name": "Cabbage (Spey kdor)"
+      "word": "ស្ពៃក្តោប",
+      "translation": "Cabbage",
+      "phonetic": "Spey kdor"
     },
     {
-      "char": "ខ្ញី",
-      "name": "Ginger (Khnhey)"
+      "word": "ខ្ញី",
+      "translation": "Ginger",
+      "phonetic": "Khnhey"
     },
     {
-      "char": "ត្រប់",
-      "name": "Eggplant (Trob)"
+      "word": "ត្រប់",
+      "translation": "Eggplant",
+      "phonetic": "Trob"
     },
     {
-      "char": "សណ្តែកបាយ",
-      "name": "Mung Bean (Sondaek bay)"
+      "word": "សណ្តែកបាយ",
+      "translation": "Mung Bean",
+      "phonetic": "Sondaek bay"
     },
     {
-      "char": "សណ្តែកគួរ",
-      "name": "Long Bean (Sondaek kuor)"
+      "word": "សណ្តែកគួរ",
+      "translation": "Long Bean",
+      "phonetic": "Sondaek kuor"
     },
     {
-      "char": "ស្ពៃខៀវ",
-      "name": "Chinese Cabbage (Spey khiev)"
+      "word": "ស្ពៃខៀវ",
+      "translation": "Chinese Cabbage",
+      "phonetic": "Spey khiev"
     },
     {
-      "char": "ផ្កាខាត់ណា",
-      "name": "Cauliflower (Phka khat na)"
+      "word": "ផ្កាខាត់ណា",
+      "translation": "Cauliflower",
+      "phonetic": "Phka khat na"
     },
     {
-      "char": "ត្រឡាច",
-      "name": "Winter Melon (Trolach)"
+      "word": "ត្រឡាច",
+      "translation": "Winter Melon",
+      "phonetic": "Trolach"
     },
     {
-      "char": "ត្រយូងចេក",
-      "name": "Banana Flower (Troyoung chek)"
+      "word": "ត្រយូងចេក",
+      "translation": "Banana Flower",
+      "phonetic": "Troyoung chek"
     },
     {
-      "char": "អង្កាម",
-      "name": "Rice Husk/Sprout (Angkam)"
+      "word": "អង្កាម",
+      "translation": "Rice Husk/Sprout",
+      "phonetic": "Angkam"
     }
   ]
 }

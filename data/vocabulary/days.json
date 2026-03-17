@@ -1,50 +1,61 @@
 {
   "id": "days",
   "label": "Days of the Week",
-  "items": [
+  "words": [
     {
-      "char": "ថ្ងៃ",
-      "name": "Day (Thngai)"
+      "word": "ថ្ងៃ",
+      "translation": "Day",
+      "phonetic": "Thngai"
     },
     {
-      "char": "ថ្ងៃច័ន្ទ",
-      "name": "Monday (Thngai Chan)"
+      "word": "ថ្ងៃច័ន្ទ",
+      "translation": "Monday",
+      "phonetic": "Thngai Chan"
     },
     {
-      "char": "ថ្ងៃអង្គារ",
-      "name": "Tuesday (Thngai Angkea)"
+      "word": "ថ្ងៃអង្គារ",
+      "translation": "Tuesday",
+      "phonetic": "Thngai Angkea"
     },
     {
-      "char": "ថ្ងៃពុធ",
-      "name": "Wednesday (Thngai Put)"
+      "word": "ថ្ងៃពុធ",
+      "translation": "Wednesday",
+      "phonetic": "Thngai Put"
     },
     {
-      "char": "ថ្ងៃព្រហស្បតិ៍",
-      "name": "Thursday (Thngai Prohoas)"
+      "word": "ថ្ងៃព្រហស្បតិ៍",
+      "translation": "Thursday",
+      "phonetic": "Thngai Prohoas"
     },
     {
-      "char": "ថ្ងៃសុក្រ",
-      "name": "Friday (Thngai Sok)"
+      "word": "ថ្ងៃសុក្រ",
+      "translation": "Friday",
+      "phonetic": "Thngai Sok"
     },
     {
-      "char": "ថ្ងៃសៅរ៍",
-      "name": "Saturday (Thngai Sao)"
+      "word": "ថ្ងៃសៅរ៍",
+      "translation": "Saturday",
+      "phonetic": "Thngai Sao"
     },
     {
-      "char": "ថ្ងៃអាទិត្យ",
-      "name": "Sunday (Thngai Atet)"
+      "word": "ថ្ងៃអាទិត្យ",
+      "translation": "Sunday",
+      "phonetic": "Thngai Atet"
     },
     {
-      "char": "ថ្ងៃនេះ",
-      "name": "Today (Thngai nih)"
+      "word": "ថ្ងៃនេះ",
+      "translation": "Today",
+      "phonetic": "Thngai nih"
     },
     {
-      "char": "ថ្ងៃស្អែក",
-      "name": "Tomorrow (Thngai s'aek)"
+      "word": "ថ្ងៃស្អែក",
+      "translation": "Tomorrow",
+      "phonetic": "Thngai s'aek"
     },
     {
-      "char": "ម្សិលមិញ",
-      "name": "Yesterday (Msel menh)"
+      "word": "ម្សិលមិញ",
+      "translation": "Yesterday",
+      "phonetic": "Msel menh"
     }
   ]
 }

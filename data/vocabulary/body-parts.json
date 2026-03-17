@@ -1,166 +1,206 @@
 {
   "id": "body-parts",
   "label": "Body Parts",
-  "items": [
+  "words": [
     {
-      "char": "ក្បាល",
-      "name": "Head (Kbal)"
+      "word": "ក្បាល",
+      "translation": "Head",
+      "phonetic": "Kbal"
     },
     {
-      "char": "ដៃ",
-      "name": "Arm / Hand (Dai)"
+      "word": "ដៃ",
+      "translation": "Arm / Hand",
+      "phonetic": "Dai"
     },
     {
-      "char": "ជើង",
-      "name": "Leg / Foot (Cheung)"
+      "word": "ជើង",
+      "translation": "Leg / Foot",
+      "phonetic": "Cheung"
     },
     {
-      "char": "មុខ",
-      "name": "Face (Muk)"
+      "word": "មុខ",
+      "translation": "Face",
+      "phonetic": "Muk"
     },
     {
-      "char": "ភ្នែក",
-      "name": "Eye (Phnaek)"
+      "word": "ភ្នែក",
+      "translation": "Eye",
+      "phonetic": "Phnaek"
     },
     {
-      "char": "មាត់",
-      "name": "Mouth (Moat)"
+      "word": "មាត់",
+      "translation": "Mouth",
+      "phonetic": "Moat"
     },
     {
-      "char": "ច្រមុះ",
-      "name": "Nose (Cromoh)"
+      "word": "ច្រមុះ",
+      "translation": "Nose",
+      "phonetic": "Cromoh"
     },
     {
-      "char": "ត្រចៀក",
-      "name": "Ear (Tracheak)"
+      "word": "ត្រចៀក",
+      "translation": "Ear",
+      "phonetic": "Tracheak"
     },
     {
-      "char": "សក់",
-      "name": "Hair (Sok)"
+      "word": "សក់",
+      "translation": "Hair",
+      "phonetic": "Sok"
     },
     {
-      "char": "ធ្មេញ",
-      "name": "Tooth (Thmenh)"
+      "word": "ធ្មេញ",
+      "translation": "Tooth",
+      "phonetic": "Thmenh"
     },
     {
-      "char": "អណ្តាត",
-      "name": "Tongue (Andat)"
+      "word": "អណ្តាត",
+      "translation": "Tongue",
+      "phonetic": "Andat"
     },
     {
-      "char": "បបូរមាត់",
-      "name": "Lip (Bobor moat)"
+      "word": "បបូរមាត់",
+      "translation": "Lip",
+      "phonetic": "Bobor moat"
     },
     {
-      "char": "ពោះ",
-      "name": "Stomach / Belly (Puoh)"
+      "word": "ពោះ",
+      "translation": "Stomach / Belly",
+      "phonetic": "Puoh"
     },
     {
-      "char": "ខ្នង",
-      "name": "Back (Khnong)"
+      "word": "ខ្នង",
+      "translation": "Back",
+      "phonetic": "Khnong"
     },
     {
-      "char": "ទ្រូង",
-      "name": "Chest (Troung)"
+      "word": "ទ្រូង",
+      "translation": "Chest",
+      "phonetic": "Troung"
     },
     {
-      "char": "ស្មា",
-      "name": "Shoulder (Sma)"
+      "word": "ស្មា",
+      "translation": "Shoulder",
+      "phonetic": "Sma"
     },
     {
-      "char": "ក",
-      "name": "Neck (Kor)"
+      "word": "ក",
+      "translation": "Neck",
+      "phonetic": "Kor"
     },
     {
-      "char": "ម្រាមដៃ",
-      "name": "Finger (Mream dai)"
+      "word": "ម្រាមដៃ",
+      "translation": "Finger",
+      "phonetic": "Mream dai"
     },
     {
-      "char": "ម្រាមជើង",
-      "name": "Toe (Mream cheung)"
+      "word": "ម្រាមជើង",
+      "translation": "Toe",
+      "phonetic": "Mream cheung"
     },
     {
-      "char": "ជង្គង់",
-      "name": "Knee (Chongkong)"
+      "word": "ជង្គង់",
+      "translation": "Knee",
+      "phonetic": "Chongkong"
     },
     {
-      "char": "ស្បែក",
-      "name": "Skin (Sbaek)"
+      "word": "ស្បែក",
+      "translation": "Skin",
+      "phonetic": "Sbaek"
     },
     {
-      "char": "ឈាម",
-      "name": "Blood (Chheam)"
+      "word": "ឈាម",
+      "translation": "Blood",
+      "phonetic": "Chheam"
     },
     {
-      "char": "បេះដូង",
-      "name": "Heart (Besdoung)"
+      "word": "បេះដូង",
+      "translation": "Heart",
+      "phonetic": "Besdoung"
     },
     {
-      "char": "ចិញ្ចើម",
-      "name": "Eyebrow (Chenhcheum)"
+      "word": "ចិញ្ចើម",
+      "translation": "Eyebrow",
+      "phonetic": "Chenhcheum"
     },
     {
-      "char": "ថ្ពាល់",
-      "name": "Cheek (Thpoal)"
+      "word": "ថ្ពាល់",
+      "translation": "Cheek",
+      "phonetic": "Thpoal"
     },
     {
-      "char": "ចង្កា",
-      "name": "Chin (Chongka)"
+      "word": "ចង្កា",
+      "translation": "Chin",
+      "phonetic": "Chongka"
     },
     {
-      "char": "កែងដៃ",
-      "name": "Elbow (Kaeng dai)"
+      "word": "កែងដៃ",
+      "translation": "Elbow",
+      "phonetic": "Kaeng dai"
     },
     {
-      "char": "កជើង",
-      "name": "Ankle (Kor cheung)"
+      "word": "កជើង",
+      "translation": "Ankle",
+      "phonetic": "Kor cheung"
     },
     {
-      "char": "កែងជើង",
-      "name": "Heel (Kaeng cheung)"
+      "word": "កែងជើង",
+      "translation": "Heel",
+      "phonetic": "Kaeng cheung"
     },
     {
-      "char": "ក្រចក",
-      "name": "Nail (Krochok)"
+      "word": "ក្រចក",
+      "translation": "Nail",
+      "phonetic": "Krochok"
     },
     {
-      "char": "សាច់ដុំ",
-      "name": "Muscle (Sach dom)"
+      "word": "សាច់ដុំ",
+      "translation": "Muscle",
+      "phonetic": "Sach dom"
     },
     {
-      "char": "ឆ្អឹង",
-      "name": "Bone (Chha'eung)"
+      "word": "ឆ្អឹង",
+      "translation": "Bone",
+      "phonetic": "Chha'eung"
     },
     {
-      "char": "ខួរក្បាល",
-      "name": "Brain (Khuor kbal)"
+      "word": "ខួរក្បាល",
+      "translation": "Brain",
+      "phonetic": "Khuor kbal"
     },
     {
-      "char": "ក្រពះ",
-      "name": "Stomach [Organ] (Kropeah)"
+      "word": "ក្រពះ",
+      "translation": "Stomach [Organ]",
+      "phonetic": "Kropeah"
     },
     {
-      "char": "សួត",
-      "name": "Lung (Suot)"
+      "word": "សួត",
+      "translation": "Lung",
+      "phonetic": "Suot"
     },
     {
-      "char": "ថ្លើម",
-      "name": "Liver (Thlaeum)"
+      "word": "ថ្លើម",
+      "translation": "Liver",
+      "phonetic": "Thlaeum"
     },
     {
-      "char": "ពោះវៀន",
-      "name": "Intestine (Puoh vien)"
+      "word": "ពោះវៀន",
+      "translation": "Intestine",
+      "phonetic": "Puoh vien"
     },
     {
-      "char": "សរសៃឈាម",
-      "name": "Vein (Sorsai chheam)"
+      "word": "សរសៃឈាម",
+      "translation": "Vein",
+      "phonetic": "Sorsai chheam"
     },
     {
-      "char": "ញើស",
-      "name": "Sweat (Nheuh)"
+      "word": "ញើស",
+      "translation": "Sweat",
+      "phonetic": "Nheuh"
     },
     {
-      "char": "ទឹកភ្នែក",
-      "name": "Tear (Tuek phnaek)"
+      "word": "ទឹកភ្នែក",
+      "translation": "Tear",
+      "phonetic": "Tuek phnaek"
     }
   ]
 }

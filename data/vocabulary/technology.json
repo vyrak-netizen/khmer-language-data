@@ -1,162 +1,201 @@
 {
   "id": "technology",
   "label": "Technology",
-  "items": [
+  "words": [
     {
-      "char": "ទូរស័ព្ទ",
-      "name": "Phone (Turosap)"
+      "word": "ទូរស័ព្ទ",
+      "translation": "Phone",
+      "phonetic": "Turosap"
     },
     {
-      "char": "ទូរស័ព្ទដៃ",
-      "name": "Mobile Phone (Turosap dai)"
+      "word": "ទូរស័ព្ទដៃ",
+      "translation": "Mobile Phone",
+      "phonetic": "Turosap dai"
     },
     {
-      "char": "កុំព្យូទ័រ",
-      "name": "Computer (Kompyuter)"
+      "word": "កុំព្យូទ័រ",
+      "translation": "Computer",
+      "phonetic": "Kompyuter"
     },
     {
-      "char": "អ៊ីនធឺណិត",
-      "name": "Internet (Inthoenet)"
+      "word": "អ៊ីនធឺណិត",
+      "translation": "Internet",
+      "phonetic": "Inthoenet"
     },
     {
-      "char": "វ៉ាយហ្វាយ",
-      "name": "Wi-Fi (Wifi)"
+      "word": "វ៉ាយហ្វាយ",
+      "translation": "Wi-Fi",
+      "phonetic": "Wifi"
     },
     {
-      "char": "ថ្ម",
-      "name": "Battery (Thmor)"
+      "word": "ថ្ម",
+      "translation": "Battery",
+      "phonetic": "Thmor"
     },
     {
-      "char": "ឆ្នាំងសាក",
-      "name": "Charger (Chhnang sak)"
+      "word": "ឆ្នាំងសាក",
+      "translation": "Charger",
+      "phonetic": "Chhnang sak"
     },
     {
-      "char": "លេខសម្ងាត់",
-      "name": "Password (Lek somngat)"
+      "word": "លេខសម្ងាត់",
+      "translation": "Password",
+      "phonetic": "Lek somngat"
     },
     {
-      "char": "សារ",
-      "name": "Message (Sar)"
+      "word": "សារ",
+      "translation": "Message",
+      "phonetic": "Sar"
     },
     {
-      "char": "កម្មវិធី",
-      "name": "Software / App (Kammovithi)"
+      "word": "កម្មវិធី",
+      "translation": "Software / App",
+      "phonetic": "Kammovithi"
     },
     {
-      "char": "អេក្រង់",
-      "name": "Screen (Aekrong)"
+      "word": "អេក្រង់",
+      "translation": "Screen",
+      "phonetic": "Aekrong"
     },
     {
-      "char": "កាស",
-      "name": "Headphones (Kas)"
+      "word": "កាស",
+      "translation": "Headphones",
+      "phonetic": "Kas"
     },
     {
-      "char": "ម៉ាស៊ីន",
-      "name": "Machine (Masin)"
+      "word": "ម៉ាស៊ីន",
+      "translation": "Machine",
+      "phonetic": "Masin"
     },
     {
-      "char": "កាមេរ៉ា",
-      "name": "Camera (Kamera)"
+      "word": "កាមេរ៉ា",
+      "translation": "Camera",
+      "phonetic": "Kamera"
     },
     {
-      "char": "បច្ចេកវិទ្យា",
-      "name": "Technology (Bochek vitya)"
+      "word": "បច្ចេកវិទ្យា",
+      "translation": "Technology",
+      "phonetic": "Bochek vitya"
     },
     {
-      "char": "ទូរទស្សន៍",
-      "name": "Television (Turotos)"
+      "word": "ទូរទស្សន៍",
+      "translation": "Television",
+      "phonetic": "Turotos"
     },
     {
-      "char": "ក្តារចុច",
-      "name": "Keyboard (Kda choch)"
+      "word": "ក្តារចុច",
+      "translation": "Keyboard",
+      "phonetic": "Kda choch"
     },
     {
-      "char": "កណ្តុរ",
-      "name": "Mouse (Kondol)"
+      "word": "កណ្តុរ",
+      "translation": "Mouse",
+      "phonetic": "Kondol"
     },
     {
-      "char": "វិទ្យុ",
-      "name": "Radio (Vityu)"
+      "word": "វិទ្យុ",
+      "translation": "Radio",
+      "phonetic": "Vityu"
     },
     {
-      "char": "ខ្សែ",
-      "name": "Cable / Wire (Khsae)"
+      "word": "ខ្សែ",
+      "translation": "Cable / Wire",
+      "phonetic": "Khsae"
     },
     {
-      "char": "ឧបករណ៍",
-      "name": "Device (Opokor)"
+      "word": "ឧបករណ៍",
+      "translation": "Device",
+      "phonetic": "Opokor"
     },
     {
-      "char": "ទិន្នន័យ",
-      "name": "Data (Tinnonoy)"
+      "word": "ទិន្នន័យ",
+      "translation": "Data",
+      "phonetic": "Tinnonoy"
     },
     {
-      "char": "គណនី",
-      "name": "Account (Konani)"
+      "word": "គណនី",
+      "translation": "Account",
+      "phonetic": "Konani"
     },
     {
-      "char": "អ៊ីមែល",
-      "name": "Email (Imel)"
+      "word": "អ៊ីមែល",
+      "translation": "Email",
+      "phonetic": "Imel"
     },
     {
-      "char": "វីដេអូ",
-      "name": "Video (Video)"
+      "word": "វីដេអូ",
+      "translation": "Video",
+      "phonetic": "Video"
     },
     {
-      "char": "រូបភាព",
-      "name": "Image / Picture (Rub pheap)"
+      "word": "រូបភាព",
+      "translation": "Image / Picture",
+      "phonetic": "Rub pheap"
     },
     {
-      "char": "សម្លេង",
-      "name": "Audio (Somleng)"
+      "word": "សម្លេង",
+      "translation": "Audio",
+      "phonetic": "Somleng"
     },
     {
-      "char": "ទាញយក",
-      "name": "Download (Teanh yok)"
+      "word": "ទាញយក",
+      "translation": "Download",
+      "phonetic": "Teanh yok"
     },
     {
-      "char": "បង្ហោះ",
-      "name": "Upload (Bong hoh)"
+      "word": "បង្ហោះ",
+      "translation": "Upload",
+      "phonetic": "Bong hoh"
     },
     {
-      "char": "តំណភ្ជាប់",
-      "name": "Link (Domnor phchoab)"
+      "word": "តំណភ្ជាប់",
+      "translation": "Link",
+      "phonetic": "Domnor phchoab"
     },
     {
-      "char": "បណ្តាញសង្គម",
-      "name": "Social Media (Bonday songkom)"
+      "word": "បណ្តាញសង្គម",
+      "translation": "Social Media",
+      "phonetic": "Bonday songkom"
     },
     {
-      "char": "ការស្វែងរក",
-      "name": "Search (Kar svaeng rok)"
+      "word": "ការស្វែងរក",
+      "translation": "Search",
+      "phonetic": "Kar svaeng rok"
     },
     {
-      "char": "កម្មវិធីរុករក",
-      "name": "Browser (Kammovithi ruk rok)"
+      "word": "កម្មវិធីរុករក",
+      "translation": "Browser",
+      "phonetic": "Kammovithi ruk rok"
     },
     {
-      "char": "ម៉ាស៊ីនបោះពុម្ព",
-      "name": "Printer (Masin bos pum)"
+      "word": "ម៉ាស៊ីនបោះពុម្ព",
+      "translation": "Printer",
+      "phonetic": "Masin bos pum"
     },
     {
-      "char": "ថាសរឹង",
-      "name": "Hard Drive (Thas reung)"
+      "word": "ថាសរឹង",
+      "translation": "Hard Drive",
+      "phonetic": "Thas reung"
     },
     {
-      "char": "អង្គចងចាំ",
-      "name": "Memory (Ong chong cham)"
+      "word": "អង្គចងចាំ",
+      "translation": "Memory",
+      "phonetic": "Ong chong cham"
     },
     {
-      "char": "ស៊ីមកាត",
-      "name": "SIM Card (Sim kat)"
+      "word": "ស៊ីមកាត",
+      "translation": "SIM Card",
+      "phonetic": "Sim kat"
     },
     {
-      "char": "មេរោគ",
-      "name": "Virus (Merok)"
+      "word": "មេរោគ",
+      "translation": "Virus",
+      "phonetic": "Merok"
     },
     {
-      "char": "សុវត្ថិភាព",
-      "name": "Security (Sovathapheap)"
+      "word": "សុវត្ថិភាព",
+      "translation": "Security",
+      "phonetic": "Sovathapheap"
     }
   ]
 }

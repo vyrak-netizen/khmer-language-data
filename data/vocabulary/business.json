@@ -1,162 +1,201 @@
 {
   "id": "business",
   "label": "Business & Work",
-  "items": [
+  "words": [
     {
-      "char": "លុយ",
-      "name": "Money (Luy)"
+      "word": "លុយ",
+      "translation": "Money",
+      "phonetic": "Luy"
     },
     {
-      "char": "ការងារ",
-      "name": "Work / Job (Karngear)"
+      "word": "ការងារ",
+      "translation": "Work / Job",
+      "phonetic": "Karngear"
     },
     {
-      "char": "ក្រុមហ៊ុន",
-      "name": "Company (Kromhun)"
+      "word": "ក្រុមហ៊ុន",
+      "translation": "Company",
+      "phonetic": "Kromhun"
     },
     {
-      "char": "ការិយាល័យ",
-      "name": "Office (Kariyaley)"
+      "word": "ការិយាល័យ",
+      "translation": "Office",
+      "phonetic": "Kariyaley"
     },
     {
-      "char": "ទិញ",
-      "name": "Buy (Tenh)"
+      "word": "ទិញ",
+      "translation": "Buy",
+      "phonetic": "Tenh"
     },
     {
-      "char": "លក់",
-      "name": "Sell (Luok)"
+      "word": "លក់",
+      "translation": "Sell",
+      "phonetic": "Luok"
     },
     {
-      "char": "តម្លៃ",
-      "name": "Price (Domlai)"
+      "word": "តម្លៃ",
+      "translation": "Price",
+      "phonetic": "Domlai"
     },
     {
-      "char": "ប្រធាន",
-      "name": "Boss / Manager (Prothean)"
+      "word": "ប្រធាន",
+      "translation": "Boss / Manager",
+      "phonetic": "Prothean"
     },
     {
-      "char": "បុគ្គលិក",
-      "name": "Employee (Bokolik)"
+      "word": "បុគ្គលិក",
+      "translation": "Employee",
+      "phonetic": "Bokolik"
     },
     {
-      "char": "អតិថិជន",
-      "name": "Customer (Atethechon)"
+      "word": "អតិថិជន",
+      "translation": "Customer",
+      "phonetic": "Atethechon"
     },
     {
-      "char": "អាជីវកម្ម",
-      "name": "Business (Ajivokam)"
+      "word": "អាជីវកម្ម",
+      "translation": "Business",
+      "phonetic": "Ajivokam"
     },
     {
-      "char": "ប្រាក់ខែ",
-      "name": "Salary (Prak khae)"
+      "word": "ប្រាក់ខែ",
+      "translation": "Salary",
+      "phonetic": "Prak khae"
     },
     {
-      "char": "ការប្រជុំ",
-      "name": "Meeting (Kar prochum)"
+      "word": "ការប្រជុំ",
+      "translation": "Meeting",
+      "phonetic": "Kar prochum"
     },
     {
-      "char": "ទីផ្សារ",
-      "name": "Market (Phsar)"
+      "word": "ទីផ្សារ",
+      "translation": "Market",
+      "phonetic": "Phsar"
     },
     {
-      "char": "ធនាគារ",
-      "name": "Bank (Thneakea)"
+      "word": "ធនាគារ",
+      "translation": "Bank",
+      "phonetic": "Thneakea"
     },
     {
-      "char": "ចំណេញ",
-      "name": "Profit (Chomnenh)"
+      "word": "ចំណេញ",
+      "translation": "Profit",
+      "phonetic": "Chomnenh"
     },
     {
-      "char": "ខាត",
-      "name": "Loss (Khat)"
+      "word": "ខាត",
+      "translation": "Loss",
+      "phonetic": "Khat"
     },
     {
-      "char": "គម្រោង",
-      "name": "Project (Komrong)"
+      "word": "គម្រោង",
+      "translation": "Project",
+      "phonetic": "Komrong"
     },
     {
-      "char": "គោលដៅ",
-      "name": "Goal (Koldov)"
+      "word": "គោលដៅ",
+      "translation": "Goal",
+      "phonetic": "Koldov"
     },
     {
-      "char": "ជោគជ័យ",
-      "name": "Success (Chokchey)"
+      "word": "ជោគជ័យ",
+      "translation": "Success",
+      "phonetic": "Chokchey"
     },
     {
-      "char": "កិច្ចសន្យា",
-      "name": "Contract (Kech sonykea)"
+      "word": "កិច្ចសន្យា",
+      "translation": "Contract",
+      "phonetic": "Kech sonykea"
     },
     {
-      "char": "ផលិតផល",
-      "name": "Product (Pholitophol)"
+      "word": "ផលិតផល",
+      "translation": "Product",
+      "phonetic": "Pholitophol"
     },
     {
-      "char": "សេវាកម្ម",
-      "name": "Service (Sevakamm)"
+      "word": "សេវាកម្ម",
+      "translation": "Service",
+      "phonetic": "Sevakamm"
     },
     {
-      "char": "ពន្ធ",
-      "name": "Tax (Pon)"
+      "word": "ពន្ធ",
+      "translation": "Tax",
+      "phonetic": "Pon"
     },
     {
-      "char": "វិនិយោគ",
-      "name": "Invest (Viniyok)"
+      "word": "វិនិយោគ",
+      "translation": "Invest",
+      "phonetic": "Viniyok"
     },
     {
-      "char": "គណនេយ្យ",
-      "name": "Accounting (Konaney)"
+      "word": "គណនេយ្យ",
+      "translation": "Accounting",
+      "phonetic": "Konaney"
     },
     {
-      "char": "ការផ្សាយពាណិជ្ជកម្ម",
-      "name": "Advertising (Kar phsay peanichokam)"
+      "word": "ការផ្សាយពាណិជ្ជកម្ម",
+      "translation": "Advertising",
+      "phonetic": "Kar phsay peanichokam"
     },
     {
-      "char": "ដៃគូ",
-      "name": "Partner (Dai ku)"
+      "word": "ដៃគូ",
+      "translation": "Partner",
+      "phonetic": "Dai ku"
     },
     {
-      "char": "ភាគហ៊ុន",
-      "name": "Stock / Share (Pheakhon)"
+      "word": "ភាគហ៊ុន",
+      "translation": "Stock / Share",
+      "phonetic": "Pheakhon"
     },
     {
-      "char": "ឯកសារ",
-      "name": "Document (Aekasar)"
+      "word": "ឯកសារ",
+      "translation": "Document",
+      "phonetic": "Aekasar"
     },
     {
-      "char": "ហត្ថលេខា",
-      "name": "Signature (Hathlekha)"
+      "word": "ហត្ថលេខា",
+      "translation": "Signature",
+      "phonetic": "Hathlekha"
     },
     {
-      "char": "សេដ្ឋកិច្ច",
-      "name": "Economy (Sethakech)"
+      "word": "សេដ្ឋកិច្ច",
+      "translation": "Economy",
+      "phonetic": "Sethakech"
     },
     {
-      "char": "ការនាំចេញ",
-      "name": "Export (Kar noam chenh)"
+      "word": "ការនាំចេញ",
+      "translation": "Export",
+      "phonetic": "Kar noam chenh"
     },
     {
-      "char": "ការនាំចូល",
-      "name": "Import (Kar noam chol)"
+      "word": "ការនាំចូល",
+      "translation": "Import",
+      "phonetic": "Kar noam chol"
     },
     {
-      "char": "ហានិភ័យ",
-      "name": "Risk (Haniphey)"
+      "word": "ហានិភ័យ",
+      "translation": "Risk",
+      "phonetic": "Haniphey"
     },
     {
-      "char": "ថៅកែ",
-      "name": "Owner (Thov kae)"
+      "word": "ថៅកែ",
+      "translation": "Owner",
+      "phonetic": "Thov kae"
     },
     {
-      "char": "វិក្កយបត្រ",
-      "name": "Invoice (Vikayobot)"
+      "word": "វិក្កយបត្រ",
+      "translation": "Invoice",
+      "phonetic": "Vikayobot"
     },
     {
-      "char": "ថវិកា",
-      "name": "Budget (Thovika)"
+      "word": "ថវិកា",
+      "translation": "Budget",
+      "phonetic": "Thovika"
     },
     {
-      "char": "យុទ្ធសាស្ត្រ",
-      "name": "Strategy (Yuthosast)"
+      "word": "យុទ្ធសាស្ត្រ",
+      "translation": "Strategy",
+      "phonetic": "Yuthosast"
     }
   ]
 }

@@ -9,246 +9,306 @@
     10,
     10
   ],
-  "items": [
+  "words": [
     {
-      "char": "តន្ត្រី",
-      "name": "Music (Tontrei)"
+      "word": "តន្ត្រី",
+      "translation": "Music",
+      "phonetic": "Tontrei"
     },
     {
-      "char": "របាំ",
-      "name": "Dance (Robam)"
+      "word": "របាំ",
+      "translation": "Dance",
+      "phonetic": "Robam"
     },
     {
-      "char": "បទចម្រៀង",
-      "name": "Song (Bot chomrieng)"
+      "word": "បទចម្រៀង",
+      "translation": "Song",
+      "phonetic": "Bot chomrieng"
     },
     {
-      "char": "ភ្លេង",
-      "name": "Melody / Music (Phleng)"
+      "word": "ភ្លេង",
+      "translation": "Melody / Music",
+      "phonetic": "Phleng"
     },
     {
-      "char": "វប្បធម៌",
-      "name": "Culture (Voppoathor)"
+      "word": "វប្បធម៌",
+      "translation": "Culture",
+      "phonetic": "Voppoathor"
     },
     {
-      "char": "សិល្បៈ",
-      "name": "Art (Selbok)"
+      "word": "សិល្បៈ",
+      "translation": "Art",
+      "phonetic": "Selbok"
     },
     {
-      "char": "រូបភាព",
-      "name": "Picture / Image (Rub pheap)"
+      "word": "រូបភាព",
+      "translation": "Picture / Image",
+      "phonetic": "Rub pheap"
     },
     {
-      "char": "គំនូរ",
-      "name": "Drawing / Painting (Komnour)"
+      "word": "គំនូរ",
+      "translation": "Drawing / Painting",
+      "phonetic": "Komnour"
     },
     {
-      "char": "វិចិត្រករ",
-      "name": "Artist / Painter (Vichettrokor)"
+      "word": "វិចិត្រករ",
+      "translation": "Artist / Painter",
+      "phonetic": "Vichettrokor"
     },
     {
-      "char": "រូបចម្លាក់",
-      "name": "Sculpture (Rub chomlag)"
+      "word": "រូបចម្លាក់",
+      "translation": "Sculpture",
+      "phonetic": "Rub chomlag"
     },
     {
-      "char": "ប្រាសាទ",
-      "name": "Temple / Monument (Prasat)"
+      "word": "ប្រាសាទ",
+      "translation": "Temple / Monument",
+      "phonetic": "Prasat"
     },
     {
-      "char": "ខ្សែភាពយន្ត",
-      "name": "Film / Movie (Khsae pheapyont)"
+      "word": "ខ្សែភាពយន្ត",
+      "translation": "Film / Movie",
+      "phonetic": "Khsae pheapyont"
     },
     {
-      "char": "រោងកុន",
-      "name": "Cinema (Roung kon)"
+      "word": "រោងកុន",
+      "translation": "Cinema",
+      "phonetic": "Roung kon"
     },
     {
-      "char": "តារាសម្ដែង",
-      "name": "Actor / Actress (Tara somdaeng)"
+      "word": "តារាសម្ដែង",
+      "translation": "Actor / Actress",
+      "phonetic": "Tara somdaeng"
     },
     {
-      "char": "ល្ខោន",
-      "name": "Theatre / Play (Lkhon)"
+      "word": "ល្ខោន",
+      "translation": "Theatre / Play",
+      "phonetic": "Lkhon"
     },
     {
-      "char": "ការសម្ដែង",
-      "name": "Performance (Kar somdaeng)"
+      "word": "ការសម្ដែង",
+      "translation": "Performance",
+      "phonetic": "Kar somdaeng"
     },
     {
-      "char": "អ្នកច្រៀង",
-      "name": "Singer (Nak chrieng)"
+      "word": "អ្នកច្រៀង",
+      "translation": "Singer",
+      "phonetic": "Nak chrieng"
     },
     {
-      "char": "តន្ត្រីករ",
-      "name": "Musician (Tontreikor)"
+      "word": "តន្ត្រីករ",
+      "translation": "Musician",
+      "phonetic": "Tontreikor"
     },
     {
-      "char": "គ្រឿងតន្ត្រី",
-      "name": "Musical Instrument (Kroeung tontrei)"
+      "word": "គ្រឿងតន្ត្រី",
+      "translation": "Musical Instrument",
+      "phonetic": "Kroeung tontrei"
     },
     {
-      "char": "ស្គរ",
-      "name": "Drum (Skor)"
+      "word": "ស្គរ",
+      "translation": "Drum",
+      "phonetic": "Skor"
     },
     {
-      "char": "ខ្លុយ",
-      "name": "Flute (Khloy)"
+      "word": "ខ្លុយ",
+      "translation": "Flute",
+      "phonetic": "Khloy"
     },
     {
-      "char": "តាខេ",
-      "name": "Takhe (Zither) (Ta khe)"
+      "word": "តាខេ",
+      "translation": "Takhe",
+      "phonetic": "Zither) (Ta khe"
     },
     {
-      "char": "ពិណ",
-      "name": "Harp (Pin)"
+      "word": "ពិណ",
+      "translation": "Harp",
+      "phonetic": "Pin"
     },
     {
-      "char": "វង្សភ្លេង",
-      "name": "Orchestra / Band (Vong phleng)"
+      "word": "វង្សភ្លេង",
+      "translation": "Orchestra / Band",
+      "phonetic": "Vong phleng"
     },
     {
-      "char": "ពិព័រណ៍",
-      "name": "Exhibition (Pipoan)"
+      "word": "ពិព័រណ៍",
+      "translation": "Exhibition",
+      "phonetic": "Pipoan"
     },
     {
-      "char": "សារមន្ទីរ",
-      "name": "Museum (Sar monthir)"
+      "word": "សារមន្ទីរ",
+      "translation": "Museum",
+      "phonetic": "Sar monthir"
     },
     {
-      "char": "វិចិត្រសាល",
-      "name": "Art Gallery (Vichettro sal)"
+      "word": "វិចិត្រសាល",
+      "translation": "Art Gallery",
+      "phonetic": "Vichettro sal"
     },
     {
-      "char": "អាគារ",
-      "name": "Building / Architecture (Akar)"
+      "word": "អាគារ",
+      "translation": "Building / Architecture",
+      "phonetic": "Akar"
     },
     {
-      "char": "ស្ថាបត្យកម្ម",
-      "name": "Architecture (Sthapatya kamm)"
+      "word": "ស្ថាបត្យកម្ម",
+      "translation": "Architecture",
+      "phonetic": "Sthapatya kamm"
     },
     {
-      "char": "អនុស្សាវរីយ៍",
-      "name": "Monument / Memorial (Anussavori)"
+      "word": "អនុស្សាវរីយ៍",
+      "translation": "Monument / Memorial",
+      "phonetic": "Anussavori"
     },
     {
-      "char": "រូបសំណាក់",
-      "name": "Statue (Rub somnag)"
+      "word": "រូបសំណាក់",
+      "translation": "Statue",
+      "phonetic": "Rub somnag"
     },
     {
-      "char": "ជញ្ជាំងគំនូរ",
-      "name": "Mural (Chonchieng komnour)"
+      "word": "ជញ្ជាំងគំនូរ",
+      "translation": "Mural",
+      "phonetic": "Chonchieng komnour"
     },
     {
-      "char": "សិល្បករ",
-      "name": "Artist (Selpakor)"
+      "word": "សិល្បករ",
+      "translation": "Artist",
+      "phonetic": "Selpakor"
     },
     {
-      "char": "អក្សរសាស្ត្រ",
-      "name": "Literature (Aksorasar)"
+      "word": "អក្សរសាស្ត្រ",
+      "translation": "Literature",
+      "phonetic": "Aksorasar"
     },
     {
-      "char": "កំណាព្យ",
-      "name": "Poetry (Komnoapy)"
+      "word": "កំណាព្យ",
+      "translation": "Poetry",
+      "phonetic": "Komnoapy"
     },
     {
-      "char": "រឿង",
-      "name": "Story / Tale (Roeung)"
+      "word": "រឿង",
+      "translation": "Story / Tale",
+      "phonetic": "Roeung"
     },
     {
-      "char": "សៀវភៅ",
-      "name": "Book (Siev phov)"
+      "word": "សៀវភៅ",
+      "translation": "Book",
+      "phonetic": "Siev phov"
     },
     {
-      "char": "អ្នកនិពន្ធ",
-      "name": "Author / Writer (Nak nipon)"
+      "word": "អ្នកនិពន្ធ",
+      "translation": "Author / Writer",
+      "phonetic": "Nak nipon"
     },
     {
-      "char": "ប្រពៃណី",
-      "name": "Tradition (Bropeni)"
+      "word": "ប្រពៃណី",
+      "translation": "Tradition",
+      "phonetic": "Bropeni"
     },
     {
-      "char": "បេតិកភណ្ឌ",
-      "name": "Heritage (Betekphon)"
+      "word": "បេតិកភណ្ឌ",
+      "translation": "Heritage",
+      "phonetic": "Betekphon"
     },
     {
-      "char": "ពិធីបុណ្យ",
-      "name": "Festival / Ceremony (Piti bony)"
+      "word": "ពិធីបុណ្យ",
+      "translation": "Festival / Ceremony",
+      "phonetic": "Piti bony"
     },
     {
-      "char": "រាំ",
-      "name": "To Dance (Rom)"
+      "word": "រាំ",
+      "translation": "To Dance",
+      "phonetic": "Rom"
     },
     {
-      "char": "របាំអប្សរា",
-      "name": "Apsara Dance (Robam Apsara)"
+      "word": "របាំអប្សរា",
+      "translation": "Apsara Dance",
+      "phonetic": "Robam Apsara"
     },
     {
-      "char": "ថតរូប",
-      "name": "Photography (Thot rub)"
+      "word": "ថតរូប",
+      "translation": "Photography",
+      "phonetic": "Thot rub"
     },
     {
-      "char": "ជាងថតរូប",
-      "name": "Photographer (Cheang thot rub)"
+      "word": "ជាងថតរូប",
+      "translation": "Photographer",
+      "phonetic": "Cheang thot rub"
     },
     {
-      "char": "ពណ៌",
-      "name": "Color (Poa)"
+      "word": "ពណ៌",
+      "translation": "Color",
+      "phonetic": "Poa"
     },
     {
-      "char": "ថ្នាំលាប",
-      "name": "Paint (Thnam leab)"
+      "word": "ថ្នាំលាប",
+      "translation": "Paint",
+      "phonetic": "Thnam leab"
     },
     {
-      "char": "ក្រណាត់",
-      "name": "Canvas / Cloth (Kronot)"
+      "word": "ក្រណាត់",
+      "translation": "Canvas / Cloth",
+      "phonetic": "Kronot"
     },
     {
-      "char": "សសរស្តម្ភ",
-      "name": "Column / Pillar (Sasor stomp)"
+      "word": "សសរស្តម្ភ",
+      "translation": "Column / Pillar",
+      "phonetic": "Sasor stomp"
     },
     {
-      "char": "ការជ្រោះ",
-      "name": "Engraving / Carving (Kar chroah)"
+      "word": "ការជ្រោះ",
+      "translation": "Engraving / Carving",
+      "phonetic": "Kar chroah"
     },
     {
-      "char": "ឆាក",
-      "name": "Stage / Scene (Chak)"
+      "word": "ឆាក",
+      "translation": "Stage / Scene",
+      "phonetic": "Chak"
     },
     {
-      "char": "អ្នកនិពន្ធតន្ត្រី",
-      "name": "Composer (Nak nipon tontrei)"
+      "word": "អ្នកនិពន្ធតន្ត្រី",
+      "translation": "Composer",
+      "phonetic": "Nak nipon tontrei"
     },
     {
-      "char": "ទំនុកច្រៀង",
-      "name": "Lyrics (Tomnok chrieng)"
+      "word": "ទំនុកច្រៀង",
+      "translation": "Lyrics",
+      "phonetic": "Tomnok chrieng"
     },
     {
-      "char": "ចង្វាក់",
-      "name": "Rhythm / Beat (Chongvak)"
+      "word": "ចង្វាក់",
+      "translation": "Rhythm / Beat",
+      "phonetic": "Chongvak"
     },
     {
-      "char": "សូរស័ព្ទ",
-      "name": "Sound / Tone (Sorasap)"
+      "word": "សូរស័ព្ទ",
+      "translation": "Sound / Tone",
+      "phonetic": "Sorasap"
     },
     {
-      "char": "ការបញ្ចាំង",
-      "name": "Screening / Projection (Kar bonchang)"
+      "word": "ការបញ្ចាំង",
+      "translation": "Screening / Projection",
+      "phonetic": "Kar bonchang"
     },
     {
-      "char": "អំពើខ្មោច",
-      "name": "Shadow Puppetry (Ompoe khmoch)"
+      "word": "អំពើខ្មោច",
+      "translation": "Shadow Puppetry",
+      "phonetic": "Ompoe khmoch"
     },
     {
-      "char": "រឿងព្រេង",
-      "name": "Legend / Folklore (Roeung preng)"
+      "word": "រឿងព្រេង",
+      "translation": "Legend / Folklore",
+      "phonetic": "Roeung preng"
     },
     {
-      "char": "ចម្លាក់",
-      "name": "Carving / Relief (Chomlag)"
+      "word": "ចម្លាក់",
+      "translation": "Carving / Relief",
+      "phonetic": "Chomlag"
     },
     {
-      "char": "ទំនៀមទម្លាប់",
-      "name": "Custom / Habit (Tomniem tomlap)"
+      "word": "ទំនៀមទម្លាប់",
+      "translation": "Custom / Habit",
+      "phonetic": "Tomniem tomlap"
     }
   ]
 }

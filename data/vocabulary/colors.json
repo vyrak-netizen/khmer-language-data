@@ -1,54 +1,66 @@
 {
   "id": "colors",
   "label": "Colors",
-  "items": [
+  "words": [
     {
-      "char": "ពណ៌",
-      "name": "Color (Poa)"
+      "word": "ពណ៌",
+      "translation": "Color",
+      "phonetic": "Poa"
     },
     {
-      "char": "ក្រហម",
-      "name": "Red (Krahom)"
+      "word": "ក្រហម",
+      "translation": "Red",
+      "phonetic": "Krahom"
     },
     {
-      "char": "ខៀវ",
-      "name": "Blue (Khiev)"
+      "word": "ខៀវ",
+      "translation": "Blue",
+      "phonetic": "Khiev"
     },
     {
-      "char": "លឿង",
-      "name": "Yellow (Lueang)"
+      "word": "លឿង",
+      "translation": "Yellow",
+      "phonetic": "Lueang"
     },
     {
-      "char": "បៃតង",
-      "name": "Green (Baitong)"
+      "word": "បៃតង",
+      "translation": "Green",
+      "phonetic": "Baitong"
     },
     {
-      "char": "ខ្មៅ",
-      "name": "Black (Khmao)"
+      "word": "ខ្មៅ",
+      "translation": "Black",
+      "phonetic": "Khmao"
     },
     {
-      "char": "ស",
-      "name": "White (Sor)"
+      "word": "ស",
+      "translation": "White",
+      "phonetic": "Sor"
     },
     {
-      "char": "ផ្កាឈូក",
-      "name": "Pink (Phka chhouk)"
+      "word": "ផ្កាឈូក",
+      "translation": "Pink",
+      "phonetic": "Phka chhouk"
     },
     {
-      "char": "ទឹកក្រូច",
-      "name": "Orange (Tuek krouch)"
+      "word": "ទឹកក្រូច",
+      "translation": "Orange",
+      "phonetic": "Tuek krouch"
     },
     {
-      "char": "ស្វាយ",
-      "name": "Purple (Svay)"
+      "word": "ស្វាយ",
+      "translation": "Purple",
+      "phonetic": "Svay"
     },
     {
-      "char": "ត្នោត",
-      "name": "Brown (Tnot)"
+      "word": "ត្នោត",
+      "translation": "Brown",
+      "phonetic": "Tnot"
     },
     {
-      "char": "ប្រផេះ",
-      "name": "Grey (Prophes)"
+      "word": "ប្រផេះ",
+      "translation": "Grey",
+      "phonetic": "Prophes"
     }
   ]
 }

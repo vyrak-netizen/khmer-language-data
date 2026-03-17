@@ -1,86 +1,106 @@
 {
   "id": "fruits",
   "label": "Fruits",
-  "items": [
+  "words": [
     {
-      "char": "ផ្លែឈើ",
-      "name": "Fruit (Plae chheu)"
+      "word": "ផ្លែឈើ",
+      "translation": "Fruit",
+      "phonetic": "Plae chheu"
     },
     {
-      "char": "ចេក",
-      "name": "Banana (Chek)"
+      "word": "ចេក",
+      "translation": "Banana",
+      "phonetic": "Chek"
     },
     {
-      "char": "ស្វាយ",
-      "name": "Mango (Svay)"
+      "word": "ស្វាយ",
+      "translation": "Mango",
+      "phonetic": "Svay"
     },
     {
-      "char": "ដូង",
-      "name": "Coconut (Doung)"
+      "word": "ដូង",
+      "translation": "Coconut",
+      "phonetic": "Doung"
     },
     {
-      "char": "ក្រូច",
-      "name": "Orange (Krouch)"
+      "word": "ក្រូច",
+      "translation": "Orange",
+      "phonetic": "Krouch"
     },
     {
-      "char": "ល្ហុង",
-      "name": "Papaya (Lhong)"
+      "word": "ល្ហុង",
+      "translation": "Papaya",
+      "phonetic": "Lhong"
     },
     {
-      "char": "ម្នាស់",
-      "name": "Pineapple (Mnoas)"
+      "word": "ម្នាស់",
+      "translation": "Pineapple",
+      "phonetic": "Mnoas"
     },
     {
-      "char": "ឪឡឹក",
-      "name": "Watermelon (Ov luek)"
+      "word": "ឪឡឹក",
+      "translation": "Watermelon",
+      "phonetic": "Ov luek"
     },
     {
-      "char": "ផ្លែប៉ោម",
-      "name": "Apple (Plae paom)"
+      "word": "ផ្លែប៉ោម",
+      "translation": "Apple",
+      "phonetic": "Plae paom"
     },
     {
-      "char": "ទំពាំងបាយជូរ",
-      "name": "Grapes (Tompeang bay chu)"
+      "word": "ទំពាំងបាយជូរ",
+      "translation": "Grapes",
+      "phonetic": "Tompeang bay chu"
     },
     {
-      "char": "ក្រូចឆ្មា",
-      "name": "Lemon/Lime (Krouch chhma)"
+      "word": "ក្រូចឆ្មា",
+      "translation": "Lemon/Lime",
+      "phonetic": "Krouch chhma"
     },
     {
-      "char": "មង្ឃុត",
-      "name": "Mangosteen (Mongkhut)"
+      "word": "មង្ឃុត",
+      "translation": "Mangosteen",
+      "phonetic": "Mongkhut"
     },
     {
-      "char": "ធុរេន",
-      "name": "Durian (Thuren)"
+      "word": "ធុរេន",
+      "translation": "Durian",
+      "phonetic": "Thuren"
     },
     {
-      "char": "សាវម៉ាវ",
-      "name": "Rambutan (Sav mav)"
+      "word": "សាវម៉ាវ",
+      "translation": "Rambutan",
+      "phonetic": "Sav mav"
     },
     {
-      "char": "មៀន",
-      "name": "Longan (Mien)"
+      "word": "មៀន",
+      "translation": "Longan",
+      "phonetic": "Mien"
     },
     {
-      "char": "ត្នោត",
-      "name": "Palm Fruit (Tnot)"
+      "word": "ត្នោត",
+      "translation": "Palm Fruit",
+      "phonetic": "Tnot"
     },
     {
-      "char": "ខ្នុរ",
-      "name": "Jackfruit (Khnôr)"
+      "word": "ខ្នុរ",
+      "translation": "Jackfruit",
+      "phonetic": "Khnôr"
     },
     {
-      "char": "ចំពូ",
-      "name": "Rose Apple (Chompou)"
+      "word": "ចំពូ",
+      "translation": "Rose Apple",
+      "phonetic": "Chompou"
     },
     {
-      "char": "ទៀប",
-      "name": "Custard Apple (Tieb)"
+      "word": "ទៀប",
+      "translation": "Custard Apple",
+      "phonetic": "Tieb"
     },
     {
-      "char": "មាក់ប្រាង",
-      "name": "Marian Plum (Meak prang)"
+      "word": "មាក់ប្រាង",
+      "translation": "Marian Plum",
+      "phonetic": "Meak prang"
     }
   ]
 }

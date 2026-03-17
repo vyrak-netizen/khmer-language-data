@@ -1,74 +1,91 @@
 {
   "id": "family",
   "label": "Family",
-  "items": [
+  "words": [
     {
-      "char": "គ្រួសារ",
-      "name": "Family (Kruosa)"
+      "word": "គ្រួសារ",
+      "translation": "Family",
+      "phonetic": "Kruosa"
     },
     {
-      "char": "ម៉ាក់",
-      "name": "Mom (Mak)"
+      "word": "ម៉ាក់",
+      "translation": "Mom",
+      "phonetic": "Mak"
     },
     {
-      "char": "ប៉ា",
-      "name": "Dad (Pa)"
+      "word": "ប៉ា",
+      "translation": "Dad",
+      "phonetic": "Pa"
     },
     {
-      "char": "ម្តាយ",
-      "name": "Mother [Formal] (Mday)"
+      "word": "ម្តាយ",
+      "translation": "Mother [Formal]",
+      "phonetic": "Mday"
     },
     {
-      "char": "ឪពុក",
-      "name": "Father [Formal] (Ov puk)"
+      "word": "ឪពុក",
+      "translation": "Father [Formal]",
+      "phonetic": "Ov puk"
     },
     {
-      "char": "កូន",
-      "name": "Child (Koun)"
+      "word": "កូន",
+      "translation": "Child",
+      "phonetic": "Koun"
     },
     {
-      "char": "កូនប្រុស",
-      "name": "Son (Koun pros)"
+      "word": "កូនប្រុស",
+      "translation": "Son",
+      "phonetic": "Koun pros"
     },
     {
-      "char": "កូនស្រី",
-      "name": "Daughter (Koun srey)"
+      "word": "កូនស្រី",
+      "translation": "Daughter",
+      "phonetic": "Koun srey"
     },
     {
-      "char": "បងប្រុស",
-      "name": "Older Brother (Bong pros)"
+      "word": "បងប្រុស",
+      "translation": "Older Brother",
+      "phonetic": "Bong pros"
     },
     {
-      "char": "បងស្រី",
-      "name": "Older Sister (Bong srey)"
+      "word": "បងស្រី",
+      "translation": "Older Sister",
+      "phonetic": "Bong srey"
     },
     {
-      "char": "ប្អូនប្រុស",
-      "name": "Younger Brother (P'oun pros)"
+      "word": "ប្អូនប្រុស",
+      "translation": "Younger Brother",
+      "phonetic": "P'oun pros"
     },
     {
-      "char": "ប្អូនស្រី",
-      "name": "Younger Sister (P'oun srey)"
+      "word": "ប្អូនស្រី",
+      "translation": "Younger Sister",
+      "phonetic": "P'oun srey"
     },
     {
-      "char": "យាយ",
-      "name": "Grandmother (Yeay)"
+      "word": "យាយ",
+      "translation": "Grandmother",
+      "phonetic": "Yeay"
     },
     {
-      "char": "តា",
-      "name": "Grandfather (Ta)"
+      "word": "តា",
+      "translation": "Grandfather",
+      "phonetic": "Ta"
     },
     {
-      "char": "មិត្តភក្តិ",
-      "name": "Friend (Met pheak)"
+      "word": "មិត្តភក្តិ",
+      "translation": "Friend",
+      "phonetic": "Met pheak"
     },
     {
-      "char": "ប្តី",
-      "name": "Husband (Pdey)"
+      "word": "ប្តី",
+      "translation": "Husband",
+      "phonetic": "Pdey"
     },
     {
-      "char": "ប្រពន្ធ",
-      "name": "Wife (Propon)"
+      "word": "ប្រពន្ធ",
+      "translation": "Wife",
+      "phonetic": "Propon"
     }
   ]
 }

@@ -7,98 +7,98 @@
     6,
     6
   ],
-  "items": [
+  "words": [
     {
-      "char": "ា",
-      "name": "aa"
+      "word": "ា",
+      "translation": "aa"
     },
     {
-      "char": "ិ",
-      "name": "i"
+      "word": "ិ",
+      "translation": "i"
     },
     {
-      "char": "ី",
-      "name": "ii"
+      "word": "ី",
+      "translation": "ii"
     },
     {
-      "char": "ឹ",
-      "name": "ue"
+      "word": "ឹ",
+      "translation": "ue"
     },
     {
-      "char": "ឺ",
-      "name": "uue"
+      "word": "ឺ",
+      "translation": "uue"
     },
     {
-      "char": "ុ",
-      "name": "u"
+      "word": "ុ",
+      "translation": "u"
     },
     {
-      "char": "ូ",
-      "name": "uu"
+      "word": "ូ",
+      "translation": "uu"
     },
     {
-      "char": "ួ",
-      "name": "uoe"
+      "word": "ួ",
+      "translation": "uoe"
     },
     {
-      "char": "ើ",
-      "name": "aeu"
+      "word": "ើ",
+      "translation": "aeu"
     },
     {
-      "char": "ឿ",
-      "name": "uea"
+      "word": "ឿ",
+      "translation": "uea"
     },
     {
-      "char": "ៀ",
-      "name": "ie"
+      "word": "ៀ",
+      "translation": "ie"
     },
     {
-      "char": "េ",
-      "name": "ee"
+      "word": "េ",
+      "translation": "ee"
     },
     {
-      "char": "ែ",
-      "name": "ae"
+      "word": "ែ",
+      "translation": "ae"
     },
     {
-      "char": "ៃ",
-      "name": "ai"
+      "word": "ៃ",
+      "translation": "ai"
     },
     {
-      "char": "ោ",
-      "name": "oo"
+      "word": "ោ",
+      "translation": "oo"
     },
     {
-      "char": "ៅ",
-      "name": "au"
+      "word": "ៅ",
+      "translation": "au"
     },
     {
-      "char": "ុំ",
-      "name": "om"
+      "word": "ុំ",
+      "translation": "om"
     },
     {
-      "char": "ំ",
-      "name": "am"
+      "word": "ំ",
+      "translation": "am"
     },
     {
-      "char": "ាំ",
-      "name": "aam"
+      "word": "ាំ",
+      "translation": "aam"
     },
     {
-      "char": "ះ",
-      "name": "ah"
+      "word": "ះ",
+      "translation": "ah"
     },
     {
-      "char": "ុះ",
-      "name": "uh"
+      "word": "ុះ",
+      "translation": "uh"
     },
     {
-      "char": "េះ",
-      "name": "eh"
+      "word": "េះ",
+      "translation": "eh"
     },
     {
-      "char": "ោះ",
-      "name": "oh"
+      "word": "ោះ",
+      "translation": "oh"
     }
   ]
 }

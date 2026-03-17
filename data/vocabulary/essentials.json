@@ -1,162 +1,201 @@
 {
   "id": "essentials",
   "label": "Essentials & Verbs",
-  "items": [
+  "words": [
     {
-      "char": "សួស្តី",
-      "name": "Hello (Suostei)"
+      "word": "សួស្តី",
+      "translation": "Hello",
+      "phonetic": "Suostei"
     },
     {
-      "char": "បាទ",
-      "name": "Yes [Male] (Baat)"
+      "word": "បាទ",
+      "translation": "Yes [Male]",
+      "phonetic": "Baat"
     },
     {
-      "char": "ចាស",
-      "name": "Yes [Female] (Jaas)"
+      "word": "ចាស",
+      "translation": "Yes [Female]",
+      "phonetic": "Jaas"
     },
     {
-      "char": "ទេ",
-      "name": "No (Te)"
+      "word": "ទេ",
+      "translation": "No",
+      "phonetic": "Te"
     },
     {
-      "char": "អរគុណ",
-      "name": "Thank you (Orkun)"
+      "word": "អរគុណ",
+      "translation": "Thank you",
+      "phonetic": "Orkun"
     },
     {
-      "char": "សូម",
-      "name": "Please (Som)"
+      "word": "សូម",
+      "translation": "Please",
+      "phonetic": "Som"
     },
     {
-      "char": "សូមទោស",
-      "name": "Sorry / Excuse me (Som tos)"
+      "word": "សូមទោស",
+      "translation": "Sorry / Excuse me",
+      "phonetic": "Som tos"
     },
     {
-      "char": "លាហើយ",
-      "name": "Goodbye (Lea huey)"
+      "word": "លាហើយ",
+      "translation": "Goodbye",
+      "phonetic": "Lea huey"
     },
     {
-      "char": "ខ្ញុំ",
-      "name": "I / Me (Knhom)"
+      "word": "ខ្ញុំ",
+      "translation": "I / Me",
+      "phonetic": "Knhom"
     },
     {
-      "char": "អ្នក",
-      "name": "You (Neak)"
+      "word": "អ្នក",
+      "translation": "You",
+      "phonetic": "Neak"
     },
     {
-      "char": "គាត់",
-      "name": "He / She (Koat)"
+      "word": "គាត់",
+      "translation": "He / She",
+      "phonetic": "Koat"
     },
     {
-      "char": "ពួកយើង",
-      "name": "We (Puok yeung)"
+      "word": "ពួកយើង",
+      "translation": "We",
+      "phonetic": "Puok yeung"
     },
     {
-      "char": "គេ",
-      "name": "They (Ke)"
+      "word": "គេ",
+      "translation": "They",
+      "phonetic": "Ke"
     },
     {
-      "char": "នេះ",
-      "name": "This (Nih)"
+      "word": "នេះ",
+      "translation": "This",
+      "phonetic": "Nih"
     },
     {
-      "char": "នោះ",
-      "name": "That (Nuh)"
+      "word": "នោះ",
+      "translation": "That",
+      "phonetic": "Nuh"
     },
     {
-      "char": "ទៅ",
-      "name": "Go (Tov)"
+      "word": "ទៅ",
+      "translation": "Go",
+      "phonetic": "Tov"
     },
     {
-      "char": "មក",
-      "name": "Come (Mok)"
+      "word": "មក",
+      "translation": "Come",
+      "phonetic": "Mok"
     },
     {
-      "char": "ញ៉ាំ",
-      "name": "Eat (Nham)"
+      "word": "ញ៉ាំ",
+      "translation": "Eat",
+      "phonetic": "Nham"
     },
     {
-      "char": "ផឹក",
-      "name": "Drink (Phok)"
+      "word": "ផឹក",
+      "translation": "Drink",
+      "phonetic": "Phok"
     },
     {
-      "char": "ចង់",
-      "name": "Want (Chong)"
+      "word": "ចង់",
+      "translation": "Want",
+      "phonetic": "Chong"
     },
     {
-      "char": "មាន",
-      "name": "Have (Mean)"
+      "word": "មាន",
+      "translation": "Have",
+      "phonetic": "Mean"
     },
     {
-      "char": "ធ្វើ",
-      "name": "Do / Make (Thveu)"
+      "word": "ធ្វើ",
+      "translation": "Do / Make",
+      "phonetic": "Thveu"
     },
     {
-      "char": "ដឹង",
-      "name": "Know (Deung)"
+      "word": "ដឹង",
+      "translation": "Know",
+      "phonetic": "Deung"
     },
     {
-      "char": "យល់",
-      "name": "Understand (Yol)"
+      "word": "យល់",
+      "translation": "Understand",
+      "phonetic": "Yol"
     },
     {
-      "char": "អាច",
-      "name": "Can (Ach)"
+      "word": "អាច",
+      "translation": "Can",
+      "phonetic": "Ach"
     },
     {
-      "char": "ចូលចិត្ត",
-      "name": "Like (Choul chet)"
+      "word": "ចូលចិត្ត",
+      "translation": "Like",
+      "phonetic": "Choul chet"
     },
     {
-      "char": "សុខសប្បាយទេ",
-      "name": "How are you? (Sok sabay te?)"
+      "word": "សុខសប្បាយទេ",
+      "translation": "How are you?",
+      "phonetic": "Sok sabay te?"
     },
     {
-      "char": "ល្អ",
-      "name": "Good (La'or)"
+      "word": "ល្អ",
+      "translation": "Good",
+      "phonetic": "La'or"
     },
     {
-      "char": "អាក្រក់",
-      "name": "Bad (Akrok)"
+      "word": "អាក្រក់",
+      "translation": "Bad",
+      "phonetic": "Akrok"
     },
     {
-      "char": "ធំ",
-      "name": "Big (Thom)"
+      "word": "ធំ",
+      "translation": "Big",
+      "phonetic": "Thom"
     },
     {
-      "char": "តូច",
-      "name": "Small (Touch)"
+      "word": "តូច",
+      "translation": "Small",
+      "phonetic": "Touch"
     },
     {
-      "char": "ច្រើន",
-      "name": "A lot / Much (Chraen)"
+      "word": "ច្រើន",
+      "translation": "A lot / Much",
+      "phonetic": "Chraen"
     },
     {
-      "char": "តិច",
-      "name": "A little (Tech)"
+      "word": "តិច",
+      "translation": "A little",
+      "phonetic": "Tech"
     },
     {
-      "char": "អ្វី",
-      "name": "What (Avey)"
+      "word": "អ្វី",
+      "translation": "What",
+      "phonetic": "Avey"
     },
     {
-      "char": "នៅឯណា",
-      "name": "Where (Nov aena)"
+      "word": "នៅឯណា",
+      "translation": "Where",
+      "phonetic": "Nov aena"
     },
     {
-      "char": "ពេលណា",
-      "name": "When (Pel na)"
+      "word": "ពេលណា",
+      "translation": "When",
+      "phonetic": "Pel na"
     },
     {
-      "char": "ហេតុអ្វី",
-      "name": "Why (Het avey)"
+      "word": "ហេតុអ្វី",
+      "translation": "Why",
+      "phonetic": "Het avey"
     },
     {
-      "char": "អ្នកណា",
-      "name": "Who (Neak na)"
+      "word": "អ្នកណា",
+      "translation": "Who",
+      "phonetic": "Neak na"
     },
     {
-      "char": "ប៉ុន្មាន",
-      "name": "How much / How many (Ponman)"
+      "word": "ប៉ុន្មាន",
+      "translation": "How much / How many",
+      "phonetic": "Ponman"
     }
   ]
 }

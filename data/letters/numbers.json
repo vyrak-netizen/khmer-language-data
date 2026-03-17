@@ -5,46 +5,56 @@
     5,
     5
   ],
-  "items": [
+  "words": [
     {
-      "char": "០",
-      "name": "Zero (Soun)"
+      "word": "០",
+      "translation": "Zero",
+      "phonetic": "Soun"
     },
     {
-      "char": "១",
-      "name": "One (Muoy)"
+      "word": "១",
+      "translation": "One",
+      "phonetic": "Muoy"
     },
     {
-      "char": "២",
-      "name": "Two (Pir)"
+      "word": "២",
+      "translation": "Two",
+      "phonetic": "Pir"
     },
     {
-      "char": "៣",
-      "name": "Three (Bei)"
+      "word": "៣",
+      "translation": "Three",
+      "phonetic": "Bei"
     },
     {
-      "char": "៤",
-      "name": "Four (Buon)"
+      "word": "៤",
+      "translation": "Four",
+      "phonetic": "Buon"
     },
     {
-      "char": "៥",
-      "name": "Five (Pram)"
+      "word": "៥",
+      "translation": "Five",
+      "phonetic": "Pram"
     },
     {
-      "char": "៦",
-      "name": "Six (Pram-muoy)"
+      "word": "៦",
+      "translation": "Six",
+      "phonetic": "Pram-muoy"
     },
     {
-      "char": "៧",
-      "name": "Seven (Pram-pir)"
+      "word": "៧",
+      "translation": "Seven",
+      "phonetic": "Pram-pir"
     },
     {
-      "char": "៨",
-      "name": "Eight (Pram-bei)"
+      "word": "៨",
+      "translation": "Eight",
+      "phonetic": "Pram-bei"
     },
     {
-      "char": "៩",
-      "name": "Nine (Pram-buon)"
+      "word": "៩",
+      "translation": "Nine",
+      "phonetic": "Pram-buon"
     }
   ]
 }

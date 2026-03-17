@@ -6,58 +6,58 @@
     4,
     4
   ],
-  "items": [
+  "words": [
     {
-      "char": "ឥ",
-      "name": "E"
+      "word": "ឥ",
+      "translation": "E"
     },
     {
-      "char": "ឦ",
-      "name": "Ey"
+      "word": "ឦ",
+      "translation": "Ey"
     },
     {
-      "char": "ឧ",
-      "name": "U"
+      "word": "ឧ",
+      "translation": "U"
     },
     {
-      "char": "ឨ",
-      "name": "Uu"
+      "word": "ឨ",
+      "translation": "Uu"
     },
     {
-      "char": "ឪ",
-      "name": "Ov"
+      "word": "ឪ",
+      "translation": "Ov"
     },
     {
-      "char": "ឫ",
-      "name": "Rue"
+      "word": "ឫ",
+      "translation": "Rue"
     },
     {
-      "char": "ឬ",
-      "name": "Ruue"
+      "word": "ឬ",
+      "translation": "Ruue"
     },
     {
-      "char": "ឭ",
-      "name": "Lue"
+      "word": "ឭ",
+      "translation": "Lue"
     },
     {
-      "char": "ឮ",
-      "name": "Luue"
+      "word": "ឮ",
+      "translation": "Luue"
     },
     {
-      "char": "ឯ",
-      "name": "Ae"
+      "word": "ឯ",
+      "translation": "Ae"
     },
     {
-      "char": "ឰ",
-      "name": "Ai"
+      "word": "ឰ",
+      "translation": "Ai"
     },
     {
-      "char": "ឱ",
-      "name": "Ao"
+      "word": "ឱ",
+      "translation": "Ao"
     },
     {
-      "char": "ឲ",
-      "name": "Aoy"
+      "word": "ឲ",
+      "translation": "Aoy"
     }
   ]
 }

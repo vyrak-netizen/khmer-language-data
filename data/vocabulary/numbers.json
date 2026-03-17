@@ -1,98 +1,121 @@
 {
   "id": "numbers",
   "label": "Numbers",
-  "items": [
+  "words": [
     {
-      "char": "សូន្យ",
-      "name": "Zero (Soun)"
+      "word": "សូន្យ",
+      "translation": "Zero",
+      "phonetic": "Soun"
     },
     {
-      "char": "មួយ",
-      "name": "One (Muoy)"
+      "word": "មួយ",
+      "translation": "One",
+      "phonetic": "Muoy"
     },
     {
-      "char": "ពីរ",
-      "name": "Two (Pii)"
+      "word": "ពីរ",
+      "translation": "Two",
+      "phonetic": "Pii"
     },
     {
-      "char": "បី",
-      "name": "Three (Bei)"
+      "word": "បី",
+      "translation": "Three",
+      "phonetic": "Bei"
     },
     {
-      "char": "បួន",
-      "name": "Four (Buon)"
+      "word": "បួន",
+      "translation": "Four",
+      "phonetic": "Buon"
     },
     {
-      "char": "ប្រាំ",
-      "name": "Five (Pram)"
+      "word": "ប្រាំ",
+      "translation": "Five",
+      "phonetic": "Pram"
     },
     {
-      "char": "ប្រាំមួយ",
-      "name": "Six (Pram muoy)"
+      "word": "ប្រាំមួយ",
+      "translation": "Six",
+      "phonetic": "Pram muoy"
     },
     {
-      "char": "ប្រាំពីរ",
-      "name": "Seven (Pram pii)"
+      "word": "ប្រាំពីរ",
+      "translation": "Seven",
+      "phonetic": "Pram pii"
     },
     {
-      "char": "ប្រាំបី",
-      "name": "Eight (Pram bei)"
+      "word": "ប្រាំបី",
+      "translation": "Eight",
+      "phonetic": "Pram bei"
     },
     {
-      "char": "ប្រាំបួន",
-      "name": "Nine (Pram buon)"
+      "word": "ប្រាំបួន",
+      "translation": "Nine",
+      "phonetic": "Pram buon"
     },
     {
-      "char": "ដប់",
-      "name": "Ten (Dop)"
+      "word": "ដប់",
+      "translation": "Ten",
+      "phonetic": "Dop"
     },
     {
-      "char": "ដប់មួយ",
-      "name": "Eleven (Dop muoy)"
+      "word": "ដប់មួយ",
+      "translation": "Eleven",
+      "phonetic": "Dop muoy"
     },
     {
-      "char": "ម្ភៃ",
-      "name": "Twenty (Mphei)"
+      "word": "ម្ភៃ",
+      "translation": "Twenty",
+      "phonetic": "Mphei"
     },
     {
-      "char": "សាមសិប",
-      "name": "Thirty (Sam sep)"
+      "word": "សាមសិប",
+      "translation": "Thirty",
+      "phonetic": "Sam sep"
     },
     {
-      "char": "សែសិប",
-      "name": "Forty (Sae sep)"
+      "word": "សែសិប",
+      "translation": "Forty",
+      "phonetic": "Sae sep"
     },
     {
-      "char": "ហាសិប",
-      "name": "Fifty (Ha sep)"
+      "word": "ហាសិប",
+      "translation": "Fifty",
+      "phonetic": "Ha sep"
     },
     {
-      "char": "ហុកសិប",
-      "name": "Sixty (Hok sep)"
+      "word": "ហុកសិប",
+      "translation": "Sixty",
+      "phonetic": "Hok sep"
     },
     {
-      "char": "ចិតសិប",
-      "name": "Seventy (Chet sep)"
+      "word": "ចិតសិប",
+      "translation": "Seventy",
+      "phonetic": "Chet sep"
     },
     {
-      "char": "ប៉ែតសិប",
-      "name": "Eighty (Paet sep)"
+      "word": "ប៉ែតសិប",
+      "translation": "Eighty",
+      "phonetic": "Paet sep"
     },
     {
-      "char": "កៅសិប",
-      "name": "Ninety (Kao sep)"
+      "word": "កៅសិប",
+      "translation": "Ninety",
+      "phonetic": "Kao sep"
     },
     {
-      "char": "មួយរយ",
-      "name": "One Hundred (Muoy roy)"
+      "word": "មួយរយ",
+      "translation": "One Hundred",
+      "phonetic": "Muoy roy"
     },
     {
-      "char": "មួយពាន់",
-      "name": "One Thousand (Muoy poan)"
+      "word": "មួយពាន់",
+      "translation": "One Thousand",
+      "phonetic": "Muoy poan"
     },
     {
-      "char": "មួយម៉ឺន",
-      "name": "Ten Thousand (Muoy meun)"
+      "word": "មួយម៉ឺន",
+      "translation": "Ten Thousand",
+      "phonetic": "Muoy meun"
     }
   ]
 }

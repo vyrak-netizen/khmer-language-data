@@ -1,6 +1,10 @@
 {
   "id": "family",
   "label": "Family",
+  "chunkSizes": [
+    8,
+    9
+  ],
   "words": [
     {
       "word": "គ្រួសារ",

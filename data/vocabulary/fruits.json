@@ -1,6 +1,10 @@
 {
   "id": "fruits",
   "label": "Fruits",
+  "chunkSizes": [
+    10,
+    10
+  ],
   "words": [
     {
       "word": "ផ្លែឈើ",

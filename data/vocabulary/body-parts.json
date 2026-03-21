@@ -1,6 +1,12 @@
 {
   "id": "body-parts",
   "label": "Body Parts",
+  "chunkSizes": [
+    10,
+    10,
+    10,
+    10
+  ],
   "words": [
     {
       "word": "ក្បាល",

@@ -1,12 +1,10 @@
 {
   "id": "days",
   "label": "Days of the Week",
+  "chunkSizes": [
+    11
+  ],
   "words": [
-    {
-      "word": "ថ្ងៃ",
-      "translation": "Day",
-      "phonetic": "Thngai"
-    },
     {
       "word": "ថ្ងៃច័ន្ទ",
       "translation": "Monday",
@@ -41,6 +39,11 @@
       "word": "ថ្ងៃអាទិត្យ",
       "translation": "Sunday",
       "phonetic": "Thngai Atet"
+    },
+    {
+      "word": "ថ្ងៃ",
+      "translation": "Day",
+      "phonetic": "Thngai"
     },
     {
       "word": "ថ្ងៃនេះ",

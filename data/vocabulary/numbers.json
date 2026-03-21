@@ -1,6 +1,11 @@
 {
   "id": "numbers",
   "label": "Numbers",
+  "chunkSizes": [
+    10,
+    9,
+    3
+  ],
   "words": [
     {
       "word": "សូន្យ",
@@ -56,11 +61,6 @@
       "word": "ដប់",
       "translation": "Ten",
       "phonetic": "Dop"
-    },
-    {
-      "word": "ដប់មួយ",
-      "translation": "Eleven",
-      "phonetic": "Dop muoy"
     },
     {
       "word": "ម្ភៃ",

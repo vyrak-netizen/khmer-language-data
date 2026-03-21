@@ -1,6 +1,9 @@
 {
   "id": "colors",
   "label": "Colors",
+  "chunkSizes": [
+    12
+  ],
   "words": [
     {
       "word": "ពណ៌",

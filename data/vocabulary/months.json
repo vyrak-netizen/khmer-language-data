@@ -1,12 +1,10 @@
 {
   "id": "months",
   "label": "Months",
+  "chunkSizes": [
+    14
+  ],
   "words": [
-    {
-      "word": "ខែ",
-      "translation": "Month",
-      "phonetic": "Khae"
-    },
     {
       "word": "មករា",
       "translation": "January",
@@ -66,6 +64,11 @@
       "word": "ធ្នូ",
       "translation": "December",
       "phonetic": "Thnou"
+    },
+    {
+      "word": "ខែ",
+      "translation": "Month",
+      "phonetic": "Khae"
     },
     {
       "word": "ឆ្នាំ",

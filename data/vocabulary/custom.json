@@ -1,6 +1,9 @@
 {
   "id": "custom",
   "label": "By Me",
+  "chunkSizes": [
+    11
+  ],
   "words": [
     {
       "word": "គុណភាព",

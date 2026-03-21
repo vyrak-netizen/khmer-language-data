@@ -1,6 +1,12 @@
 {
   "id": "technology",
   "label": "Technology",
+  "chunkSizes": [
+    10,
+    10,
+    10,
+    9
+  ],
   "words": [
     {
       "word": "ទូរស័ព្ទ",

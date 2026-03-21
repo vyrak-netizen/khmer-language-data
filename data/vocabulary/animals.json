@@ -1,6 +1,9 @@
 {
   "id": "animals",
   "label": "Animals",
+  "chunkSizes": [
+    15
+  ],
   "words": [
     {
       "word": "សត្វ",

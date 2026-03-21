@@ -1,6 +1,12 @@
 {
   "id": "essentials",
   "label": "Essentials & Verbs",
+  "chunkSizes": [
+    10,
+    10,
+    10,
+    9
+  ],
   "words": [
     {
       "word": "សួស្តី",

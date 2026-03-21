@@ -1,6 +1,11 @@
 {
   "id": "vegetables",
   "label": "Vegetables",
+  "chunkSizes": [
+    10,
+    10,
+    11
+  ],
   "words": [
     {
       "word": "បន្លែ",

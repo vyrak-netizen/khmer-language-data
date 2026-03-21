@@ -1,6 +1,12 @@
 {
   "id": "business",
   "label": "Business & Work",
+  "chunkSizes": [
+    10,
+    10,
+    10,
+    9
+  ],
   "words": [
     {
       "word": "លុយ",

@@ -1,10 +1,5 @@
 [
   {
-    "id": "custom",
-    "label": "By Me",
-    "file": "custom.json"
-  },
-  {
     "id": "essentials",
     "label": "Essentials & Verbs",
     "file": "essentials.json"
